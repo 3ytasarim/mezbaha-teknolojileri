@@ -2,9 +2,22 @@ import type { Metadata } from "next";
 import { buildMetadata } from "@/lib/seo/metadata";
 import { getLocale } from "@/lib/i18n/server";
 import { getDictionary } from "@/lib/i18n/dictionaries";
+import { DEFAULT_LOCALE } from "@/lib/i18n/config";
 import { webPageGraphJsonLd, jsonLdScriptProps } from "@/lib/seo/json-ld";
 import { getLocalImageMeta } from "@/lib/seo/image-meta";
+import { getSiteUrl } from "@/lib/seo/site";
 import { HERO } from "@/content/home";
+
+/**
+ * Apex kanonik adresin (https://www.mezbahateknolojileri.com/ — önek yok, DEFAULT_LOCALE="en")
+ * WhatsApp/sosyal medya paylaşım önizlemesi için özel Türkçe OG ve Twitter metni + görsel. Yalnızca
+ * bu paylaşım etiketlerini değiştirir — sayfanın gerçek İngilizce title/description'ı (Google için)
+ * ve diğer dillerin (/tr, /de, ...) kendi metadata'sı DOKUNULMAZ (bkz. src/lib/seo/metadata.ts).
+ */
+const APEX_OG_TITLE = "Mezbaha Teknolojileri | Modern Kesim ve Et İşleme Sistemleri";
+const APEX_OG_DESCRIPTION =
+  "Mezbaha, kesimhane ve et işleme tesisleri için modern kesim hatları, ekipmanlar ve endüstriyel çözümler.";
+const APEX_OG_IMAGE_PATH = "/images/og/mezbaha-teknolojileri-og.jpg";
 
 import { Hero } from "@/components/home/hero";
 import { Intro } from "@/components/home/intro";
@@ -23,7 +36,21 @@ export async function generateMetadata(): Promise<Metadata> {
   const locale = await getLocale();
   const d = getDictionary(locale).home.meta;
   const base = await buildMetadata({ title: d.title, description: d.description, path: "/", locale });
-  return { ...base, title: { absolute: d.title } };
+
+  if (locale !== DEFAULT_LOCALE) {
+    return { ...base, title: { absolute: d.title } };
+  }
+
+  const ogImageMeta = await getLocalImageMeta(APEX_OG_IMAGE_PATH);
+  const ogImageUrl = new URL(APEX_OG_IMAGE_PATH, getSiteUrl()).toString();
+  const ogImage = { url: ogImageUrl, ...(ogImageMeta ? { width: ogImageMeta.width, height: ogImageMeta.height, type: ogImageMeta.type } : {}) };
+
+  return {
+    ...base,
+    title: { absolute: d.title },
+    openGraph: { ...base.openGraph, title: APEX_OG_TITLE, description: APEX_OG_DESCRIPTION, images: [ogImage] },
+    twitter: { ...base.twitter, title: APEX_OG_TITLE, description: APEX_OG_DESCRIPTION, images: [ogImageUrl] },
+  };
 }
 
 export default async function HomePage() {
