@@ -10,13 +10,13 @@ import { HERO } from "@/content/home";
 
 /**
  * Apex kanonik adresin (https://www.mezbahateknolojileri.com/ — önek yok, DEFAULT_LOCALE="en")
- * WhatsApp/sosyal medya paylaşım önizlemesi için özel Türkçe OG ve Twitter metni + görsel. Yalnızca
- * bu paylaşım etiketlerini değiştirir — sayfanın gerçek İngilizce title/description'ı (Google için)
+ * WhatsApp/sosyal medya paylaşım önizlemesi için özel OG ve Twitter metni + görsel. Yalnızca
+ * bu paylaşım etiketlerini değiştirir — sayfanın gerçek title/description'ı (Google için)
  * ve diğer dillerin (/tr, /de, ...) kendi metadata'sı DOKUNULMAZ (bkz. src/lib/seo/metadata.ts).
  */
-const APEX_OG_TITLE = "Mezbaha Teknolojileri | Modern Kesim ve Et İşleme Sistemleri";
+const APEX_OG_TITLE = "Slaughterhouse Technologies | Modern Slaughtering & Meat Processing Systems";
 const APEX_OG_DESCRIPTION =
-  "Mezbaha, kesimhane ve et işleme tesisleri için modern kesim hatları, ekipmanlar ve endüstriyel çözümler.";
+  "Modern slaughtering lines, equipment and industrial solutions for slaughterhouses and meat processing facilities.";
 const APEX_OG_IMAGE_PATH = "/images/og/mezbaha-teknolojileri-og.jpg";
 
 import { Hero } from "@/components/home/hero";

@@ -30,6 +30,7 @@ export async function generateMetadata({
     title: translation?.seoTitle || translation?.name || category.slug,
     description: translation?.seoDescription || translation?.shortDescription || "",
     path: `/urunler/${slugOf(category, locale)}`,
+    ogImage: category.image || undefined,
     locale,
     alternates: entityAlternates("/urunler", await getLocaleSlugs("category", category.id, category.slug)) ?? false,
   });

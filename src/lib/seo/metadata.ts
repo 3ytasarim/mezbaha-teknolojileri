@@ -5,8 +5,12 @@ import { DEFAULT_LOCALE, LOCALE_META, type Locale } from "@/lib/i18n/config";
 import { localizePath } from "@/lib/i18n/routes";
 import { staticAlternates } from "@/lib/i18n/alternates";
 
-/** Tüm sayfalar için yedek paylaşım görseli (projede mevcut hero varlığı). */
-const DEFAULT_OG_IMAGE = "/images/hero/mezbaha-tesisi-hero.png";
+/**
+ * Kendi görseli olmayan sayfalar için yedek paylaşım görseli (marka görseli — logo + başlık).
+ * Ürün/blog/proje/hizmet detay sayfaları kendi kapak görselini geçtiği için bunu hiç kullanmaz;
+ * Hakkımızda, İletişim, Ürünler/Projeler/Hizmetler/Blog listeleme sayfaları vb. bunu kullanır.
+ */
+const DEFAULT_OG_IMAGE = "/images/og/mezbaha-teknolojileri-og.jpg";
 
 /**
  * Kaynak sitedeki (Yoast) seoTitle değerleri sonlarında marka adını zaten taşıyor; layout
