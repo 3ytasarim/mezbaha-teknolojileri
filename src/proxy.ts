@@ -21,6 +21,14 @@ export async function proxy(request: NextRequest) {
   const { pathname, search } = request.nextUrl;
   const base = redirectBase(request);
 
+  // Locale rewrite'i aynı Next.js sunucusuna ikinci bir internal istek oluşturur.
+  // İlk geçiş proxy tarafından x-lang başlığını zaten belirlediyse onu koru;
+  // aksi halde internal pathname (örn. "/") dili tekrar DEFAULT_LOCALE'a çevirebilir.
+  const forwardedLocale = request.headers.get(LANG_HEADER);
+  if (isEnabledLocale(forwardedLocale)) {
+    return NextResponse.next();
+  }
+
   if (pathname.startsWith("/admin") && pathname !== "/admin/login") {
     const hasSession = request.cookies.has(SESSION_COOKIE);
     if (!hasSession) {
