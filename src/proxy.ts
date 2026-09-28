@@ -57,8 +57,13 @@ export async function proxy(request: NextRequest) {
   }
   headers.set(LANG_HEADER, locale);
   if (internalPath === pathname) return NextResponse.next({ request: { headers } });
-  const url = request.nextUrl.clone();
+  // Bu yalnızca sunucu içi rewrite'tır; ziyaretçinin görünen HTTPS URL'sini değiştirmez.
+  // Next.js nginx arkasında request.nextUrl'yi https://localhost:<port> olarak kurabildiği için
+  // internal upstream rewrite'ında gerçek Next.js protokolü olan HTTP kullanılmalıdır.
+  const url = new URL(request.url);
+  url.protocol = "http:";
   url.pathname = internalPath;
+  url.search = search;
   return NextResponse.rewrite(url, { request: { headers } });
 }
 
