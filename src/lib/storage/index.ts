@@ -1,5 +1,6 @@
 import type { StorageProvider } from "./types";
 import { localStorageProvider } from "./local";
+import { s3StorageProvider } from "./s3";
 
 function createStorageProvider(): StorageProvider {
   const provider = process.env.STORAGE_PROVIDER ?? "local";
@@ -7,11 +8,10 @@ function createStorageProvider(): StorageProvider {
   switch (provider) {
     case "local":
       return localStorageProvider;
+    case "s3":
+      return s3StorageProvider;
     default:
-      throw new Error(
-        `STORAGE_PROVIDER="${provider}" desteklenmiyor. Şu an yalnızca "local" implementasyonu mevcut; ` +
-          `S3-uyumlu (STORAGE_ENDPOINT/STORAGE_BUCKET/...) implementasyon ileride eklenecektir.`
-      );
+      throw new Error(`STORAGE_PROVIDER="${provider}" desteklenmiyor. Geçerli değerler: "local", "s3".`);
   }
 }
 

@@ -1,6 +1,7 @@
 import { existsSync } from "node:fs";
 import { join } from "node:path";
 import sharp from "sharp";
+import { getBucketObject } from "@/lib/storage/s3";
 
 /**
  * `/public` altındaki YEREL görsellerin gerçek genişlik/yükseklik/mime bilgisini dosya başlığından okur
@@ -46,6 +47,22 @@ export async function getLocalImageMeta(publicPath: string | undefined | null): 
       }
     } catch {
       // sıradaki adaya geç
+    }
+  }
+
+  // Yerelde yoksa (görseller kovada tutuluyorsa) kovadan okunur: /images/x.png → anahtar "images/x.png".
+  if (!result && process.env.STORAGE_PROVIDER === "s3" && /^\/(images|uploads)\//.test(publicPath)) {
+    try {
+      const object = await getBucketObject(publicPath.slice(1));
+      if (object && object !== "not-modified" && object.Body) {
+        const buffer = Buffer.from(await object.Body.transformToByteArray());
+        const meta = await sharp(buffer).metadata();
+        if (meta.width && meta.height && meta.format) {
+          result = { width: meta.width, height: meta.height, type: MIME_BY_FORMAT[meta.format] ?? `image/${meta.format}` };
+        }
+      }
+    } catch {
+      result = null;
     }
   }
 
