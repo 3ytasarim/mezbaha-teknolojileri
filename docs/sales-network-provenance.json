@@ -1,0 +1,72 @@
+{
+  "sourcePage": "https://www.mezbahateknolojileri.com/tr/satis-agi/",
+  "importedAt": "2026-09-25T08:49:19.200Z",
+  "flags": [
+    {
+      "slug": "almanya",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1535802071.jpg",
+      "sha256": "1d4d61fca9ad38900a3e29601355febbd7ad74c94cfba8ea019bb8d9b23d3d09",
+      "bytes": 1010
+    },
+    {
+      "slug": "belcika",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1535802066.jpg",
+      "sha256": "93a622da8fc600dff1e51e6a284c4b3c65371f519787cb1807cf9dc29ef79f07",
+      "bytes": 939
+    },
+    {
+      "slug": "rusya",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1535802061.jpg",
+      "sha256": "3dbcfe77878c63c11080795f45e13139b0a2ec85148a4ace491db4472768a54a",
+      "bytes": 948
+    },
+    {
+      "slug": "turkmenistan",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1535802052.jpg",
+      "sha256": "ec65c4c465970167f485358724ce9bd961afcb79e4ae44952573891c361816a2",
+      "bytes": 1066
+    },
+    {
+      "slug": "kazakistan",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1535802041.jpg",
+      "sha256": "946e5417151fe5a19bdbac0331baa5a64104625911bfffdf112ee87e66165df3",
+      "bytes": 975
+    },
+    {
+      "slug": "arabistan",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1535802035.jpg",
+      "sha256": "584af058d78724904feac09ebf3ba54c916252f73c47f2140d82fdb4eee31b14",
+      "bytes": 1022
+    },
+    {
+      "slug": "makedonya",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1535802030.jpg",
+      "sha256": "9c4d214ea55f0c5edbd0c5e6d94f895d268f1b23ec414c47251b1d5336fa633b",
+      "bytes": 1365
+    },
+    {
+      "slug": "azerbaycan",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1535802023.jpg",
+      "sha256": "ffb02ef9704b450bbfba0cd6372fc993f804c72f83c4d207706ecb691feb0c7c",
+      "bytes": 1023
+    },
+    {
+      "slug": "gurcistan",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1535802016.jpg",
+      "sha256": "3d24f3ea8695fe085fe8b0c7d80cb7109f9dc6ed1ad3ab85a51155f1100b2204",
+      "bytes": 1277
+    },
+    {
+      "slug": "tunus",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1535802011.jpg",
+      "sha256": "9885564ecad22cf56e06a485ca9efe276d968778ef0eddaa6155812a2dd087d1",
+      "bytes": 1019
+    },
+    {
+      "slug": "fas",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1535802004.jpg",
+      "sha256": "af5899dd7d350e968109e3170e2ee50ed7322a27f384c8a0bbc1580490f14c97",
+      "bytes": 852
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "sectionTitle": "PRESENTATİON",
+  "sourcePage": "https://www.mezbahateknolojileri.com/tr/",
+  "background": "/images/presentation/presentation-bg.png",
+  "items": [
+    {
+      "id": "proje-1",
+      "country": "NETHERLANDS",
+      "title": "SLAUGHTERHOUSE IN NETHERLANDS",
+      "city": "HARDERWICJK",
+      "type": "SLAUGHTERHOUSE",
+      "capacity": "180 SHEEP / HOUR",
+      "image": "/images/presentation/proje-01.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971351.webp",
+      "projectSlug": "hollanda-harderwijk"
+    },
+    {
+      "id": "proje-2",
+      "country": "AZERBAIJAN",
+      "title": "SLAUGHTERHOUSE IN AZERBAIJAN",
+      "city": "GOBUSTAN",
+      "type": "SLAUGHTERHOUSE",
+      "capacity": "150 CATTLE 1500 SHEEP",
+      "image": "/images/presentation/proje-02.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971590.webp",
+      "projectSlug": "azerbaycan-gobustan"
+    },
+    {
+      "id": "proje-3",
+      "country": "QATAR",
+      "title": "SLAUGHTERHOUSE IN QATAR",
+      "city": "AL KHOOR",
+      "type": "SLAUGHTERHOUSE",
+      "capacity": "100 CATTLE PER SHIFT",
+      "image": "/images/presentation/proje-03.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971372.webp",
+      "projectSlug": "katar-al-khoor"
+    },
+    {
+      "id": "proje-4",
+      "country": "PORTO RICO",
+      "title": "ROTATION CATTLE BOXPORTO RICO",
+      "city": "SAN JUAN",
+      "type": "ROTATION CATTLE BOX",
+      "capacity": "60 CATTLE-HOUR",
+      "image": "/images/presentation/proje-04.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971143.webp",
+      "projectSlug": "porto-riko-san-juan"
+    },
+    {
+      "id": "proje-5",
+      "country": "MOROCCO",
+      "title": "MODERN SLAUGHTERHOUSE MOROCCO",
+      "city": "KENITRA",
+      "type": "SLAUGHTERHOUSE",
+      "capacity": "500 CATTLE 3000 SHEEP",
+      "image": "/images/presentation/proje-05.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971477.webp",
+      "projectSlug": "fas-kenitra"
+    },
+    {
+      "id": "proje-6",
+      "country": "KIRGIZISTAN",
+      "title": "SLAUGHTERHOUSE IN KYRGYZSTAN",
+      "city": "KARAKOL",
+      "type": "SLAUGHTERHOUSE",
+      "capacity": "200 CATTLE 1500 SHEEP",
+      "image": "/images/presentation/proje-06.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971451.webp",
+      "projectSlug": "kirgizistan-karakol"
+    },
+    {
+      "id": "proje-7",
+      "country": "GEORGIA",
+      "title": "SLAUGHTERHOUSE IN GEORGIA",
+      "city": "KHASHURI",
+      "type": "SLAUGHTERHOUSE",
+      "capacity": "25 CATTLE 25 PIG",
+      "image": "/images/presentation/proje-07.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971806.webp",
+      "projectSlug": "gurcistan-khashuri"
+    },
+    {
+      "id": "proje-8",
+      "country": "TURKMENISTAN",
+      "title": "SLAUGHTERHOUSE IN TURKMENISTAN",
+      "city": "ASKABAT",
+      "type": "SLAUGHTERHOUSE",
+      "capacity": "100 CATTLE 300 SHEEP",
+      "image": "/images/presentation/proje-08.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971848.webp",
+      "projectSlug": "turkmenistan-askabat"
+    },
+    {
+      "id": "proje-9",
+      "country": "ARGENTINA",
+      "title": "CATTLE DEHIDING IN ARGENTINA",
+      "city": "BUENOS AIRES",
+      "type": "LEATHER SKINNING",
+      "capacity": "100 CATTLE-HOUR",
+      "image": "/images/presentation/proje-09.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971186.webp",
+      "projectSlug": "arjantin-buenos-aires"
+    },
+    {
+      "id": "proje-10",
+      "country": "AZERBAIJAN",
+      "title": "MEAT PROCESSING FACTORY IN AZERBAIJAN",
+      "city": "BAKU",
+      "type": "MEAT PROCESSING",
+      "capacity": "200 CATTLE 400 SHEEP",
+      "image": "/images/presentation/proje-10.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971826.webp",
+      "projectSlug": "azerbaycan-baku"
+    },
+    {
+      "id": "proje-11",
+      "country": "TURKİYE",
+      "title": "SLAUGHTERHOUSE IN TURKEY",
+      "city": "ÇORUM",
+      "type": "SLAUGHTERHOUSE",
+      "capacity": "700 CATTLE 3000 SHEEP",
+      "image": "/images/presentation/proje-11.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971328.webp",
+      "projectSlug": "turkiye-corum"
+    },
+    {
+      "id": "proje-12",
+      "country": "BOSNIA AND HERZEGOVINIA",
+      "title": "ROTATIONAL CATTLE BOX BOSNIA AND HERZEGOVINIA",
+      "city": "PRIJEDOR",
+      "type": "ROTATIONAL CATTLE BOX",
+      "capacity": "60 CATTLE-HOUR",
+      "image": "/images/presentation/proje-12.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971397.webp",
+      "projectSlug": "bosna-hersek-prijedor"
+    },
+    {
+      "id": "proje-13",
+      "country": "ALBANIA",
+      "title": "SLAUGHTERHOUSE IN ALBANIA",
+      "city": "POGRADEC",
+      "type": "MICRO SLAUGHTERHOUSE",
+      "capacity": "50 CATTLE",
+      "image": "/images/presentation/proje-13.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971687.webp",
+      "projectSlug": "arnavutluk-pogradec"
+    },
+    {
+      "id": "proje-14",
+      "country": "KIRGIZISTAN",
+      "title": "MEAT PROCESSING IN KYRGYZSTAN",
+      "city": "",
+      "type": "MEAT PROCESSING COLD ROOM",
+      "capacity": "",
+      "image": "/images/presentation/proje-14.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971778.webp",
+      "projectSlug": "kirgizistan-biskek"
+    },
+    {
+      "id": "proje-15",
+      "country": "AZERBAIJAN",
+      "title": "SLAUGHTERHOUSE IN AZERBAIJAN",
+      "city": "",
+      "type": "SLAUGHTERHOUSE",
+      "capacity": "",
+      "image": "/images/presentation/proje-15.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971291.webp",
+      "projectSlug": "azerbaycan-xacmaz"
+    },
+    {
+      "id": "proje-16",
+      "country": "AZERBAIJAN",
+      "title": "SLAUGHTERHOUSE IN AZERBAIJAN",
+      "city": "NOVHANI",
+      "type": "SLAUGHTERHOUSE",
+      "capacity": "50 CATTLE 100 SHEEP",
+      "image": "/images/presentation/proje-16.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971743.webp",
+      "projectSlug": "azerbaycan-novhani"
+    },
+    {
+      "id": "proje-17",
+      "country": "TURKİYE",
+      "title": "SLAUGHTERHOUSE IN TURKEY",
+      "city": "AFYON",
+      "type": "SLAUGHTERHOUSE",
+      "capacity": "700 CATTLE 2000 SHEEP",
+      "image": "/images/presentation/proje-17.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971507.webp",
+      "projectSlug": "turkiye-afyon"
+    },
+    {
+      "id": "proje-18",
+      "country": "AZERBAIJAN",
+      "title": "SLAUGHTERHOUSE IN AZERBAIJAN",
+      "city": "TOVUZ",
+      "type": "SLAUGHTERHOUSE",
+      "capacity": "100 CATTLE 300 SHEEP",
+      "image": "/images/presentation/proje-18.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971531.webp",
+      "projectSlug": "azerbaycan-tovuz"
+    },
+    {
+      "id": "proje-19",
+      "country": "TAJIKISTAN",
+      "title": "MEATFACTORY IN TAJIKISTAN",
+      "city": "DUŞANBE",
+      "type": "MEAT FACTORY",
+      "capacity": "2000 KG / HOUR",
+      "image": "/images/presentation/proje-19.png",
+      "sourceImage": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971254.webp",
+      "projectSlug": "tacikistan-dusanbe"
+    }
+  ]
+}

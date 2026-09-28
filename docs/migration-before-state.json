@@ -1,0 +1,83 @@
+{
+  "categories": [
+    {
+      "slug": "buyukbas"
+    },
+    {
+      "slug": "kucukbas-mezbaha-makinalari"
+    }
+  ],
+  "products": [
+    {
+      "slug": "ayak-kesme-makasi",
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "dairesel-kesim-hucresi",
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "hidrolik-deri-yuzme-makinasi",
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "karkas-bolme-testeresi",
+      "status": "PUBLISHED"
+    }
+  ],
+  "projects": [
+    {
+      "slug": "azerbaycan-gobustan-kesimhane",
+      "type": "REFERENCE",
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "c-50",
+      "type": "CAPACITY_SOLUTION",
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "fas-kenitra",
+      "type": "REFERENCE",
+      "status": "PUBLISHED"
+    }
+  ],
+  "blogCategories": [
+    {
+      "slug": "mezbaha-sistemleri"
+    }
+  ],
+  "blogPosts": [
+    {
+      "slug": "mezbaha-hijyeni-nasil-saglanir",
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "mezbaha-kurulum-maliyeti",
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "rayli-tasima-sistemleri-ikizray-nedir-ve-neden-kullanilir",
+      "status": "PUBLISHED"
+    }
+  ],
+  "redirects": [
+    {
+      "sourcePath": "/tr/buyukbas-mezbaha-makinalari",
+      "destinationPath": "/urunler/buyukbas"
+    },
+    {
+      "sourcePath": "/tr/hidrolik-deri-yuzme-makinasi",
+      "destinationPath": "/urun/hidrolik-deri-yuzme-makinasi"
+    },
+    {
+      "sourcePath": "/tr/karkas-bolme-testeresi",
+      "destinationPath": "/urun/karkas-bolme-testeresi"
+    },
+    {
+      "sourcePath": "/tr/dairesel-kesim-hucresi",
+      "destinationPath": "/urun/dairesel-kesim-hucresi"
+    }
+  ],
+  "media": 0
+}

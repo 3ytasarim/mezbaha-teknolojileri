@@ -1,0 +1,92 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+:root {
+  --background: #f7f5f2;
+  --foreground: #15171c;
+
+  --surface: #ffffff;
+  --surface-dark: #12141f;
+
+  --muted: #ece9e3;
+  --muted-foreground: #62666d;
+
+  --primary: #23305f;
+  --primary-hover: #1a2447;
+  --primary-foreground: #ffffff;
+
+  --accent: #b04a20; /* WCAG AA: ≥4.7:1 açık zeminlerde (#f7f5f2/#f3f0ec), beyaz metinle 5.46:1 (önceki #c85a2e 3.89/4.24 idi) */
+  --accent-hover: #9c4219;
+  --accent-light: #e0703f; /* koyu yüzeylerde accent METİN rengi: #12141f üzerinde 5.73:1 */
+  --accent-foreground: #ffffff;
+
+  --steel: #3d4552;
+  --border: #ddd9d1;
+  --border-dark: #2a2d3a;
+
+  --container: 1360px;
+  --container-wide: 1440px;
+
+  --ease-industrial: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-dark: var(--surface-dark);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent-light: var(--accent-light);
+  --color-steel: var(--steel);
+  --color-border: var(--border);
+  --color-border-dark: var(--border-dark);
+
+  --font-sans: var(--font-body);
+  --font-heading: var(--font-heading);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Koyu yüzeylerde kontrast (WCAG AA 4.5:1): accent metni ve soluk gri metin bu bölümlerde açılır. */
+:is(.bg-surface-dark, .bg-primary, .bg-neutral-950, .bg-neutral-900) .text-accent {
+  color: var(--accent-light);
+}
+:is(.bg-surface-dark, .bg-primary, .bg-neutral-950, .bg-neutral-900) .text-neutral-500 {
+  color: #8a8a8a;
+}
+
+/* Yönetim paneli: siyah yerine site laciverti. Panelde kullanılan neutral-* tonları bu kapsamda lacivert tonlarına eşlenir. */
+.admin-theme {
+  --color-neutral-50: #f4f6fd;
+  --color-neutral-100: #eef1fb;
+  --color-neutral-200: #dde3f6;
+  --color-neutral-300: #c0c9e8;
+  --color-neutral-400: #95a2d0;
+  --color-neutral-500: #7684b8;
+  --color-neutral-600: #4d5b94;
+  --color-neutral-700: #3d4a80;
+  --color-neutral-800: #303c6e;
+  --color-neutral-900: #232e5c;
+  --color-neutral-950: #182047;
+}

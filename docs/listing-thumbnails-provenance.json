@@ -1,0 +1,390 @@
+{
+  "updatedAt": "2026-09-23T21:04:02.651Z",
+  "records": [
+    {
+      "slug": "dairesel-kesim-hucresi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/dairesel-kesim-hucresi-1787734372.webp",
+      "sourceHash": "699aa2b6d93962654f0c6320bf39510502a05861cafed0f1a89404b394a254ea",
+      "localPath": "public/images/migrated/products/dairesel-kesim-hucresi/thumb.png",
+      "order": 1
+    },
+    {
+      "slug": "ayakta-kesim-hucresi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/ayakta-kesim-hucresi-1787130079.webp",
+      "sourceHash": "55b867bb8eb8d5ef1c640ac230219c36ef0dea01080ae71e51f01d91a9368511",
+      "localPath": "public/images/migrated/products/ayakta-kesim-hucresi/thumb.png",
+      "order": 2
+    },
+    {
+      "slug": "klasik-kesim-hucresi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/sigir-kesim-hucresi-1787130165.webp",
+      "sourceHash": "7c2cb195a216531a244337bff3729796c99e71c587dab99aa596890162c99863",
+      "localPath": "public/images/migrated/products/klasik-kesim-hucresi/thumb.png",
+      "order": 3
+    },
+    {
+      "slug": "hidrolik-deri-yuzme-makinasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/hidrolik-deri-yuzme-makinasi-1787232500.webp",
+      "sourceHash": "af03fa638f62ede9ea5a5e80125ac110a95812371797457bfaf320f479f8feab",
+      "localPath": "public/images/migrated/products/hidrolik-deri-yuzme-makinasi/thumb.png",
+      "order": 4
+    },
+    {
+      "slug": "mekanik-deri-yuzme",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/mekanik-deri-yuzme-1787232597.webp",
+      "sourceHash": "8039ff87f71854aa61fd025279a038e90a62a1297a84a5f0a4bbdb6eccfd55d9",
+      "localPath": "public/images/migrated/products/mekanik-deri-yuzme/thumb.png",
+      "order": 5
+    },
+    {
+      "slug": "karkas-bolme-testeresi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/karkas-bolme-testeresi-slim-line-1787743692.webp",
+      "sourceHash": "05c92677abd9c17d6ef09655581e1691856bce146550ff0ca694bf678820ecfb",
+      "localPath": "public/images/migrated/products/karkas-bolme-testeresi/thumb.png",
+      "order": 6
+    },
+    {
+      "slug": "dos-acma-testeresi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/dos-acma-testeresi-1787746667.webp",
+      "sourceHash": "dff13c2724eb3445baf0450e20a8eb34dc8e8fb0034a514c17c0acea2a727b01",
+      "localPath": "public/images/migrated/products/dos-acma-testeresi/thumb.png",
+      "order": 7
+    },
+    {
+      "slug": "ayak-kesme-makasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/ayak-kesme-makasi-1787830722.webp",
+      "sourceHash": "5de29e84d538b3a9a0acebfcafa7a5cdd53c6e23b044984e05449988d13f1082",
+      "localPath": "public/images/migrated/products/ayak-kesme-makasi/thumb.png",
+      "order": 8
+    },
+    {
+      "slug": "et-yukleme-kolu",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/et-yukleme-kolu-1787837104.webp",
+      "sourceHash": "a18ac2f577ee7c0913ed4b1738237ccc9b52729e603f05b54fbedef23c9c17f5",
+      "localPath": "public/images/migrated/products/et-yukleme-kolu/thumb.png",
+      "order": 9
+    },
+    {
+      "slug": "ceyrekleme-elevatoru",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/ceyrekleme-elevatoru-1788867488.webp",
+      "sourceHash": "ba0cd54fb1c6664aa9f951901fd7e60d7c0d4e5bd4438df7d419dc7ac9f534fd",
+      "localPath": "public/images/migrated/products/ceyrekleme-elevatoru/thumb.png",
+      "order": 10
+    },
+    {
+      "slug": "aktarma-platformu",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/aktarma-platformu-1789557631.webp",
+      "sourceHash": "261ef79c81539fb07703fc59312cba8f694e26ddf414dc66b1f2bcbc719b1c5e",
+      "localPath": "public/images/migrated/products/aktarma-platformu/thumb.png",
+      "order": 11
+    },
+    {
+      "slug": "pnomatik-iskembe-platformu",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/pnomatik-ic-organ-platformu-1789564982.webp",
+      "sourceHash": "090e20a41a28763f4d2fa22121eb3cf6b0760f6f18ae26fda0423730ad2e6148",
+      "localPath": "public/images/migrated/products/pnomatik-iskembe-platformu/thumb.png",
+      "order": 12
+    },
+    {
+      "slug": "kancalar",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/kancalar-1789644175.webp",
+      "sourceHash": "9c92c78688f4ae9a4a114c8ae5b695d3ed330b6d9e14ca1ea7343bfb981fd1b1",
+      "localPath": "public/images/migrated/products/kancalar/thumb.png",
+      "order": 13
+    },
+    {
+      "slug": "iskembe-atik-pompasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/iskembe-atik-pompasi-1789645861.webp",
+      "sourceHash": "7d1ccea8ea27e586dce79be58605bd0e7735f2a899ed51d19f23310e2ac0fe2e",
+      "localPath": "public/images/migrated/products/iskembe-atik-pompasi/thumb.png",
+      "order": 14
+    },
+    {
+      "slug": "monray-ikizray",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/mezbaha-sistemleri-monray-ikizray-1789650184.webp",
+      "sourceHash": "dcb77abddda3f859aac78856db23096e28e5a181a3f7a1c939b7a9ef9d9b0525",
+      "localPath": "public/images/migrated/products/monray-ikizray/thumb.png",
+      "order": 15
+    },
+    {
+      "slug": "testere-sterilizatorleri",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/testere-sterilizatorleri-1536045797.jpg",
+      "sourceHash": "d6651dc54f9172de65f86de60d1a6a7ece7f4c4cebaebdc4ddbb2b72fefdfd07",
+      "localPath": "public/images/migrated/products/testere-sterilizatorleri/thumb.jpg",
+      "order": 16
+    },
+    {
+      "slug": "kanama-vinci",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/kanama-vinci-1536048287.jpg",
+      "sourceHash": "48889e96d91de087168aa9def0fc02bc6ce4f44e0aff8e1cc9ad4ec52b1a75d1",
+      "localPath": "public/images/migrated/products/kanama-vinci/thumb.jpg",
+      "order": 17
+    },
+    {
+      "slug": "sigir-kanama-elevatoru",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/sigir-kanama-elevatoru-1589191861.jpg",
+      "sourceHash": "7a08a2d7283f16fe5ae1d30259077fc464e22ed191491b086ab1f30c470af85b",
+      "localPath": "public/images/migrated/products/sigir-kanama-elevatoru/thumb.jpg",
+      "order": 18
+    },
+    {
+      "slug": "sigir-isleme-hatti",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/sigir-isleme-konveyoru-1551340483.jpg",
+      "sourceHash": "001b80d57185aab278aac200f6b7c1f935dd2b046ce70ca1d72f9ea06364fe99",
+      "localPath": "public/images/migrated/products/sigir-isleme-hatti/thumb.jpg",
+      "order": 19
+    },
+    {
+      "slug": "ciger-konveyoru",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/ciger-konveyoru-1555357777.jpg",
+      "sourceHash": "a010a2df3a67c29bb06702196df456fb0d347a21ccbb0c7590975d826c898373",
+      "localPath": "public/images/migrated/products/ciger-konveyoru/thumb.jpg",
+      "order": 20
+    },
+    {
+      "slug": "mezbaha-lavabolari",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/mezbaha-lavabolari-1588850060.jpg",
+      "sourceHash": "e88be689ce216e04384d357b9896d83ae46fe69f23f2208f8bc3eb2500a79e86",
+      "localPath": "public/images/migrated/products/mezbaha-lavabolari/thumb.jpg",
+      "order": 21
+    },
+    {
+      "slug": "cizme-yikama-istasyonu",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/cizme-yikama-istasyonu-1588852873.jpg",
+      "sourceHash": "15ea3dcf4b06c2d3b532a4c393f7b967978827e704f28e02d8e4307640c24905",
+      "localPath": "public/images/migrated/products/cizme-yikama-istasyonu/thumb.jpg",
+      "order": 22
+    },
+    {
+      "slug": "cizme-askiligi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/cizme-askiligi-1588925785.jpg",
+      "sourceHash": "e12893f4f31a3e9ff50e2a0b443707ce9de1c2d9566f03d53609865da0365d54",
+      "localPath": "public/images/migrated/products/cizme-askiligi/thumb.jpg",
+      "order": 23
+    },
+    {
+      "slug": "ayak-yikama-makinasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/ayak-yikama-makinasi-1589454485.jpg",
+      "sourceHash": "09a9d92286f39d1a7aad5acca50ed31af35ce12976eacf509cb1c65c3722d140",
+      "localPath": "public/images/migrated/products/ayak-yikama-makinasi/thumb.jpg",
+      "order": 24
+    },
+    {
+      "slug": "beyin-cikarma-makinasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/beyin-cikarma-makinasi-1589458191.jpg",
+      "sourceHash": "f234253e2def82250dbab94cffb48cb4c9962ed0661474b01dfa23c9b3329d6d",
+      "localPath": "public/images/migrated/products/beyin-cikarma-makinasi/thumb.jpg",
+      "order": 25
+    },
+    {
+      "slug": "deri-temizleme-tavasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/deri-temizleme-tavasi-1589460721.jpg",
+      "sourceHash": "a6fa2f0b94706734028d484da0192b34c37620284a7c60c3789c6607c84a63d0",
+      "localPath": "public/images/migrated/products/deri-temizleme-tavasi/thumb.jpg",
+      "order": 26
+    },
+    {
+      "slug": "iskembe-temizleme-tavasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/iskembe-temizleme-tavasi-1589462024.jpg",
+      "sourceHash": "e4e5e6a2b23e43d687fbad534dbb9bfb9f2440562d696f620cddc3d35e60a36d",
+      "localPath": "public/images/migrated/products/iskembe-temizleme-tavasi/thumb.jpg",
+      "order": 27
+    },
+    {
+      "slug": "ciger-temizleme-tavasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/ciger-temizleme-tavasi-1589547610.jpg",
+      "sourceHash": "d0a0f6aebd8f572800ce76a6817c364fd81c02f53ccb0ce31dd408f4f5852189",
+      "localPath": "public/images/migrated/products/ciger-temizleme-tavasi/thumb.jpg",
+      "order": 28
+    },
+    {
+      "slug": "kurutmali-kan-tanki",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/kurutmali-kan-tanki-1552416285.jpg",
+      "sourceHash": "c3acd0ef6ca5f6eecd5210c9984f08b9e640a101f0ed0f4296b30aa8ed0085da",
+      "localPath": "public/images/migrated/products/kurutmali-kan-tanki/thumb.jpg",
+      "order": 29
+    },
+    {
+      "slug": "sersemletme-ekipmani",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/sersemletme-ekipmani-1552550088.jpg",
+      "sourceHash": "6fecc594d21388328ab5cd24fc21cb23b0d3808300a4537b2ff84e688398b3f1",
+      "localPath": "public/images/migrated/products/sersemletme-ekipmani/thumb.jpg",
+      "order": 30
+    },
+    {
+      "slug": "sabit-kuyruk-acma-platformu",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/sabit-kuyruk-acma-platformu-1640264370.jpg",
+      "sourceHash": "e14750ab99208cacbe05a9a9ea05d9ab357cb63babce7f2ada587aa52a872d02",
+      "localPath": "public/images/migrated/products/sabit-kuyruk-acma-platformu/thumb.jpg",
+      "order": 31
+    },
+    {
+      "slug": "sabit-aktarma-platformu",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/sabit-aktarma-platformu-1640347366.jpg",
+      "sourceHash": "d241cd6de8e4264d507d1c813be71940f9ddb7c837e546d1d29a0b3273d08b64",
+      "localPath": "public/images/migrated/products/sabit-aktarma-platformu/thumb.jpg",
+      "order": 32
+    },
+    {
+      "slug": "sabit-icorgan-platformu",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/sabit-icorgan-platformu-1640348767.jpg",
+      "sourceHash": "9742692f2876ded99933603f4a1c22ed2dffe87a55bd1394a7a39464ae1af901",
+      "localPath": "public/images/migrated/products/sabit-icorgan-platformu/thumb.jpg",
+      "order": 33
+    },
+    {
+      "slug": "et-parcalama-masasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/meat-deboning-worktable-1648031327.jpg",
+      "sourceHash": "37a9b77a6cc5a48bb709336ae3fcdc62b67cd3590be11b50f2ec4f6728ef1227",
+      "localPath": "public/images/migrated/products/et-parcalama-masasi/thumb.jpg",
+      "order": 34
+    },
+    {
+      "slug": "aktarma-vinci",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/aktarma-vinci-1535367682.jpg",
+      "sourceHash": "3842b31b559f60a304dee97df9cbe6c981e2fa40bb6e6e10e260fbb57e6c4c3c",
+      "localPath": "public/images/migrated/products/aktarma-vinci/thumb.jpg",
+      "order": 35
+    },
+    {
+      "slug": "kanca-geri-donus",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/kanca-geri-donus-1535367267.jpg",
+      "sourceHash": "fa523da63825e180f2deed415c0931683ecdd34e6df58e924016a8c588fc6f9d",
+      "localPath": "public/images/migrated/products/kanca-geri-donus/thumb.jpg",
+      "order": 36
+    },
+    {
+      "slug": "ayak-germe-ve-kilitleme",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/ayak-germe-ve-kilitleme-1535367111.jpg",
+      "sourceHash": "30ac7b7b7cdedeaa6baa23aab316dcd3713af9c41b452e04d31a4a45cbc813dc",
+      "localPath": "public/images/migrated/products/ayak-germe-ve-kilitleme/thumb.jpg",
+      "order": 37
+    },
+    {
+      "slug": "kanama-kancasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/kanama-kancasi-1535360663.jpg",
+      "sourceHash": "4e3a81714fe6389e69aae0f91c0e5c0652222c6b640aa5e4b33d5c0124345b90",
+      "localPath": "public/images/migrated/products/kanama-kancasi/thumb.jpg",
+      "order": 38
+    },
+    {
+      "slug": "ikizray-kanca",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/ikizray-kanca-1535360535.jpg",
+      "sourceHash": "fd1e9773bbb5b223d6db04cedae1352855429b0e8c0572b50e44fb0ffc08ec94",
+      "localPath": "public/images/migrated/products/ikizray-kanca/thumb.jpg",
+      "order": 39
+    },
+    {
+      "slug": "deri-bant-konveyoru",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/deri-bant-konveyoru-1535358878.jpg",
+      "sourceHash": "e567ec50af48686db27d7ddae3b0d623c812de265d7ad4cc50bc7277ef44ca71",
+      "localPath": "public/images/migrated/products/deri-bant-konveyoru/thumb.jpg",
+      "order": 40
+    },
+    {
+      "slug": "kanal-ve-izgara",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/kanal-ve-izgara-1535359449.jpg",
+      "sourceHash": "3ff62b781544d432e9207be053d7e3bb241b124b24c1672cd8e920d6a25e5273",
+      "localPath": "public/images/migrated/products/kanal-ve-izgara/thumb.jpg",
+      "order": 41
+    },
+    {
+      "slug": "kanama-tavasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/kanama-tavasi-1535358015.jpg",
+      "sourceHash": "bc4571dea759eb6fddb6e56eec8e78c1e7a5d0e13f189e13f71e574968fef095",
+      "localPath": "public/images/migrated/products/kanama-tavasi/thumb.jpg",
+      "order": 42
+    },
+    {
+      "slug": "kan-tanki",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/kan-tanki-1535201921.jpg",
+      "sourceHash": "6613af97b7964051648405ae5efeec90a74f51beecc83e43715f694b722f797c",
+      "localPath": "public/images/migrated/products/kan-tanki/thumb.jpg",
+      "order": 43
+    },
+    {
+      "slug": "sakatat-askisi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/sakatat-askisi-1786368476.webp",
+      "sourceHash": "3e5239426cefd96b95d0ac73432c694f5ab97ac772dad232722afdbd658cd23e",
+      "localPath": "public/images/migrated/products/sakatat-askisi/thumb.png",
+      "order": 44
+    },
+    {
+      "slug": "koyun-isleme-konveyoru",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/koyun-isleme-konveyoru-1553681331.jpg",
+      "sourceHash": "2a1999e27b0a55f7d7e61383c4c868585e22046d13c33fa4b606107872753cce",
+      "localPath": "public/images/migrated/products/koyun-isleme-konveyoru/thumb.jpg",
+      "order": 1
+    },
+    {
+      "slug": "koyun-kanama-elevatoru",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/koyun-kanama-elevatoru-1576758977.jpg",
+      "sourceHash": "7a0a7d6119b682090e06c3e6c37f85bd278f5cb011c68d7fa26de1edebafdf99",
+      "localPath": "public/images/migrated/products/koyun-kanama-elevatoru/thumb.jpg",
+      "order": 2
+    },
+    {
+      "slug": "ic-organ-tasima-arabasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/ic-organ-tasima-arabasi-1589541427.jpg",
+      "sourceHash": "7d9132bc588cfcba5a76ce61a6c74769a4828e07818597d1f9ed777a106e409d",
+      "localPath": "public/images/migrated/products/ic-organ-tasima-arabasi/thumb.jpg",
+      "order": 3
+    },
+    {
+      "slug": "kanca-tasima-arabasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/kanca-tasima-arabasi-1535357873.jpg",
+      "sourceHash": "08c00fe8003af017e93c60d8560d654aff16a76a8fc4f42c93ae0ec9712e308a",
+      "localPath": "public/images/migrated/products/kanca-tasima-arabasi/thumb.jpg",
+      "order": 4
+    },
+    {
+      "slug": "ciger-tasima-arabasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/ciger-tasima-arabasi-1535202191.jpg",
+      "sourceHash": "ae66d9bef36faa5ae0f6581c9ed9d109515ea78dc470384fb5dde5c039f22a92",
+      "localPath": "public/images/migrated/products/ciger-tasima-arabasi/thumb.jpg",
+      "order": 5
+    },
+    {
+      "slug": "kurban-pro",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/kurban-pro-1762777938.jpg",
+      "sourceHash": "d7c8275834d593113bfe999c87ac1f3a837691982b386271bff98bdfc49338e7",
+      "localPath": "public/images/migrated/products/kurban-pro/thumb.jpg",
+      "order": 1
+    },
+    {
+      "slug": "profesyonel-mezbaha-sistemleri",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/profesyonel-mezbaha-sistemleri-1536436033.jpg",
+      "sourceHash": "d29f4e735f040f6b33345ed51da176eb2ff74f4641de558cfd14adc44c0d3b1b",
+      "localPath": "public/images/migrated/products/profesyonel-mezbaha-sistemleri/thumb.jpg",
+      "order": 1
+    },
+    {
+      "slug": "standart-mezbaha-sistemleri",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/standart-mezbaha-sistemleri-1536058365.jpg",
+      "sourceHash": "a998da33e5f6782585bbe214609b7631171acbb0a78cfcaa881134d90b72ef0e",
+      "localPath": "public/images/migrated/products/standart-mezbaha-sistemleri/thumb.jpg",
+      "order": 2
+    },
+    {
+      "slug": "soguk-oda-ikizray-sistemleri",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/soguk-oda-ikizray-sistemleri-1536058276.jpg",
+      "sourceHash": "41ba45465ddf537bb13af36d9de14fec041e95b639171cbcc657b0661bbccb79",
+      "localPath": "public/images/migrated/products/soguk-oda-ikizray-sistemleri/thumb.jpg",
+      "order": 3
+    },
+    {
+      "slug": "mezbaha-bina-dizayni",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/mezbaha-bina-dizayni-1536435849.jpg",
+      "sourceHash": "53f82d2d33172a6013ceb12a67ae7bf8bc904502e09002db9030d53faeec63e1",
+      "localPath": "public/images/migrated/products/mezbaha-bina-dizayni/thumb.jpg",
+      "order": 4
+    },
+    {
+      "slug": "kosher-line",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/thumb/kosher-line-1575284244.jpg",
+      "sourceHash": "9193da310509dd7e9cfa11c50a6174efa85fa0c1e17fe7082865a1b1f52fd372",
+      "localPath": "public/images/migrated/products/kosher-line/thumb.jpg",
+      "order": 5
+    }
+  ]
+}

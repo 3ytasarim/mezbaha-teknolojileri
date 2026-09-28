@@ -1,0 +1,230 @@
+{
+  "source": "https://www.mezbahateknolojileri.com/tr/projeler/",
+  "fetchedAt": "2026-09-25T17:17:55.067Z",
+  "images": [
+    {
+      "slug": "c-50",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1784296440197755.webp",
+      "local": "/images/migrated/projects/c-50/c-50-ic-gorunum.png",
+      "sha256": "04f6f2312e562ac3517ff80dc8bdf1e02217c7fdcf9adb4f5fb9991e086eb919",
+      "bytes": 886325,
+      "caption": "C-50 kesimhane iç görünüşü 350 m²"
+    },
+    {
+      "slug": "c-50",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1787227963688527.webp",
+      "local": "/images/migrated/projects/c-50/c-50-dis-gorunum.png",
+      "sha256": "d6ddeb9244f5713a5052470f493743cd8e020df75e2aedfc3a6257164e2e0868",
+      "bytes": 1159977,
+      "caption": "C-50 kesimhane dış görünüş dizayn"
+    },
+    {
+      "slug": "c-50",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1787227977144428.webp",
+      "local": "/images/migrated/projects/c-50/c-50-ic-fotograf.png",
+      "sha256": "964b8385c836857853db3d79353721b7a66e0d065a92d802fbc012bc070df2e4",
+      "bytes": 902486,
+      "caption": "C-50 kesimhane iç fotoğrafı"
+    },
+    {
+      "slug": "c-50",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1787227991231243.webp",
+      "local": "/images/migrated/projects/c-50/c-50-yerlesim-plani.png",
+      "sha256": "6de59f41feb260bb54f3f988e1e33af63ce58b8164ef749eab9b23ccccd8f34e",
+      "bytes": 1054940,
+      "caption": "C-50 kesimhane makina yerleşim planı"
+    },
+    {
+      "slug": "c-50-plus",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612632726439319.jpg",
+      "local": "/images/migrated/projects/c-50-plus/c-50-plus-ic-gorunum.jpg",
+      "sha256": "2d64258b4ddadb64d8829b8d137af0bf47bc6dcb0a777d87ea27dd73cabdbc3d",
+      "bytes": 69908,
+      "caption": "C50- plus kesimhane iç görünüşü"
+    },
+    {
+      "slug": "c-50-plus",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612632775551630.jpg",
+      "local": "/images/migrated/projects/c-50-plus/c-50-plus-dis-gorunum.jpg",
+      "sha256": "a9e4a1641a5be37216e420fb94decc0d18cbc56e045fb759264bcebd84232e21",
+      "bytes": 69007,
+      "caption": "C50- plus kesimhane dış görünüş dizayn"
+    },
+    {
+      "slug": "c-50-plus",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_161263284021107.jpg",
+      "local": "/images/migrated/projects/c-50-plus/c-50-plus-ic-fotograf.jpg",
+      "sha256": "abcd9ba49cefab275c61336f08c5609634d094b44ca2aeabbe0d0c21ed87f3dc",
+      "bytes": 85774,
+      "caption": "C50-plus kesimhane iç fotoğrafı"
+    },
+    {
+      "slug": "c-50-plus",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612633126720633.jpg",
+      "local": "/images/migrated/projects/c-50-plus/c-50-plus-yerlesim-plani.jpg",
+      "sha256": "26fe8af805e9e54bc7edd3895813a706f7339a2d74f2406717df9b186c487e15",
+      "bytes": 156912,
+      "caption": "C50-plus kesimhane makina yerleşim planı"
+    },
+    {
+      "slug": "c-100",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612638044160113.jpg",
+      "local": "/images/migrated/projects/c-100/c-100-ic-gorunum.jpg",
+      "sha256": "02020c62d1b8b7e88ef33de0c7c43aad566c1cc1cbf520aa32395e56c5bfcd9c",
+      "bytes": 49803,
+      "caption": "C100-kesimhane iç görünüşü 550 m²"
+    },
+    {
+      "slug": "c-100",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612638089277253.jpg",
+      "local": "/images/migrated/projects/c-100/c-100-dis-gorunum.jpg",
+      "sha256": "acf857a7b9354a73b7fbab72414c68dfd562bb1a551b0a02523783e20559c0e7",
+      "bytes": 61557,
+      "caption": "C100-kesimhane dış görünüş dizayn"
+    },
+    {
+      "slug": "c-100",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612638169789700.jpg",
+      "local": "/images/migrated/projects/c-100/c-100-ic-fotograf.jpg",
+      "sha256": "5e6289c88bc3dbf333ba8256e017587c0858eda9a9e70e8e746094d116fd4273",
+      "bytes": 99137,
+      "caption": "C100-kesimhane iç fotoğrafı"
+    },
+    {
+      "slug": "c-100",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612638231792228.jpg",
+      "local": "/images/migrated/projects/c-100/c-100-yerlesim-plani.jpg",
+      "sha256": "8ac0205d6af321db4f1640760b59f73b59402711ff23d265da6503aaac0162ec",
+      "bytes": 137849,
+      "caption": "C100-kesimhane makina yerleşim planı"
+    },
+    {
+      "slug": "c-100-plus",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612647940376819.jpg",
+      "local": "/images/migrated/projects/c-100-plus/c-100-plus-ic-gorunum.jpg",
+      "sha256": "a7fe06f059104ad2bc2b07728960c9341f2a1e64cd90f286b06b61a99dbe388f",
+      "bytes": 62568,
+      "caption": "C100-plus kesimhane iç görünüşü 680 m²"
+    },
+    {
+      "slug": "c-100-plus",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612648083319966.jpg",
+      "local": "/images/migrated/projects/c-100-plus/c-100-plus-dis-gorunum.jpg",
+      "sha256": "b0fb3f9143ebe20fd74d239c3af4daf48b4ee786971069aa63c7f14fe94090bf",
+      "bytes": 34273,
+      "caption": "C100-plus kesimhane dış dizayn"
+    },
+    {
+      "slug": "c-100-plus",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612648162425464.jpg",
+      "local": "/images/migrated/projects/c-100-plus/c-100-plus-ic-fotograf.jpg",
+      "sha256": "2fac3a95c795a61ac280cbe6a88342a31028c754688b90ffeb4ff705574e7538",
+      "bytes": 98072,
+      "caption": "C100-plus kesimhane iç fotoğrafı"
+    },
+    {
+      "slug": "c-100-plus",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612648284902168.jpg",
+      "local": "/images/migrated/projects/c-100-plus/c-100-plus-yerlesim-plani.jpg",
+      "sha256": "b980eb75e826c1baf2901ab76e08645b8704b843e2be4fb6ceb6b5033dd5409e",
+      "bytes": 168166,
+      "caption": "C100-plus kesimhane planı"
+    },
+    {
+      "slug": "c-100-xl",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612734410664379.jpg",
+      "local": "/images/migrated/projects/c-100-xl/c-100-xl-ic-gorunum.jpg",
+      "sha256": "5a62cb10a964eee61628e49c6f9c8f928c9c89434f331ed5192bdb7648b93cea",
+      "bytes": 55087,
+      "caption": "C100-XL kesimhane iç görünüşü"
+    },
+    {
+      "slug": "c-100-xl",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612734452684322.jpg",
+      "local": "/images/migrated/projects/c-100-xl/c-100-xl-dis-gorunum.jpg",
+      "sha256": "bad34f4c7395f5113cabd318fefb6eaecfc046f5581ac21545c2ff44ddf0533a",
+      "bytes": 61343,
+      "caption": "C100-XL kesimhane dış dizaynı"
+    },
+    {
+      "slug": "c-100-xl",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612735054412923.jpg",
+      "local": "/images/migrated/projects/c-100-xl/c-100-xl-ic-fotograf.jpg",
+      "sha256": "1088f34a5ade2ae01dd2349525a33803ddac5825fc31989461217def5843025f",
+      "bytes": 101322,
+      "caption": "C100-XL kesimhane iç fotoğrafı"
+    },
+    {
+      "slug": "c-100-xl",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612735126757608.jpg",
+      "local": "/images/migrated/projects/c-100-xl/c-100-xl-yerlesim-plani.jpg",
+      "sha256": "414a964ddf3b293b943572d50753e1952a58c12aa9f4d45e2c55297b5b37841e",
+      "bytes": 142209,
+      "caption": "C100- XL kesimhane yerleşim planı"
+    },
+    {
+      "slug": "c-200",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_161281487489305.jpg",
+      "local": "/images/migrated/projects/c-200/c-200-ic-gorunum.jpg",
+      "sha256": "4ffe30b8d4b6ad92358907b8f66fe3412799cb7a3ee35e63c38d3b88fa9e65ac",
+      "bytes": 58557,
+      "caption": "C200-kesimhane iç görünüşü"
+    },
+    {
+      "slug": "c-200",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612814918401078.jpg",
+      "local": "/images/migrated/projects/c-200/c-200-dis-gorunum.jpg",
+      "sha256": "f8b5a2c63fc765f70dccd67c97e5ea35489096a1240fe7a3ba26eb0c144e934e",
+      "bytes": 46515,
+      "caption": "C200-kesimhane dış görünüş dizayn"
+    },
+    {
+      "slug": "c-200",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612814972260675.jpg",
+      "local": "/images/migrated/projects/c-200/c-200-ic-fotograf.jpg",
+      "sha256": "0150eabf6a244dd7f590650bd0f1606399f2bee233d04a4f345212e0fad369cb",
+      "bytes": 106779,
+      "caption": "C200-kesimhane iç fotoğrafı"
+    },
+    {
+      "slug": "c-200",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612815000909565.jpg",
+      "local": "/images/migrated/projects/c-200/c-200-yerlesim-plani.jpg",
+      "sha256": "414a964ddf3b293b943572d50753e1952a58c12aa9f4d45e2c55297b5b37841e",
+      "bytes": 142209,
+      "caption": "C200-kesimhane planı"
+    },
+    {
+      "slug": "c-300",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612815769467348.jpg",
+      "local": "/images/migrated/projects/c-300/c-300-ic-gorunum.jpg",
+      "sha256": "43f58c451d52cd6264ac30b99386cbb41bbe762ac6b7f3f258525b1588f79771",
+      "bytes": 65581,
+      "caption": "C300-kesimhane iç görünüşü"
+    },
+    {
+      "slug": "c-300",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_161281582978623.jpg",
+      "local": "/images/migrated/projects/c-300/c-300-dis-gorunum.jpg",
+      "sha256": "9dcf7457e178d5e4744b05e25f2749ac0c4a42b7c1f13b3bdfc6d8db1350774c",
+      "bytes": 40189,
+      "caption": "C300-kesimhane dış dizaynı"
+    },
+    {
+      "slug": "c-300",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612817117829771.jpg",
+      "local": "/images/migrated/projects/c-300/c-300-ic-fotograf.jpg",
+      "sha256": "0d1f6825ac8bcc8fbd83c46b9c93eb1d358c625e3dfc8cd39f8a85b515fe09fd",
+      "bytes": 84862,
+      "caption": "C300-kesimhane iç fotoğrafı"
+    },
+    {
+      "slug": "c-300",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/image_1612817165939137.jpg",
+      "local": "/images/migrated/projects/c-300/c-300-yerlesim-plani.jpg",
+      "sha256": "eabb152cf9219c75e580f2ecddac4522936e36c6a9e77b9096e2f30bb8c37ec7",
+      "bytes": 146429,
+      "caption": "C300-kesimhane planı"
+    }
+  ]
+}

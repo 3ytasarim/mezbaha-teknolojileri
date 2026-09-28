@@ -1,0 +1,471 @@
+/* Header + hero stilleri (Norm-Yacht index.css'teki .nav-link / slideInRight ile aynı davranış). */
+
+.nav-link {
+  position: relative;
+}
+
+.nav-link::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--accent);
+  transition: width 0.3s ease;
+}
+
+.nav-link:hover::after,
+.nav-link:focus-visible::after,
+.nav-link.active::after {
+  width: 100%;
+}
+
+@keyframes heroSlideIn {
+  from {
+    opacity: 0;
+    transform: translateX(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.hero-slide-in {
+  animation: heroSlideIn 0.6s ease forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-slide-in {
+    animation: none;
+  }
+  .nav-link::after {
+    transition: none;
+  }
+}
+
+/* Kurumsal bölümü fotoğrafı üzerindeki ikon kartları: hafifçe yukarı-aşağı süzülür. */
+@keyframes floatY {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-12px);
+  }
+}
+
+.float-y {
+  animation: floatY 4.5s ease-in-out infinite;
+}
+
+.float-y-alt {
+  animation: floatY 5.2s ease-in-out -2s infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .float-y,
+  .float-y-alt {
+    animation: none;
+  }
+}
+
+/* 21st.dev "Spotlight Card" (GlowCard) — kaynaktaki <style> bloğu; her kartta tekrarlanmasın diye global. */
+[data-glow]::before,
+[data-glow]::after {
+  pointer-events: none;
+  content: "";
+  position: absolute;
+  inset: calc(var(--border-size) * -1);
+  border: var(--border-size) solid transparent;
+  border-radius: calc(var(--radius) * 1px);
+  background-attachment: fixed;
+  background-size: calc(100% + (2 * var(--border-size))) calc(100% + (2 * var(--border-size)));
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  mask: linear-gradient(transparent, transparent), linear-gradient(white, white);
+  mask-clip: padding-box, border-box;
+  mask-composite: intersect;
+}
+
+[data-glow]::before {
+  background-image: radial-gradient(
+    calc(var(--spotlight-size) * 0.75) calc(var(--spotlight-size) * 0.75) at calc(var(--x, 0) * 1px) calc(var(--y, 0) * 1px),
+    hsl(var(--hue, 210) calc(var(--saturation, 100) * 1%) calc(var(--lightness, 50) * 1%) / var(--border-spot-opacity, 1)),
+    transparent 100%
+  );
+  filter: brightness(2);
+}
+
+[data-glow]::after {
+  background-image: radial-gradient(
+    calc(var(--spotlight-size) * 0.5) calc(var(--spotlight-size) * 0.5) at calc(var(--x, 0) * 1px) calc(var(--y, 0) * 1px),
+    hsl(0 100% 100% / var(--border-light-opacity, 1)),
+    transparent 100%
+  );
+}
+
+[data-glow] [data-glow] {
+  position: absolute;
+  inset: 0;
+  will-change: filter;
+  opacity: var(--outer, 1);
+  border-radius: calc(var(--radius) * 1px);
+  border-width: calc(var(--border-size) * 20);
+  filter: blur(calc(var(--border-size) * 10));
+  background: none;
+  pointer-events: none;
+  border: none;
+}
+
+[data-glow] > [data-glow]::before {
+  inset: -10px;
+  border-width: 10px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  [data-glow] [data-glow] {
+    filter: none;
+  }
+}
+
+
+/* Yetkinlikler: dikey akan liste (21st.dev feature-section), iki özdeş kopya → -%50 */
+@keyframes marqueeY {
+  from { transform: translateY(0); }
+  to { transform: translateY(-50%); }
+}
+.marquee-y {
+  animation: marqueeY 16s linear infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .marquee-y { animation: none; }
+}
+
+
+/* Satış ağı ülke şeridi (B2B-Voice marquee-right): soldan girer, sağda kaybolur; iki özdeş grup, -%50 → 0 */
+@keyframes marqueeRight {
+  from { transform: translateX(-50%); }
+  to { transform: translateX(0); }
+}
+.marquee-right {
+  animation: marqueeRight 26s linear infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .marquee-right { animation: none; transform: none; }
+}
+
+/* Mühendislik adımları: kartları bağlayan kesikli çizgi akar */
+@keyframes dashFlow {
+  from { stroke-dashoffset: 0; }
+  to { stroke-dashoffset: -140; }
+}
+.dash-flow {
+  animation: dashFlow 3s linear infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .dash-flow { animation: none; }
+}
+
+/* İletişim haritası: yer işareti (pin) zıplar, gölgesi küçülüp büyür */
+@keyframes pinHop {
+  0%, 100% { transform: translateY(0); }
+  30% { transform: translateY(-18px); }
+  46% { transform: translateY(0); }
+  58% { transform: translateY(-6px); }
+  68% { transform: translateY(0); }
+}
+@keyframes pinShadow {
+  0%, 100% { transform: translate(-50%, 50%) scale(1); opacity: 1; }
+  30% { transform: translate(-50%, 50%) scale(0.55); opacity: 0.5; }
+  46% { transform: translate(-50%, 50%) scale(1); opacity: 1; }
+  58% { transform: translate(-50%, 50%) scale(0.85); opacity: 0.8; }
+  68% { transform: translate(-50%, 50%) scale(1); opacity: 1; }
+}
+.map-pin-hop {
+  animation: pinHop 1.8s cubic-bezier(0.34, 1.2, 0.5, 1) infinite;
+}
+.map-pin-shadow {
+  animation: pinShadow 1.8s cubic-bezier(0.34, 1.2, 0.5, 1) infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .map-pin-hop, .map-pin-shadow { animation: none; }
+}
+
+/* ---- 21st.dev Shiny Button (hyperiux): kenarlıkta dönen konik ışık; renkler --shiny-* değişkenleriyle ---- */
+@property --shiny-angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+@property --shiny-angle-offset {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+@property --shiny-percent {
+  syntax: "<percentage>";
+  initial-value: 5%;
+  inherits: false;
+}
+@property --shiny-shine {
+  syntax: "<color>";
+  initial-value: white;
+  inherits: false;
+}
+
+.shiny-btn {
+  --shiny-label: #ffffff;
+  --shiny-animation: shiny-angle linear infinite;
+  --shiny-duration: 3s;
+  --shiny-shadow-size: 2px;
+  --shiny-transition: 0.8s cubic-bezier(0.25, 1, 0.5, 1);
+
+  isolation: isolate;
+  position: relative;
+  overflow: hidden;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  outline-offset: 4px;
+  min-height: 3rem;
+  padding: 0.875rem 2rem;
+  font-size: 1rem;
+  line-height: 1.2;
+  font-weight: 600;
+  text-decoration: none;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  color: var(--shiny-label);
+  background:
+    linear-gradient(var(--shiny-fill), var(--shiny-fill)) padding-box,
+    conic-gradient(
+      from calc(var(--shiny-angle) - var(--shiny-angle-offset)),
+      transparent,
+      var(--shiny-accent) var(--shiny-percent),
+      var(--shiny-shine) calc(var(--shiny-percent) * 2),
+      var(--shiny-accent) calc(var(--shiny-percent) * 3),
+      transparent calc(var(--shiny-percent) * 4)
+    ) border-box;
+  box-shadow: inset 0 0 0 1px var(--shiny-inset);
+  transition: var(--shiny-transition);
+  transition-property: --shiny-angle-offset, --shiny-percent, --shiny-shine;
+}
+.shiny-btn::before,
+.shiny-btn::after,
+.shiny-btn span::before {
+  content: "";
+  pointer-events: none;
+  position: absolute;
+  inset-inline-start: 50%;
+  inset-block-start: 50%;
+  translate: -50% -50%;
+  z-index: -1;
+}
+.shiny-btn:active {
+  translate: 0 1px;
+}
+.shiny-btn::before {
+  --size: calc(100% - var(--shiny-shadow-size) * 3);
+  --position: 2px;
+  --space: calc(var(--position) * 2);
+  width: var(--size);
+  height: var(--size);
+  background: radial-gradient(circle at var(--position) var(--position), white calc(var(--position) / 4), transparent 0) padding-box;
+  background-size: var(--space) var(--space);
+  background-repeat: space;
+  mask-image: conic-gradient(from calc(var(--shiny-angle) + 45deg), black, transparent 10% 90%, black);
+  border-radius: inherit;
+  opacity: 0.4;
+}
+.shiny-btn::after {
+  --shiny-animation: shiny-shimmer linear infinite;
+  width: 100%;
+  aspect-ratio: 1;
+  background: linear-gradient(-50deg, transparent, var(--shiny-accent), transparent);
+  mask-image: radial-gradient(circle at bottom, transparent 40%, black);
+  opacity: 0.6;
+}
+.shiny-btn span {
+  /* position verilmez: span::before (iç parıltı) düğmenin tamamına göre konumlanır — kaynak bileşendeki gibi */
+  z-index: 1;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.shiny-btn span::before {
+  --size: calc(100% + 1rem);
+  width: var(--size);
+  height: var(--size);
+  box-shadow: inset 0 -1ex 2rem 4px var(--shiny-accent);
+  opacity: 0;
+  transition: opacity var(--shiny-transition);
+  animation: calc(var(--shiny-duration) * 1.5) shiny-breathe linear infinite;
+}
+.shiny-btn,
+.shiny-btn::before,
+.shiny-btn::after {
+  animation:
+    var(--shiny-animation) var(--shiny-duration),
+    var(--shiny-animation) calc(var(--shiny-duration) / 0.4) reverse paused;
+  animation-composition: add;
+}
+.shiny-btn:is(:hover, :focus-visible) {
+  --shiny-percent: 20%;
+  --shiny-angle-offset: 95deg;
+  --shiny-shine: var(--shiny-accent-soft);
+}
+.shiny-btn:is(:hover, :focus-visible),
+.shiny-btn:is(:hover, :focus-visible)::before,
+.shiny-btn:is(:hover, :focus-visible)::after {
+  animation-play-state: running;
+}
+.shiny-btn:is(:hover, :focus-visible) span::before {
+  opacity: 1;
+}
+.shiny-btn:disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+}
+@keyframes shiny-angle {
+  to {
+    --shiny-angle: 360deg;
+  }
+}
+@keyframes shiny-shimmer {
+  to {
+    rotate: 360deg;
+  }
+}
+@keyframes shiny-breathe {
+  from,
+  to {
+    scale: 1;
+  }
+  50% {
+    scale: 1.2;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .shiny-btn,
+  .shiny-btn::before,
+  .shiny-btn::after,
+  .shiny-btn span::before {
+    animation: none !important;
+  }
+  .shiny-btn:is(:hover, :focus-visible),
+  .shiny-btn:is(:hover, :focus-visible)::before,
+  .shiny-btn:is(:hover, :focus-visible)::after {
+    animation-play-state: paused !important;
+  }
+  .shiny-btn:is(:hover, :focus-visible) span::before {
+    opacity: 0;
+  }
+  .shiny-btn {
+    transition: none;
+  }
+}
+
+/* Footer: "Design by 3Y" bağlantısı — akan turuncu-beyaz gradyan yazı, hover'da alt çizgi süpürme */
+@keyframes creditShine {
+  to {
+    background-position: 200% center;
+  }
+}
+.credit-link-text {
+  background-image: linear-gradient(90deg, #ffffff 0%, #ffb083 25%, #ffffff 50%, #ffb083 75%, #ffffff 100%);
+  background-size: 200% auto;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  animation: creditShine 4s linear infinite;
+  background-repeat: repeat-x;
+  position: relative;
+  padding-bottom: 2px;
+}
+.credit-link-text::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 1.5px;
+  width: 100%;
+  background: linear-gradient(90deg, #ff6a2b, #ffb083);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.credit-link:hover .credit-link-text::after,
+.credit-link:focus-visible .credit-link-text::after {
+  transform: scaleX(1);
+}
+.credit-link:focus-visible {
+  outline: 2px solid #ffb083;
+  outline-offset: 4px;
+  border-radius: 4px;
+}
+@media (prefers-reduced-motion: reduce) {
+  .credit-link-text {
+    animation: none;
+    background-image: none;
+    color: #ffffff;
+    -webkit-text-fill-color: #ffffff;
+  }
+}
+
+/* Image Auto Slider (projeler galerisi): iki kopya -50% kayar; hover/odakta durur */
+@keyframes image-slider-scroll {
+  from { transform: translateX(-50%); }
+  to { transform: translateX(0); }
+}
+.image-slider-track {
+  animation: image-slider-scroll 90s linear infinite;
+}
+.image-slider-track:hover,
+.image-slider-track:focus-within {
+  animation-play-state: paused;
+}
+.image-slider-mask {
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 6%, #000 94%, transparent);
+  mask-image: linear-gradient(to right, transparent, #000 6%, #000 94%, transparent);
+}
+@media (prefers-reduced-motion: reduce) {
+  .image-slider-track { animation: none; }
+}
+
+/* Kurumsal (Intro) arka planı: süzülen renk lekeleri, yavaş dönen halkalar ve soluk nokta ızgarası */
+@keyframes introDriftA {
+  from { transform: translate3d(-6%, -4%, 0) scale(1); }
+  to { transform: translate3d(8%, 10%, 0) scale(1.15); }
+}
+@keyframes introDriftB {
+  from { transform: translate3d(6%, 6%, 0) scale(1.1); }
+  to { transform: translate3d(-10%, -8%, 0) scale(0.95); }
+}
+@keyframes introSpin {
+  to { transform: translate(-50%, -50%) rotate(360deg); }
+}
+.intro-blob-a { animation: introDriftA 18s ease-in-out infinite alternate; will-change: transform; }
+.intro-blob-b { animation: introDriftB 24s ease-in-out infinite alternate; will-change: transform; }
+.intro-ring-a { animation: introSpin 80s linear infinite; }
+.intro-ring-b { animation: introSpin 120s linear infinite reverse; }
+.intro-dots {
+  background-image: radial-gradient(rgba(35, 48, 95, 0.16) 1px, transparent 1.4px);
+  background-size: 26px 26px;
+  -webkit-mask-image: radial-gradient(ellipse 70% 60% at 60% 50%, #000, transparent 80%);
+  mask-image: radial-gradient(ellipse 70% 60% at 60% 50%, #000, transparent 80%);
+}
+@media (prefers-reduced-motion: reduce) {
+  .intro-blob-a, .intro-blob-b, .intro-ring-a, .intro-ring-b { animation: none; }
+}
+
+/* Yumuşak renk lekeleri: filter:blur yerine radyal gradyan (büyük blur'lar ilk boyamayı yavaşlatıyordu) */
+.blob-orange { background: radial-gradient(closest-side, rgba(253, 186, 116, 0.55), rgba(253, 186, 116, 0)); }
+.blob-orange-soft { background: radial-gradient(closest-side, rgba(254, 215, 170, 0.6), rgba(254, 215, 170, 0)); }
+.blob-blue { background: radial-gradient(closest-side, rgba(147, 197, 253, 0.55), rgba(147, 197, 253, 0)); }
+.blob-blue-soft { background: radial-gradient(closest-side, rgba(191, 219, 254, 0.6), rgba(191, 219, 254, 0)); }
+.blob-accent { background: radial-gradient(closest-side, rgba(176, 74, 32, 0.55), rgba(176, 74, 32, 0)); }
+.blob-white { background: radial-gradient(closest-side, rgba(255, 255, 255, 0.55), rgba(255, 255, 255, 0)); }

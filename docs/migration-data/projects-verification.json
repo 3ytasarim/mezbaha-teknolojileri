@@ -1,0 +1,88 @@
+{
+  "sourcePages": {
+    "capacityPackages": "https://www.mezbahateknolojileri.com/tr/projeler/",
+    "homepage": "https://www.mezbahateknolojileri.com/tr/",
+    "corporate": "https://www.mezbahateknolojileri.com/tr/kurumsal/"
+  },
+  "verificationDate": "2026-09-18",
+  "capacityPackages": [
+    {
+      "code": "C-50",
+      "area": "~350 m²",
+      "capacity": "50 büyükbaş + 100 koyun",
+      "description": "C50, yaklaşık 350 m² alanda 50 büyükbaş ve 100 koyun kapasite planına göre tasarlanan kompakt bir küçük ölçekli kesimhane projesidir. Kesim alanı, sakatat hazırlama odası, soğuk oda, ofis alanı ve büyükbaş-koyun kesim süreçleri için gerekli temel makina ve ekipmanları içerir. Ekonomik yatırım yapısı, sade yerleşim planı ve hijyenik proses düzeni sayesinde C50; belediyeler, kooperatifler ve küçük et işletmeleri için ideal bir mini kesimhane çözümüdür.",
+      "imageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/thumb/image_1784296440197755.webp"
+    },
+    {
+      "code": "C-50 Plus",
+      "area": "400 m²",
+      "capacity": "70 büyükbaş + 200 küçükbaş",
+      "description": "400 m² alan üzerine kurulu 70 büyükbaş ve 200 küçükbaş kesimhane, sakatathane, soğuk oda, et parçalama ve asma katta ofis alanı mevcut. Bütün hijyenik ve kırmızı et yönetmeliği gereksinimlerini karşılayan kesimhanedir. Başlıca ekipmanlar: klasik kesim hücresi, kanama vinci, aktarma vinci, aktarma istasyonu, klasik deri yüzme makinası, işkembe istasyonu, karkas bölme istasyonu ve karkas bölme testeresi.",
+      "imageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/thumb/image_1612632726439319.jpg"
+    },
+    {
+      "code": "C-100",
+      "area": "550 m²",
+      "capacity": "100 büyükbaş + 300 küçükbaş",
+      "description": "550 m² alan üzerine kurulu 100 büyükbaş ve 300 küçükbaş kesimhane, sakatathane, 2 adet karkas soğuk oda, 2 adet -18/-40 depolama ve asma katta ofis alanı mevcut. Başlıca ekipmanlar: dairesel kesim hücresi, kanama vinci, aktarma vinci, aktarma istasyonu, hidrolik deri yüzme makinası, işkembe istasyonu, karkas bölme istasyonu ve karkas bölme testeresi, ayak kesme makası, döş açma testeresi.",
+      "imageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/thumb/image_1612638044160113.jpg"
+    },
+    {
+      "code": "C-100 Plus",
+      "area": "680 m²",
+      "capacity": "100 büyükbaş + 300 küçükbaş",
+      "description": "680 m² alan üzerine kurulu 100 büyükbaş ve 300 küçükbaş kesimhane, sakatathane, 3 adet karkas soğuk oda, 2 adet -18/-40 depolama, et parçalama odası ve asma katta ofis alanı mevcut. Başlıca ekipmanlar: dairesel kesim hücresi, kanama vinci, aktarma vinci, aktarma istasyonu, hidrolik deri yüzme makinası, işkembe istasyonu, karkas bölme istasyonu ve karkas bölme testeresi, ayak kesme makası, döş açma testeresi, et parçalama testeresi, et parçalama masaları.",
+      "imageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/thumb/image_1612647940376819.jpg"
+    },
+    {
+      "code": "C-100 XL",
+      "area": "980 m²",
+      "capacity": "150 büyükbaş + 500 küçükbaş",
+      "description": "980 m² alan üzerine kurulu 150 büyükbaş ve 500 küçükbaş kesimhane, sakatathane, 2 adet karkas soğuk oda, 2 adet -18/-40 depolama ve asma katta ofis alanı mevcut. Başlıca ekipmanlar: dairesel kesim hücresi, kanama vinci, aktarma vinci, aktarma istasyonu, hidrolik deri yüzme makinası, işkembe istasyonu, karkas bölme istasyonu ve karkas bölme testeresi, ayak kesme makası, döş açma testeresi.",
+      "imageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/thumb/image_1612734410664379.jpg"
+    },
+    {
+      "code": "C-200",
+      "area": "1200 m²",
+      "capacity": "200 büyükbaş + 700 küçükbaş",
+      "description": "1200 m² alan üzerine kurulu 200 büyükbaş ve 700 küçükbaş kesimhane, sakatathane, 3 adet karkas soğuk oda, 2 adet -18/-40 depolama ve asma katta ofis alanı mevcut. Başlıca ekipmanlar: dairesel kesim hücresi, kanama vinci, aktarma vinci, aktarma istasyonu, hidrolik deri yüzme makinası, işkembe istasyonu, karkas bölme istasyonu ve karkas bölme testeresi, ayak kesme makası, döş açma testeresi.",
+      "imageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/thumb/image_161281487489305.jpg"
+    },
+    {
+      "code": "C-300",
+      "area": "2700 m²",
+      "capacity": "300 büyükbaş + 2000 küçükbaş",
+      "description": "2700 m² alan üzerine kurulu 300 büyükbaş ve 2000 küçükbaş kesimhane, sakatathane, 4 adet karkas soğuk oda, 2 adet -18/-40 depolama ve asma katta ofis alanı mevcut. Başlıca ekipmanlar: dairesel kesim hücresi, klasik kesim hücresi, otomatik kanama hattı, kanama vinci, aktarma vinci, aktarma istasyonu, hidrolik deri yüzme makinası, işkembe istasyonu, karkas bölme istasyonu ve karkas bölme testeresi, ayak kesme makası, döş açma testeresi.",
+      "imageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/projects/images/thumb/image_1612815769467348.jpg"
+    }
+  ],
+  "capacityPackagesPageFullyRead": true,
+  "capacityPackagesPageFullyReadNote": "Sayfa get_page_text ile tek seferde tamamen okundu (önceki envanterdeki ~6000 karakter kesintisi bu turda aşıldı). C-300'den sonra sayfa doğrudan 'MEZBAHA TEKNOLOJİLERİ GALERİ' bölümüne ve ardından footer'a geçiyor — C-300'den büyük/başka bir kapasite paketi YOK. Toplam paket sayısı kesin olarak 7'dir: C-50, C-50 Plus, C-100, C-100 Plus, C-100 XL, C-200, C-300. Her paket için ayrı görsel/video seti (uploads/projects/images/thumb/ altında benzersiz dosya adlarıyla) doğrulandı — JS ile document.querySelectorAll('img') taranarak her paket bölümüne ait 4'er benzersiz görsel dosyası tespit edildi (görsel URL'leri responsive/slider nedeniyle DOM'da 2-3 kez tekrarlanıyor ama dosya adları paket başına benzersiz).",
+  "referenceProjectCards": {
+    "haveIndividualUrls": false,
+    "urlPatternIfAny": null,
+    "verificationMethod": "Ana sayfada (https://www.mezbahateknolojileri.com/tr/) owl-carousel içindeki kartlardan 3 tanesi (NETHERLANDS/Harderwijk, AZERBAIJAN/Gobustan, QATAR/Al Khoor) JavaScript ile DOM incelemesi yapıldı: her kart için querySelectorAll('a').length === 0 ve querySelectorAll('[onclick]').length === 0 sonucu alındı — kartların içinde veya üst elementlerinde (8 seviye yukarıya kadar .owl-item > .owl-stage > .owl-carousel) hiçbir <a> etiketi veya onclick handler bulunamadı. Kartlar salt statik owl-carousel slaytlarıdır, her biri bir arka plan görseli (uploads/contents/thumb/content_thumb_*.webp) ve düz metin (ülke/şehir/tip/kapasite) içerir. Önceki envanterdeki şüphe DOĞRULANDI: bu kartların tek tek proje detay sayfası URL'leri YOKTUR.",
+    "cards": [
+      {"country": "Hollanda", "city": "Harderwijk", "type": "Slaughterhouse", "capacity": "180 sheep/hour", "detailUrl": null},
+      {"country": "Azerbaycan", "city": "Gobustan", "type": "Slaughterhouse", "capacity": "150 cattle, 1500 sheep", "detailUrl": null},
+      {"country": "Katar", "city": "Al Khoor", "type": "Slaughterhouse", "capacity": "100 cattle/shift", "detailUrl": null},
+      {"country": "Porto Riko", "city": "San Juan", "type": "Rotation Cattle Box", "capacity": "60 cattle/hour", "detailUrl": null},
+      {"country": "Fas", "city": "Kenitra", "type": "Modern Slaughterhouse", "capacity": "500 cattle, 3000 sheep", "detailUrl": null},
+      {"country": "Kırgızistan", "city": "Karakol", "type": "Slaughterhouse", "capacity": "200 cattle, 1500 sheep", "detailUrl": null},
+      {"country": "Gürcistan", "city": "Khashuri", "type": "Slaughterhouse", "capacity": "25 cattle, 25 pig", "detailUrl": null},
+      {"country": "Türkmenistan", "city": "Aşkabat", "type": "Slaughterhouse", "capacity": "100 cattle, 300 sheep", "detailUrl": null},
+      {"country": "Arjantin", "city": "Buenos Aires", "type": "Leather Skinning", "capacity": "100 cattle/hour", "detailUrl": null},
+      {"country": "Azerbaycan", "city": "Bakü", "type": "Meat Processing", "capacity": "200 cattle, 400 sheep", "detailUrl": null},
+      {"country": "Türkiye", "city": "Çorum", "type": "Slaughterhouse", "capacity": "700 cattle, 3000 sheep", "detailUrl": null},
+      {"country": "Bosna Hersek", "city": "Prijedor", "type": "Rotational Cattle Box", "capacity": "60 cattle/hour", "detailUrl": null},
+      {"country": "Arnavutluk", "city": "Pogradec", "type": "Micro Slaughterhouse", "capacity": "50 cattle", "detailUrl": null},
+      {"country": "Kırgızistan", "city": "Bişkek", "type": "Meat Processing Cold Room", "capacity": "50 carcass", "detailUrl": null},
+      {"country": "Azerbaycan", "city": "Xaçmaz", "type": "Slaughterhouse", "capacity": "100 cattle, 300 sheep", "detailUrl": null},
+      {"country": "Azerbaycan", "city": "Novhani", "type": "Slaughterhouse", "capacity": "50 cattle, 100 sheep", "detailUrl": null},
+      {"country": "Türkiye", "city": "Afyon", "type": "Slaughterhouse", "capacity": "700 cattle, 2000 sheep", "detailUrl": null},
+      {"country": "Azerbaycan", "city": "Tovuz", "type": "Slaughterhouse", "capacity": "100 cattle, 300 sheep", "detailUrl": null},
+      {"country": "Tacikistan", "city": "Duşanbe", "type": "Meat Factory", "capacity": "2000 kg/hour", "detailUrl": null}
+    ]
+  },
+  "corporatePageAdditionalFindings": "/tr/kurumsal/ sayfası tam olarak (get_page_text ile baştan sona, footer'a kadar) yeniden okundu. Sayfanın GÖRÜNÜR METNİNİN TAMAMI şudur: başlık 'Kurumsal', ardından mevcut envanterde zaten kayıtlı olan iki paragraf ('Proje uzmanlarımız müşteriye özel...' ve 'Mezbaha Teknolojileri Deneyimi...'), sonra 'Müşteri Memnuniyeti için etkili çözümler' başlıklı bir paragraf ('Mezbaha Teknolojileri en modern kesim ve et işleme sistemleri...'), ve son olarak 'Türkiye çapında liderlik' başlığı + tek cümlelik metin ('Mezbaha Teknolojileri Mezbaha otomasyon sistemleri konusunda liderdir.'). Bundan sonra doğrudan standart footer geliyor. ÖNCEKİ ENVANTERİN NEGATİF BULGULARI DOĞRULANDI: sayfada ekip/yönetici bölümü, sertifika (ISO/CE vb.) rozeti veya bölümü, şirket tarihçesi/kuruluş yılı, ayrı misyon-vizyon bölümü, üretim tesisi/fabrika fotoğraf galerisi YOKTUR. Hiçbir yeni/ek içerik bulunamadı — sayfa mevcut envanterde zaten belgelenenle birebir aynı ve tamdır."
+}

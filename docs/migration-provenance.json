@@ -1,0 +1,942 @@
+{
+  "generatedAt": "2026-09-23T19:59:14.114Z",
+  "count": 117,
+  "records": [
+    {
+      "entityType": "category",
+      "entityId": "cmu73gga50000ss7kffzrhfsr",
+      "slug": "buyukbas",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/buyukbas-mezbaha-makinalari/",
+      "sourceHash": "84ca1b5e8300bec8e4836465efe6f7ee37f0cd46cfe72bdb90ca101decc37973",
+      "importedAt": "2026-09-23T18:01:21.471Z"
+    },
+    {
+      "entityType": "category",
+      "entityId": "cmu73kmqu0001w07kngn1qhgl",
+      "slug": "kucukbas",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kucukbas-mezbaha-makinalari/",
+      "sourceHash": "c5bf6aebd98978312a8821b12b3cad9528cee795aaf0cef882682c5a92e04e7b",
+      "importedAt": "2026-09-23T18:01:21.670Z"
+    },
+    {
+      "entityType": "category",
+      "entityId": "cmueeqv4w002smcp67by5z83n",
+      "slug": "kurban-kesim",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kurban-kesim/",
+      "sourceHash": "0504942c02b311c5dcef72a23661db48d7b8bda6f85efe4145abccffcacc8e82",
+      "importedAt": "2026-09-23T18:01:21.863Z"
+    },
+    {
+      "entityType": "category",
+      "entityId": "cmueeqvh4002vmcp6djnwvjuu",
+      "slug": "mezbaha-sistemleri",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-sistemleri/",
+      "sourceHash": "86911b63811f1d34dea625f7f93edfb8ac5c1aaad010d9374b35f920ac300418",
+      "importedAt": "2026-09-23T18:01:22.055Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmu73ghmd0008ss7kngsl3kyn",
+      "slug": "c-50",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "10663f2387faa28687e9607e7ee4be92ae92e910951ca2973ab6fdbf4bfd0fee",
+      "importedAt": "2026-09-23T18:01:22.238Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueeqw7o0030mcp6ad702iuj",
+      "slug": "c-50-plus",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "eebba39b879056524987728ff158fc2c7327f7d7f1ba08e6a942eeb6055864b4",
+      "importedAt": "2026-09-23T18:01:22.436Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueeqwjz0033mcp6xytvmpu6",
+      "slug": "c-100",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "5e451dd0afc555a0de0d9765b91912faee230c9e5c7bd2b6808b003415de4d36",
+      "importedAt": "2026-09-23T18:01:22.657Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueeqww20036mcp6okr9iuf2",
+      "slug": "c-100-plus",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "5eab7424ca0f7cbd9929f489d0e404a414f706a707ad723d50d77b183099caf2",
+      "importedAt": "2026-09-23T18:01:22.840Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueeqx850039mcp6k3zbf80p",
+      "slug": "c-100-xl",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "e88f4999e7566f5c6eb49eeaa61e6297c82f2d4dc0f1c129a03713683f12d2ae",
+      "importedAt": "2026-09-23T18:01:23.034Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueeqxk2003cmcp675uqzzs2",
+      "slug": "c-200",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "9c465c0be4a965b5bff022d19cb22503423516c5b1b19824c9f3b7c0ecd7e53f",
+      "importedAt": "2026-09-23T18:01:23.220Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueeqxw4003fmcp6i04c64ah",
+      "slug": "c-300",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "a0b753851d742a6fa9019c4310956d3e4deb09cc75aac42b83e305295b5e1336",
+      "importedAt": "2026-09-23T18:01:23.412Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueeqy4p003hmcp6tz6f5cmp",
+      "slug": "hollanda-harderwijk",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "9ff6e0c23a83ead1d8ce7a6fff7deb97d23ac786bb8f0baf4a13ccd81c29e010",
+      "importedAt": "2026-09-23T18:01:23.596Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmu73mvu10005w07kbjch1iy8",
+      "slug": "azerbaycan-gobustan",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "fec0d01b721babd7df9cce80581a61670abe9ba0a49b3a495da199c83225b68f",
+      "importedAt": "2026-09-23T18:01:23.659Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueeqyf0003jmcp63c7eg6ae",
+      "slug": "katar-al-khoor",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "40b8f1971b99ce88583cf9ff59ccebe4ec03a8b470d8e35b0baf444a69a785f4",
+      "importedAt": "2026-09-23T18:01:23.722Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueeqyno003lmcp6ica3ri0o",
+      "slug": "porto-riko-san-juan",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "01184aefa768aab8fa67596423ca340380c643c54d3edb671495ec66f7f49219",
+      "importedAt": "2026-09-23T18:01:23.793Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmu73ghyo000ass7knkm27opx",
+      "slug": "fas-kenitra",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "67fa4aff55e14550e10123d21976950baa56fcb6f8061cc96f596b92aeb6f74c",
+      "importedAt": "2026-09-23T18:01:23.856Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueeqyyd003nmcp62884c1hw",
+      "slug": "kirgizistan-karakol",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "5b9c48aa22771964bf90c9f7a8f655ed0a00233f678b375a2fb351aaf77cee56",
+      "importedAt": "2026-09-23T18:01:23.918Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueeqz7c003pmcp6cg5it9g7",
+      "slug": "gurcistan-khashuri",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "3e36384816171cbfab4c85b74b16353fcbd45d040e20849a61c98a8ed8f416af",
+      "importedAt": "2026-09-23T18:01:23.981Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueeqzfx003rmcp61ok15k97",
+      "slug": "turkmenistan-askabat",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "3aeea75d1174cae488a817ea0027c95ff87742ffb810f90073b1945d41b8e97f",
+      "importedAt": "2026-09-23T18:01:24.058Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueeqzoj003tmcp662wgf1ac",
+      "slug": "arjantin-buenos-aires",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "ad18050d83d5fdd3464a5eb2783769d18e1addfad42917b9723c5b6d4ce2eaba",
+      "importedAt": "2026-09-23T18:01:24.118Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueeqzx0003vmcp6v8lt7zjt",
+      "slug": "azerbaycan-baku",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "f6825dfd55f2c13c936838f88bfc0a07d852f9f3c1b5faf39e48fb0d08cae585",
+      "importedAt": "2026-09-23T18:01:24.189Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueer05k003xmcp6acggpen4",
+      "slug": "turkiye-corum",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "6b3f24e8d5be7f4e165d0ea76ea6309dbaffd0adc2cb7da5e9cf2b0452d536b9",
+      "importedAt": "2026-09-23T18:01:24.253Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueer0e4003zmcp6mcpu7q05",
+      "slug": "bosna-hersek-prijedor",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "add9eb6abfa43ac972ecc9432f373fb6d08e7209bf48633cca0a83f3075ffaf6",
+      "importedAt": "2026-09-23T18:01:24.315Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueer0mm0041mcp633ajhja6",
+      "slug": "arnavutluk-pogradec",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "6aa8d4e9c5a80d623679003de84da45c3a230adb4e2e4bc8fc1bb4bca3304870",
+      "importedAt": "2026-09-23T18:01:24.378Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueer0vq0043mcp6i60kodbx",
+      "slug": "kirgizistan-biskek",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "3acd2817b6aa1dd3a0935c123fc1fa9597c3c074b336683ba2eb38982451ecdb",
+      "importedAt": "2026-09-23T18:01:24.439Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueer1460045mcp6awv4ms2g",
+      "slug": "azerbaycan-xacmaz",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "70f340c14a5bd3bf09f1fb830d250420c96f1b6c05550be80f3a5a55f7e48a77",
+      "importedAt": "2026-09-23T18:01:24.498Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueer1cp0047mcp6qapjg8ly",
+      "slug": "azerbaycan-novhani",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "c81623eb533dc23ffce692c5b5c2f39b070890c2b3055da4090f355fa51dda8f",
+      "importedAt": "2026-09-23T18:01:24.559Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueer1l90049mcp6ehbeyeat",
+      "slug": "turkiye-afyon",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "1ef5a8415c1de6848b952d9067d3ddece7025321d652311ac721d59c560e1ab2",
+      "importedAt": "2026-09-23T18:01:24.626Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueer1tr004bmcp63e5zbsw3",
+      "slug": "azerbaycan-tovuz",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "85a94a060c03663674a62e14b612eeb2ff5b81c91077a31594ab1122efe715c7",
+      "importedAt": "2026-09-23T18:01:24.697Z"
+    },
+    {
+      "entityType": "project",
+      "entityId": "cmueer228004dmcp6f19valpt",
+      "slug": "tacikistan-dusanbe",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/",
+      "sourceHash": "0a7d4efcbe287be532a7f096bc33a9635c4955b02e4b63a8a9a6f58ee9549832",
+      "importedAt": "2026-09-23T18:01:24.756Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmu73ghak0006ss7k75pfiwq2",
+      "slug": "dairesel-kesim-hucresi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/dairesel-kesim-hucresi/",
+      "sourceHash": "d37955d8dcdc0a02f23a8edb7d345a6ded760dd7ba7232c0f4eabce8bce9171a",
+      "importedAt": "2026-09-23T18:01:24.824Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueer40n0051mcp6q5naq1m1",
+      "slug": "ayakta-kesim-hucresi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/ayakta-kesim-hucresi/",
+      "sourceHash": "2c2838ac2930571698c1333c20e4ff04e595a41741f16faefda72b3e14118a68",
+      "importedAt": "2026-09-23T18:01:25.643Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueer4r0005imcp6tx22wr0m",
+      "slug": "klasik-kesim-hucresi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-sistemleri-klasik-kesim-hucresi/",
+      "sourceHash": "605404646d4970c51e0a5ecda24cfe58372f5c308758e15516159424ead6a3c3",
+      "importedAt": "2026-09-23T18:01:26.153Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmu73ggml0002ss7klseq87d6",
+      "slug": "hidrolik-deri-yuzme-makinasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/hidrolik-deri-yuzme-makinasi/",
+      "sourceHash": "f547aa8b2cbbffbd7f3ee9fcd545a12d85816f6b9f97a45a0c478b1b24fb5d6f",
+      "importedAt": "2026-09-23T18:01:26.746Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueer64k0061mcp61qfb5mm4",
+      "slug": "mekanik-deri-yuzme",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mekanik-deri-yuzme-673/",
+      "sourceHash": "6ce866461856f4c399f5da6f69dd97595af950534b7d1c525d4558218ccdade7",
+      "importedAt": "2026-09-23T18:01:27.202Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmu73ggyr0004ss7kjsdhxo9b",
+      "slug": "karkas-bolme-testeresi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/karkas-bolme-testeresi/",
+      "sourceHash": "d1af713270d5b3d17f647421fd4d0c3040b553a96639684e4b131844caf40e8b",
+      "importedAt": "2026-09-23T18:01:27.522Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueer804006qmcp6wgcrn7x5",
+      "slug": "dos-acma-testeresi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/dos-acma-testeresi/",
+      "sourceHash": "7055bd80fa811ddebe095577d2a9232b8e65fc015f6dd678ea932fcbec6701f1",
+      "importedAt": "2026-09-23T18:01:28.079Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmu73m0dp0003w07kisej37fd",
+      "slug": "ayak-kesme-makasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/ayak-kesme-makasi/",
+      "sourceHash": "81878249b0eb01dc6984a47252abd8f8099e9d11695025cd39f4aac95902f1c5",
+      "importedAt": "2026-09-23T18:01:28.627Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueer9pj007umcp6wy4bt4p4",
+      "slug": "et-yukleme-kolu",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-makinalari-et-yukleme-kolu/",
+      "sourceHash": "dab37c1e89444cb29549526a4dec0f9979e7c27cbf2192bd37d980b8b92dfa3c",
+      "importedAt": "2026-09-23T18:01:29.081Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerahc0084mcp6af31d09g",
+      "slug": "ceyrekleme-elevatoru",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/ceyrekleme-elevatoru-872/",
+      "sourceHash": "a22dfec6b37be73e6e187ec5aeb5b9ff6d6c02171e436f8184e42bd0a9eacbf4",
+      "importedAt": "2026-09-23T18:01:29.481Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerbdb008gmcp6q3tmb97s",
+      "slug": "aktarma-platformu",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/aktarma-platformu/",
+      "sourceHash": "74299e54646e6a8ec954ab353e62cceacb16d78754a34eef01a11c4c77337292",
+      "importedAt": "2026-09-23T18:01:29.924Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerc8l008tmcp6l1y6pv3j",
+      "slug": "pnomatik-iskembe-platformu",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/pnomatik-iskembe-platformu-707/",
+      "sourceHash": "227175cd5a0959156ba62922bf2b77d451c6e7aed8fa51a8f081d5c7b496d2ab",
+      "importedAt": "2026-09-23T18:01:30.454Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerd0i0095mcp6vodlazmp",
+      "slug": "kancalar",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kancalar/",
+      "sourceHash": "87dff2a64f73b7fd74805378a891df80a2bd66690e99c8f7259f1023b2ecba15",
+      "importedAt": "2026-09-23T18:01:30.960Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerdot009fmcp6bkqcgcjq",
+      "slug": "iskembe-atik-pompasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/iskembe-atik-pompasi/",
+      "sourceHash": "977631d34f7dc7320dd165aed0e4f1674458e9ae08c558b57d4a9e5573f51a19",
+      "importedAt": "2026-09-23T18:01:31.406Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueeredg009omcp62gamen3g",
+      "slug": "monray-ikizray",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-sistemleri-monray-ikizray/",
+      "sourceHash": "4b8bf6ebef4d1b5e882beded3a70c273a34b35069927dda5bd552605967cc4d0",
+      "importedAt": "2026-09-23T18:01:31.797Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerev9009vmcp648x998lg",
+      "slug": "testere-sterilizatorleri",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/testere-sterilizatorleri/",
+      "sourceHash": "1e574d43d560bda054a7f1bd98526f31d8c27874cba9a4ac6990ca30a3df08bb",
+      "importedAt": "2026-09-23T18:01:32.182Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerfg200a1mcp64pv74tfi",
+      "slug": "kanama-vinci",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kanama-vinci-876/",
+      "sourceHash": "d1e67355fd759bc523a2124c1b41fd129517c17cdf9247790e0b1e75180ad9ef",
+      "importedAt": "2026-09-23T18:01:32.443Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerfu300a6mcp6gzxqliqo",
+      "slug": "sigir-kanama-elevatoru",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/sigir-kanama-elevatoru/",
+      "sourceHash": "8b5b14daf307ee18363c445b29cbf1b681dd5ca259ead96a810895db76103ad3",
+      "importedAt": "2026-09-23T18:01:32.776Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerga600aamcp64i7nje5y",
+      "slug": "sigir-isleme-hatti",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/sigir-isleme-hatti-otomatik/",
+      "sourceHash": "469b436b265099b291bb87a780579fdcbacc0d09c5e9d948f5178b14b5a1f2f2",
+      "importedAt": "2026-09-23T18:01:32.965Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueergrc00afmcp6x3st9xyo",
+      "slug": "ciger-konveyoru",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/ciger-konveyoru-308/",
+      "sourceHash": "29a648e77e78b5bc58095b72b70635e59d7a8fc8bcca9ca3bd1bdf49db1c7081",
+      "importedAt": "2026-09-23T18:01:33.231Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerhg000ammcp6kjgipqc0",
+      "slug": "mezbaha-lavabolari",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-lavabolari/",
+      "sourceHash": "3b17583e6f4e8c066b56625d4622aafa336437fa199cf70ba3e3ec5c70c7a2e5",
+      "importedAt": "2026-09-23T18:01:33.504Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerhxe00atmcp62y47hax7",
+      "slug": "cizme-yikama-istasyonu",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/cizme-yikama-istasyonu/",
+      "sourceHash": "2c0f5f398251f3e369d218f56ce6f6c22d1f270b7bcde454390721c6d1f70137",
+      "importedAt": "2026-09-23T18:01:33.872Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerib700axmcp6na1dcepn",
+      "slug": "cizme-askiligi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/cizme-askiligi/",
+      "sourceHash": "1a11f7b0af01ede7b757f669366bac68cb9ddb766e189768a0bfced9df627870",
+      "importedAt": "2026-09-23T18:01:34.127Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueeriug00b2mcp6levtrn3v",
+      "slug": "ayak-yikama-makinasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/ayak-yikama-makinasi/",
+      "sourceHash": "0bafb4263df9e8495928570cb91963ea575e8536c81a34ed395f730a65cd035d",
+      "importedAt": "2026-09-23T18:01:34.320Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerjbt00b8mcp630t9lref",
+      "slug": "beyin-cikarma-makinasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/beyin-cikarma-makinasi/",
+      "sourceHash": "49c05235f2d5f129e2172c080bfc64799e93dca2d3ad676d590cf1a4237e55cb",
+      "importedAt": "2026-09-23T18:01:34.639Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerjpp00bcmcp6srznfscs",
+      "slug": "deri-temizleme-tavasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/deri-temizleme-tavasi/",
+      "sourceHash": "ed705c76ef72bc0057ed10e667692b838308b037289bda06802c8967a10fe881",
+      "importedAt": "2026-09-23T18:01:34.884Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerktp00bkmcp6eg5n4y1m",
+      "slug": "iskembe-temizleme-tavasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/iskembe-temizleme-tavasi/",
+      "sourceHash": "941c8c327a0438cf8d0edfd00cfc559801165b82bbfb4ab13b0fd80fb0028685",
+      "importedAt": "2026-09-23T18:01:35.079Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueermcr00bxmcp6wytfn75k",
+      "slug": "ciger-temizleme-tavasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/ciger-temizleme-tavasi/",
+      "sourceHash": "1c8268b0327e827d07b7fb48fe3e469c2c3b7446dd7d4955f86224bfec62d859",
+      "importedAt": "2026-09-23T18:01:35.685Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueernf000c7mcp69bxrbbpg",
+      "slug": "kurutmali-kan-tanki",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kurutmali-kan-tanki/",
+      "sourceHash": "3e2238e28156ac5a95472696d4a9ea2ef36ea9baa804924193e3eddd63df004a",
+      "importedAt": "2026-09-23T18:01:36.181Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueero3200cemcp6soldu4ry",
+      "slug": "sersemletme-ekipmani",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/sersemletme-ekipmani/",
+      "sourceHash": "86442c334c256ea9f0555097acd29e51823359163d689669f5895681eaa3b96e",
+      "importedAt": "2026-09-23T18:01:36.479Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerorh00cmmcp6ig7xaic3",
+      "slug": "sabit-kuyruk-acma-platformu",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/sabit-kuyruk-acma-platformu/",
+      "sourceHash": "6b36b914bdbf247d325773da30ed8cfbc0b015d01634b2de0ac1cacf81031d61",
+      "importedAt": "2026-09-23T18:01:36.822Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerpjt00cwmcp6v82bqpp1",
+      "slug": "sabit-aktarma-platformu",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/sabit-aktarma-platformu/",
+      "sourceHash": "c82e94f9115e83ab6d5dfeeb080ea9e4be446332ec9da5d59653672461ae24fc",
+      "importedAt": "2026-09-23T18:01:37.190Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerq8l00d6mcp6k0xqv40s",
+      "slug": "sabit-icorgan-platformu",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/sabit-icorgan-platformu/",
+      "sourceHash": "2d24d096445f27eba4381920758170a18abc6de248e83d80b3b7250409b9fc53",
+      "importedAt": "2026-09-23T18:01:37.626Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerqxs00dfmcp6bfeitid0",
+      "slug": "et-parcalama-masasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/et-parcalama-masasi/",
+      "sourceHash": "9a188f1f2c84c8e183e816f71c9fd0a83b261ec301b10351de69de75b22b2988",
+      "importedAt": "2026-09-23T18:01:38.003Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerrbp00dlmcp6ntwtk3kd",
+      "slug": "aktarma-vinci",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/aktarma-vinci/",
+      "sourceHash": "4202155bc15af1eaa55acaf5f9a07653cc24b61d5a07618863a439d6f39f0281",
+      "importedAt": "2026-09-23T18:01:38.387Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerrnr00domcp6ubq8eicn",
+      "slug": "kanca-geri-donus",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kanca-geri-donus/",
+      "sourceHash": "6fb169984e371f7d25cc1ac508cbb2233ba5e6eae79d45c3756b5601bfc1c342",
+      "importedAt": "2026-09-23T18:01:38.565Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueers0g00drmcp6j2cgmia9",
+      "slug": "ayak-germe-ve-kilitleme",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/ayak-germe-ve-kilitleme/",
+      "sourceHash": "6df9f09f83d8ad72f0010d2da02fa342d02aee79d3f7afc42675370b47a77c86",
+      "importedAt": "2026-09-23T18:01:38.747Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerscr00dumcp6qbem5qg0",
+      "slug": "kanama-kancasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kanama-kancasi/",
+      "sourceHash": "e2aa9c5700fd1d952590a3de5be90127cb817cdb5c8f9f94d8703eb4857cb348",
+      "importedAt": "2026-09-23T18:01:38.927Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueersow00dxmcp6w1p4gr4z",
+      "slug": "ikizray-kanca",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/ikizray-kanca/",
+      "sourceHash": "e996e90cac2a4be063ec6f6435c324ac2d8c4db06d6a8a2ec301c8fe6e025baf",
+      "importedAt": "2026-09-23T18:01:39.106Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueert0x00e0mcp6n3we2jgb",
+      "slug": "deri-bant-konveyoru",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/deri-bant-konveyoru/",
+      "sourceHash": "14e5cac3ec3243c0b9db9d1656dc2a20ee99dd806ae5ebdc05867704f56cdf3f",
+      "importedAt": "2026-09-23T18:01:39.286Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueertcw00e3mcp6ssw7jvb6",
+      "slug": "kanal-ve-izgara",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kanal-ve-izgara/",
+      "sourceHash": "d89083580f165dd01c76b892ceba68b0ea84dbe93027cd4159b387ccb2964502",
+      "importedAt": "2026-09-23T18:01:39.469Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueertpv00e6mcp6w4r3873v",
+      "slug": "kanama-tavasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kanama-tavasi/",
+      "sourceHash": "ccf3d237a3f56b00f001aa38659602a4d6dd929786f0bc861e351f586b2d3d24",
+      "importedAt": "2026-09-23T18:01:39.654Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueeru2c00e9mcp6regbyt0x",
+      "slug": "kan-tanki",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kan-tanki/",
+      "sourceHash": "eb3fd4ed4e09adf8313a11f037e62676433c089ecb2ec8d0bf092dda2ab562c5",
+      "importedAt": "2026-09-23T18:01:39.836Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerueg00ecmcp6vrfgcutv",
+      "slug": "sakatat-askisi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/sakatat-askisi/",
+      "sourceHash": "d787636dc95b99d0913823d6ba5fb6898807bfc706afddbcddff60fffa1cac06",
+      "importedAt": "2026-09-23T18:01:40.019Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerv8n00ekmcp6majizmen",
+      "slug": "koyun-isleme-konveyoru",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/koyun-isleme-konveyoru/",
+      "sourceHash": "adec2e8c847d34b1654fbb2cb2c52b64fb258a94aa41200d95d35df410a19881",
+      "importedAt": "2026-09-23T18:01:40.198Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerw2a00f3mcp6yg5gkady",
+      "slug": "koyun-kanama-elevatoru",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/sheep-bleeding-elevator/",
+      "sourceHash": "0cdfdbb6cae141480ec285547059b1676247c636715661d427237b3bdbdd5d6f",
+      "importedAt": "2026-09-23T18:01:40.722Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerwm200fdmcp6pzmdh50b",
+      "slug": "ic-organ-tasima-arabasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/ic-organ-tasima-arabasi/",
+      "sourceHash": "69dcab27df0aa0ca302d43cb04cb06237d9866dca33006430956ed1d072b70ae",
+      "importedAt": "2026-09-23T18:01:41.175Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerx1h00fomcp6m90wkod9",
+      "slug": "kanca-tasima-arabasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kanca-tasima-arabasi/",
+      "sourceHash": "46d1ec1a24055534eeac94c8fe6a0dfb891eb39a012d30e24fd8fccc5c42f139",
+      "importedAt": "2026-09-23T18:01:41.447Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerxex00ftmcp6bd6o7axf",
+      "slug": "ciger-tasima-arabasi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/ciger-tasima-arabasi/",
+      "sourceHash": "0f654455b667afe102c2065e67bde30d4f68b1b79d6859779d59f2d079233130",
+      "importedAt": "2026-09-23T18:01:41.627Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerxp700fymcp611hxhjen",
+      "slug": "kurban-pro",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kurban-pro/",
+      "sourceHash": "8943ac4c56724a8a4bb3a0b9a1d387fef1f2befc1f2b6c3652ae7464fe7bd772",
+      "importedAt": "2026-09-23T18:01:41.815Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueeryz300gdmcp630hfpwxe",
+      "slug": "profesyonel-mezbaha-sistemleri",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/profesyonel-mezbaha-sistemleri/",
+      "sourceHash": "8ce794f29ecfecae64ccadde6b780bd300f54f6dd30478d940d8d11276da0afe",
+      "importedAt": "2026-09-23T18:01:41.937Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerzgq00gqmcp6xh6581mo",
+      "slug": "standart-mezbaha-sistemleri",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/standart-mezbaha-sistemleri/",
+      "sourceHash": "bdca6142aa95ece5273df8083bf29589d0a85ef92c5cc4ee9009a66b0c22464c",
+      "importedAt": "2026-09-23T18:01:42.683Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmueerzyz00gvmcp6myw252z9",
+      "slug": "soguk-oda-ikizray-sistemleri",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/soguk-oda-ikizray-sistemleri/",
+      "sourceHash": "23743b75c38ae59c965bf854223dc9241335b9ab477440e6c3272cea57ecc3c1",
+      "importedAt": "2026-09-23T18:01:42.929Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmuees0jc00h3mcp6i3zwklex",
+      "slug": "mezbaha-bina-dizayni",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-bina-dizayni/",
+      "sourceHash": "ca396894f8bc44c2030361b36c0a957d4a1800b7b49845a155484146eae71243",
+      "importedAt": "2026-09-23T18:01:43.175Z"
+    },
+    {
+      "entityType": "product",
+      "entityId": "cmuees14t00h9mcp6z26fkk0z",
+      "slug": "kosher-line",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kosher-line/",
+      "sourceHash": "af2acabca8332ca0b09e89377d79ca3ebdd5d1a44cf55f2e7b97d2a2e60610cb",
+      "importedAt": "2026-09-23T18:01:43.416Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmuees2k900hlmcp6otvb8t0b",
+      "slug": "ayak-kesme-makasi-avantajlari",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/ayak-kesme-makasi-avantajlari/",
+      "sourceHash": "6f31354c0412865b90403a47e3b8c8394d4efa02b8b3b5d6012159e480595ae6",
+      "importedAt": "2026-09-23T18:01:44.373Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmuees3ee00hsmcp695acq8ip",
+      "slug": "buyukbas-sersemletme-sistemleri",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/buyukbas-sersemletme-sistemleri/",
+      "sourceHash": "d416d7a6504014a87e4fbfec3f6bf95187f564872d5bf1b53a7e28864c90b006",
+      "importedAt": "2026-09-23T18:01:44.809Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmuees43e00hymcp6l9dz52ze",
+      "slug": "devlet-tesvigi-ile-mezbaha-kurmak",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/devlet-tesvigi-ile-mezbaha-kurmak/",
+      "sourceHash": "b800d3fed4848968f9e0b8bad6b2ce4e021fb9d7d0c58e1ec62cc5b239ca1c73",
+      "importedAt": "2026-09-23T18:01:45.238Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmuees4vr00i5mcp6yai6l4pg",
+      "slug": "dos-acma-testeresi-ile-hizli-ve-hijyenik-kesim-icin-ipuclari",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/dos-acma-testeresi-ile-hizli-ve-hijyenik-kesim-icin-ipuclari/",
+      "sourceHash": "b82892355a11bc12e14b1c7f61aa525edda3da25d5675c88b1d4880b9199131e",
+      "importedAt": "2026-09-23T18:01:45.607Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmuees5jp00ibmcp69plz1led",
+      "slug": "et-kalitesini-artiran-mezbaha-uygulamalari",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/et-kalitesini-artiran-mezbaha-uygulamalari/",
+      "sourceHash": "8158f8d606937d8280a69b4b2e2fe05fc4e3a60a9d232d9379b06f6605441acc",
+      "importedAt": "2026-09-23T18:01:46.048Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmuees68a00ihmcp62p9bgdmd",
+      "slug": "et-parcalama-testereleri-hizli-ve-guvenli-kesim-ekipmanlari",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/et-parcalama-testereleri-hizli-ve-guvenli-kesim-ekipmanlari/",
+      "sourceHash": "b0099b147f73b891b1c3796002892ee067cf008515faf4e62e1b488d5c743222",
+      "importedAt": "2026-09-23T18:01:46.468Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmuees6w400inmcp6di62xg2n",
+      "slug": "hidrolik-deri-yuzme-makinasi-mi-mekanik-deri-yuzme-makinasi-mi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/hidrolik-deri-yuzme-makinasi-mi-mekanik-deri-yuzme-makinasi-mi/",
+      "sourceHash": "937615bb17c5f1f0a3981382c4d432fe6c3b57029f82c607980cef50df38ed95",
+      "importedAt": "2026-09-23T18:01:46.873Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmuees7ty00ivmcp66ipr1dmf",
+      "slug": "iskembe-atik-pompasi-ile-atik-yonetimi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/iskembe-atik-pompasi-ile-atik-yonetimi/",
+      "sourceHash": "afbf12663ccc0eda0f09ccb9fa84565f66029517c2d24d9ceb529a9514c922dd",
+      "importedAt": "2026-09-23T18:01:47.256Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmuees8it00j1mcp69bdbqnv3",
+      "slug": "karkas-tasima-sistemleri-et-kalitesini-nasil-etkiler",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/karkas-tasima-sistemleri-et-kalitesini-nasil-etkiler/",
+      "sourceHash": "d4c9207ac82184fd75b298b5681cf2b1652d6030e0ec4b535de6c13db289dbf9",
+      "importedAt": "2026-09-23T18:01:47.745Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmuees96v00j7mcp698we54zs",
+      "slug": "kesim-oncesi-hayvan-stresi-azaltma",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kesim-oncesi-hayvan-stresi-azaltma/",
+      "sourceHash": "19888bac0636eaed53f2fe24bc2837fe1316e4cfeb9b3d8b9f08872270fa8fa6",
+      "importedAt": "2026-09-23T18:01:48.107Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmuees9ra00jcmcp6rlak2i6i",
+      "slug": "kesimhanelerde-enerji-tasarrufu-saglama",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kesimhanelerde-enerji-tasarrufu-saglama/",
+      "sourceHash": "514953e9f752c70610ef2776b3bd8eeb87de3e572a73513f292433e4e7572ed0",
+      "importedAt": "2026-09-23T18:01:48.475Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueesabs00jhmcp6dmxlpihp",
+      "slug": "kucuk-ciftlikler-mezbaha-makineleri-kullanabilir-mi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kucuk-ciftlikler-mezbaha-makineleri-kullanabilir-mi/",
+      "sourceHash": "0aa2ef12eae6442c9ae5d112ff8768ae5d755b82af9d41ba48cbae6e0fa6de18",
+      "importedAt": "2026-09-23T18:01:48.783Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueesaw100jmmcp6tgaqf45i",
+      "slug": "kucukbas-buyukbas-mezbaha-farki",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kucukbas-buyukbas-mezbaha-farki/",
+      "sourceHash": "087c9bec032d8691ea5f8014a011bbdcb99d625f94b75abb5ae8a950d5d2af76",
+      "importedAt": "2026-09-23T18:01:49.100Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueesbkz00jsmcp6gkky028v",
+      "slug": "mezbaha-kurmak-ne-kadar-surer",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaba-kurmak-ne-kadar-surer/",
+      "sourceHash": "bfd36ad0b55dceb1e79e8577884420ddbde9762b4d3c4c450c158032aae2299f",
+      "importedAt": "2026-09-23T18:01:49.411Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmu73giy8000gss7kahbu7d9h",
+      "slug": "mezbaha-hijyeni-nasil-saglanir",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-hijyeni-nasil-saglanir/",
+      "sourceHash": "455cedd2d7be8e381dc9a985e3a7f64932083f3168cf49a9b26d19ac71c735b8",
+      "importedAt": "2026-09-23T18:01:49.787Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueesczt00k3mcp6oogq3g3k",
+      "slug": "mezbaha-kullanmaya-gecmenin-finansal-avantajlari",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-kullanmaya-gecmenin-finansal-avantajlari/",
+      "sourceHash": "a742e5b61db7a3b68d36592b0715a150dbc4fb9a6e85d6d668afb8f3e376776c",
+      "importedAt": "2026-09-23T18:01:50.155Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmu73nhmo0007w07ks2v9cp68",
+      "slug": "mezbaha-kurulum-maliyeti",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-kurulum-maliyeti/",
+      "sourceHash": "2aa441d9973f4e2e45cde3955aeed41e63c444eb0e316f87e41a872ec90207c1",
+      "importedAt": "2026-09-23T18:01:50.536Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueeseiq00kfmcp636tdoyiy",
+      "slug": "mezbaha-kurulumunda-hangi-belgeler-gereklidir",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-kurulumunda-hangi-belgeler-gereklidir/",
+      "sourceHash": "3da456a1425f42ec4393456a5809d1b4aee79e5d4da25e44f7f4c8bf48050b50",
+      "importedAt": "2026-09-23T18:01:50.928Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueesf8k00klmcp65d5krevn",
+      "slug": "mezbaha-makineleri-et-kalitesini-etkiler-mi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-makineleri-et-kalitesini-etkiler-mi/",
+      "sourceHash": "addc5cc9824a01464499e8c021d086ef0e205ce89c1eab6aaedd8a7a5c3f0f66",
+      "importedAt": "2026-09-23T18:01:51.357Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueesfx600krmcp6dxvr0lzy",
+      "slug": "mezbaha-otomasyonu-verimlilik-artisi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-otomasyonu-verimlilik-artisi/",
+      "sourceHash": "cab5d74c46081bf10754e11ff01f17094dd4cfbcdef39676be92d16f8a3eb2ef",
+      "importedAt": "2026-09-23T18:01:51.732Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueesgm100kxmcp6fzve3ege",
+      "slug": "mezbaha-tasariminda-hayvan-refahi-koruma",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-tasariminda-hayvan-refahi-koruma/",
+      "sourceHash": "0e3f89760e0dbb4f88330dcfb41616e6344ad10d6f9813a29642d38cbf66dd82",
+      "importedAt": "2026-09-23T18:01:52.111Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueesh6600l2mcp6h1my80nj",
+      "slug": "mezbahalarda-kullanilan-makineler-guvenli-mi",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbahalarda-kullanilan-makineler-guvenli-mi/",
+      "sourceHash": "48474d75165679dc1221f6f49a5633da050391bf03125d4ce07287f5ed8ddfd1",
+      "importedAt": "2026-09-23T18:01:52.476Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueeshym00l9mcp6pgv0i4s0",
+      "slug": "mezbahane-teknolojik-ekipmanlar",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbahane-teknolojik-ekipmanlar/",
+      "sourceHash": "e267a5dc30a112a4d80c08d6c1cff439e9f07ca4476bb90ffd374fbdd596bca7",
+      "importedAt": "2026-09-23T18:01:52.782Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueesinr00lfmcp6igqxl3a9",
+      "slug": "modern-makinelerle-bir-hayvanin-islenmesi-ne-kadar-surer",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/modern-makinelerle-bir-hayvanin-islenmesi-ne-kadar-surer/",
+      "sourceHash": "4472d584c488d0f5607ef6652ae85211d82afa73240dc35f951a58002a924dcc",
+      "importedAt": "2026-09-23T18:01:53.209Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueesjd100llmcp62yo559q4",
+      "slug": "modern-mezbaha-ekipmanlari-nelerdir",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/modern-mezbaha-ekipmanlari-nelerdir/",
+      "sourceHash": "d169056f138c1932b5f3bcd2a7574fe444ac25eef4ef96a10c5f90f19a2acd30",
+      "importedAt": "2026-09-23T18:01:53.581Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueesjvb00lpmcp623t5pkvf",
+      "slug": "modern-mezbaha-sistemleri-nedir",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/modern-mezbaha-sistemleri-nedir/",
+      "sourceHash": "6973364d16c06d855cd17fae87999ecaac24470aa113eeb94677c2e4a2d64692",
+      "importedAt": "2026-09-23T18:01:53.979Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueesk8b00lsmcp6m56l2umq",
+      "slug": "online-magazamiz-yayinda",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/online-magazamiz-yayinda/",
+      "sourceHash": "4d8d1545b7900370aefef1ded11fdc317b2b74ee41e20c0d59cfbabd634035cf",
+      "importedAt": "2026-09-23T18:01:54.230Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueeskx500lymcp6xdtch25f",
+      "slug": "otomatik-deri-yuzme-sistemleri-ile-iscilik-maliyeti-nasil-azalir",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/otomatik-deri-yuzme-sistemleri-ile-iscilik-maliyeti-nasil-azalir/",
+      "sourceHash": "55d22650162e49f2a8e892e3e22d2fa5afdec60cb4ac2431ad7d8df8b0d1b569",
+      "importedAt": "2026-09-23T18:01:54.413Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmu73gim8000ess7k8kwcvc3m",
+      "slug": "rayli-tasima-sistemleri-ikizray-nedir-ve-neden-kullanilir",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/rayli-tasima-sistemleri-ikizray-nedir-ve-neden-kullanilir/",
+      "sourceHash": "51c826699e11e051b979c04c997b430260a0914b8da19b82b869575f3f82efc6",
+      "importedAt": "2026-09-23T18:01:54.786Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueesmmi00mbmcp6c565ft9x",
+      "slug": "robotik-mezbaha-sistemleri-nedir",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/robotik-mezbaha-sistemleri-nedir/",
+      "sourceHash": "9580c4b7a42b7f11fc807e8182a8db0ea37544ad9c2de3d5111cea13d4439497",
+      "importedAt": "2026-09-23T18:01:55.151Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueesnae00mhmcp6accqhllm",
+      "slug": "sigir-kesiminde-en-sik-kullanilan-makineler-nelerdir",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/sigir-kesiminde-en-sik-kullanilan-makineler-nelerdir/",
+      "sourceHash": "f02f9c69bf67b44abf0a083c805039fdf1ac9933db177afdd18e207dde2f528c",
+      "importedAt": "2026-09-23T18:01:55.677Z"
+    },
+    {
+      "entityType": "blogPost",
+      "entityId": "cmueeso6100mpmcp6bfzz8gwn",
+      "slug": "soguk-oda-ve-ikizray-sistemleri-et-kalitesini-nasil-etkiler",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/soguk-oda-ve-ikizray-sistemleri-et-kalitesini-nasil-etkiler/",
+      "sourceHash": "95bb91e5f41adb6ccaef274f6480407f0b89f081014685365c89378515d1cf8e",
+      "importedAt": "2026-09-23T18:01:56.057Z"
+    }
+  ]
+}

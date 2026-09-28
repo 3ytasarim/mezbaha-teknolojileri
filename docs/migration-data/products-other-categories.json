@@ -1,0 +1,671 @@
+{
+  "products": [
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/koyun-isleme-konveyoru/",
+      "name": "Koyun İşleme Konveyörü",
+      "categorySourceUrl": "https://www.mezbahateknolojileri.com/tr/kucukbas-mezbaha-makinalari/",
+      "shortDescription": null,
+      "descriptionHtml": "<h2>KOYUN İŞLEME MAKİNESİ </h2>\r\n\r\n<p>Konveyör taşıyıcısı NPI 160 profilden yapılacaktır. Taşıyıcı sisteme koyun kanama hattındaki gibi bağlanacaktır.  Konveyör, boyuna göre tespit edilecek dik yada yatay çalışabilen, 3 HP  gücünde motor – redüktör ile tahrik edilecektir.  Konveyör hızı azami 6–8 m/dk.'dır.  Sistemde 45–90 ve 180 derece dönüşlerde kullanılacak dişlilerin göbekleri rulman yataklı olacak ve bir şase ile konveyör taşıyıcı NPI 160 profilin altına özel plakalar ile bağlanacaktır.  Zincir üzerinde işleme sırasında koyun karkaslarının birbirlerine mesafesi 1000 mm, ayak açıklık mesafesi 400 mm olacak şekilde paslanmaz çelikten kancalar bulunacaktır.  Konveyör zinciri 8 lik kalibre Zincir olacaktır. </p>",
+      "specifications": [
+        {
+          "label": "Taşıyıcı profil",
+          "value": "NPI 160"
+        },
+        {
+          "label": "Motor gücü",
+          "value": "3 HP"
+        },
+        {
+          "label": "Konveyör hızı",
+          "value": "6–8 m/dk (azami)"
+        },
+        {
+          "label": "Karkaslar arası mesafe",
+          "value": "1000 mm"
+        },
+        {
+          "label": "Ayak açıklık mesafesi",
+          "value": "400 mm"
+        },
+        {
+          "label": "Zincir kalibresi",
+          "value": "8"
+        },
+        {
+          "label": "Dönüş açıları",
+          "value": "45–90 ve 180 derece"
+        }
+      ],
+      "applications": null,
+      "features": null,
+      "sku": null,
+      "images": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_162323287439745.jpg",
+          "alt": "Koyun İşleme Konveyörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1553804787288375.jpg",
+          "alt": "Koyun İşleme Konveyörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1553681884994587.jpg",
+          "alt": "Koyun İşleme Konveyörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1553682016503035.jpg",
+          "alt": "Koyun İşleme Konveyörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1553681847788290.jpg",
+          "alt": "Koyun İşleme Konveyörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1553681798383535.jpg",
+          "alt": "Koyun İşleme Konveyörü"
+        }
+      ],
+      "coverImageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_162323287439745.jpg",
+      "documents": [],
+      "videoUrl": null,
+      "seoTitle": "Koyun İşleme Konveyörü|Düzenli ve Hijyenik Hat Taşıma - Mezbaha Teknolojileri",
+      "seoDescription": "Koyun işleme konveyörü, küçükbaş karkasların kesim hattında düzgün ve verimli şekilde taşınmasını sağlar. Hijyen ve hız kazandırır.",
+      "localImages": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_162323287439745.jpg",
+          "localPath": "public/images/migrated/products/koyun-isleme-konveyoru/koyun-isleme-konveyoru-1-koyun-kesim-hatti.jpg",
+          "alt": "Koyun İşleme Konveyörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1553804787288375.jpg",
+          "localPath": "public/images/migrated/products/koyun-isleme-konveyoru/koyun-isleme-konveyoru-2-sheep-processing-conveyor.jpg",
+          "alt": "Koyun İşleme Konveyörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1553681884994587.jpg",
+          "localPath": "public/images/migrated/products/koyun-isleme-konveyoru/koyun-isleme-konveyoru-3-kuzu-isleme-konveyoru.jpg",
+          "alt": "Koyun İşleme Konveyörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1553682016503035.jpg",
+          "localPath": "public/images/migrated/products/koyun-isleme-konveyoru/koyun-isleme-konveyoru-4-koyun-isleme-konveyoru.jpg",
+          "alt": "Koyun İşleme Konveyörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1553681847788290.jpg",
+          "localPath": "public/images/migrated/products/koyun-isleme-konveyoru/koyun-isleme-konveyoru-5-koyun-isleme-hatti.jpg",
+          "alt": "Koyun İşleme Konveyörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1553681798383535.jpg",
+          "localPath": "public/images/migrated/products/koyun-isleme-konveyoru/koyun-isleme-konveyoru-6-koyun-isleme-konveyoru.jpg",
+          "alt": "Koyun İşleme Konveyörü"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/sheep-bleeding-elevator/",
+      "name": "Koyun Kanama Elevatörü",
+      "categorySourceUrl": "https://www.mezbahateknolojileri.com/tr/kucukbas-mezbaha-makinalari/",
+      "shortDescription": "KOYUN KALDIRMA ELEVATÖRÜ",
+      "descriptionHtml": "<p>KOYUN KALDIRMA ELEVATÖRÜ</p>\r\n\r\n<p>Mezbahalarda kanama hattına kesilen koyunların aktarılması için kullanılır. Koyun kanama elevatörü kanama kancası koyunun tek bacağına takılır ve elevatörün rayına konulur. Elevatörün paletleri kanca ve asılı olan koyunu kanama hattına yükseltir. Genellikle Kesimhanelerde 2400mm veya 3000mm yüksekliği arasında ki ikizray ve monoray için kullanılır. Mezbaha makineleri korozyona karşı dayanıklı olması için galvaniz veya paslanmaz materyal kullanılarak imal edilir.</p>",
+      "specifications": [
+        {
+          "label": "Çalışma yüksekliği",
+          "value": "2400 mm veya 3000 mm (ikizray/monoray)"
+        },
+        {
+          "label": "Malzeme",
+          "value": "Galvaniz veya paslanmaz çelik"
+        }
+      ],
+      "applications": null,
+      "features": null,
+      "sku": null,
+      "images": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1627463204476996.jpg",
+          "alt": "Koyun Kanama Elevatörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1576759022212029.jpg",
+          "alt": "Koyun Kanama Elevatörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1576759022496373.jpg",
+          "alt": "Koyun Kanama Elevatörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_157675902182479.jpg",
+          "alt": "Koyun Kanama Elevatörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1576759021503020.jpg",
+          "alt": "Koyun Kanama Elevatörü"
+        }
+      ],
+      "coverImageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1627463204476996.jpg",
+      "documents": [],
+      "videoUrl": null,
+      "seoTitle": "Koyun Kanama Elevatörü | Küçükbaş İçin Güvenli Taşıma - Mezbaha Teknolojileri",
+      "seoDescription": "Koyun kanama elevatörü, küçükbaş hayvanların kanama sürecinde güvenli ve hijyenik şekilde taşınmasını sağlar. Kesim hattı akışını optimize eder.",
+      "localImages": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1627463204476996.jpg",
+          "localPath": "public/images/migrated/products/koyun-kanama-elevatoru/koyun-kanama-elevatoru-1-koyun-kanama-elevatoru.jpg",
+          "alt": "Koyun Kanama Elevatörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1576759022212029.jpg",
+          "localPath": "public/images/migrated/products/koyun-kanama-elevatoru/koyun-kanama-elevatoru-2-sheep-elevator.jpg",
+          "alt": "Koyun Kanama Elevatörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1576759022496373.jpg",
+          "localPath": "public/images/migrated/products/koyun-kanama-elevatoru/koyun-kanama-elevatoru-3-koyun-kanama-elevatoru.jpg",
+          "alt": "Koyun Kanama Elevatörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_157675902182479.jpg",
+          "localPath": "public/images/migrated/products/koyun-kanama-elevatoru/koyun-kanama-elevatoru-4-slaughtering-equipment-sheep-elevator.jpg",
+          "alt": "Koyun Kanama Elevatörü"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1576759021503020.jpg",
+          "localPath": "public/images/migrated/products/koyun-kanama-elevatoru/koyun-kanama-elevatoru-5-abattoir-sheep-elevator.jpg",
+          "alt": "Koyun Kanama Elevatörü"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/ic-organ-tasima-arabasi/",
+      "name": "İç Organ Taşıma Arabası",
+      "categorySourceUrl": "https://www.mezbahateknolojileri.com/tr/kucukbas-mezbaha-makinalari/",
+      "shortDescription": "İÇ ORGAN TAŞIMA ARABASI",
+      "descriptionHtml": "<p>İÇ ORGAN TAŞIMA ARABASI</p>\r\n\r\n<p>Kesimhanede çıkan sakatatların sakatat odalarına yada sevkiyat bölümlerine taşınmasını sağlayan özel yapılı arabalardır. Bu  taşıma arabası 304 kalite paslnamaz çelikten imal edilir. Kesimhane içerisinde geçiş kapılarına uygun ölçüde dizayn edilmiştir. Kesimhane alanında zemin ızgara ve bölüm ayırıcılardan rahatlıkla geçebilecek ağır hizmet tipi tekerlek kullanılmaktadır. </p>\r\n\r\n<ul>\r\n\t<li>Şase 40*40*2 mm AISI304 profil paslanmaz çelikten imal edilecektir.</li>\r\n\t<li>Tekne ölçüleri : eni 600 mm, boyu 1000mm, yükseklik 300mm</li>\r\n\t<li>Tekneyi oluşturan sac AISI304 paslanmaz sac olup, min. 2mm et kalınlığında olacaktır. Tutamağı 1” çapında ve min. 2mm et kalınlığında AISI304 paslanmaz olup, köşeler AISI304 paslanmaz çekme dirsekten olacaktır.</li>\r\n\t<li>Teknenin ön kısmı işkembenin tekne içinden tahliyesini kolaylaştırmak amacıyla ortasından dışarıya doğru açılı konik biçimde olacaktır.</li>\r\n\t<li>Tekne kenarları en az 25 mm çapında yuvarlatılacaktır.</li>\r\n\t<li>Şase altına 2 adet sabit ve 2 adeti 360 derece dönebilen Ø 125 mm çapında poliamidden mamul tekerleği bulunacaktır.</li>\r\n\t<li>Araba komple AISI 304 paslanmaz çelik olacaktır.</li>\r\n</ul>",
+      "specifications": [
+        {
+          "label": "Şase",
+          "value": "40x40x2 mm AISI304 profil paslanmaz çelik"
+        },
+        {
+          "label": "Tekne ölçüleri",
+          "value": "En 600 mm, boy 1000 mm, yükseklik 300 mm"
+        },
+        {
+          "label": "Sac kalınlığı",
+          "value": "Min. 2 mm AISI304 paslanmaz"
+        },
+        {
+          "label": "Tutamak",
+          "value": "1\" çapında, min. 2 mm et kalınlığında AISI304 paslanmaz"
+        },
+        {
+          "label": "Tekne kenar yuvarlatma",
+          "value": "En az 25 mm"
+        },
+        {
+          "label": "Tekerlek",
+          "value": "2 sabit + 2 adet 360 derece dönebilen Ø125 mm poliamid"
+        },
+        {
+          "label": "Malzeme",
+          "value": "Komple AISI304 paslanmaz çelik"
+        }
+      ],
+      "applications": null,
+      "features": null,
+      "sku": null,
+      "images": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1589541628742940.jpg",
+          "alt": "İç Organ Taşıma Arabası"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1589541628689134.jpg",
+          "alt": "İç Organ Taşıma Arabası"
+        }
+      ],
+      "coverImageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1589541628742940.jpg",
+      "documents": [],
+      "videoUrl": null,
+      "seoTitle": "İç Organ Taşıma Arabası - Mezbaha Teknolojileri",
+      "seoDescription": "İç organ taşıma arabası, sakatatların kesim alanı içinde güvenli ve hijyenik şekilde taşınmasını sağlar. Paslanmaz ve kolay temizlenebilir yapıdadır.",
+      "localImages": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1589541628742940.jpg",
+          "localPath": "public/images/migrated/products/ic-organ-tasima-arabasi/ic-organ-tasima-arabasi-1-iskembe-tasima-arabasi.jpg",
+          "alt": "İç Organ Taşıma Arabası"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1589541628689134.jpg",
+          "localPath": "public/images/migrated/products/ic-organ-tasima-arabasi/ic-organ-tasima-arabasi-2-ic-organ-tasima-arabasi.jpg",
+          "alt": "İç Organ Taşıma Arabası"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kanca-tasima-arabasi/",
+      "name": "KANCA TAŞIMA ARABASI",
+      "categorySourceUrl": "https://www.mezbahateknolojileri.com/tr/kucukbas-mezbaha-makinalari/",
+      "shortDescription": "Komple 304 Kalite Paslanmaz\r\nBoşa çıkan kancaların tekrar kullanım alanına götürülmesi esnasında çengel kısımlarının hijyenik olmayan yerlere temasını engeller.",
+      "descriptionHtml": "<p>Komple 304 Kalite Paslanmaz<br />\r\nBoşa çıkan kancaların tekrar kullanım alanına götürülmesi esnasında çengel kısımlarının hijyenik olmayan yerlere temasını engeller.</p>\r\n\r\n<p>Komple 304 kalite paslanmaz çelikten imal edilir. İki hareketli iki sabit tekerlek sayesinde rahatça yön verilir.  </p>",
+      "specifications": [
+        {
+          "label": "Malzeme",
+          "value": "Komple 304 kalite paslanmaz çelik"
+        },
+        {
+          "label": "Tekerlek",
+          "value": "2 hareketli + 2 sabit tekerlek"
+        }
+      ],
+      "applications": null,
+      "features": null,
+      "sku": null,
+      "images": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1535357893567958.jpg",
+          "alt": "KANCA TAŞIMA ARABASI"
+        }
+      ],
+      "coverImageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1535357893567958.jpg",
+      "documents": [],
+      "videoUrl": null,
+      "seoTitle": "KANCA TAŞIMA ARABASI - Mezbaha Teknolojileri",
+      "seoDescription": "Proje uzmanlarımız müşteriye özel KANCA TAŞIMA ARABASI geliştirilmesi konusunda çalışmaktadır.",
+      "localImages": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1535357893567958.jpg",
+          "localPath": "public/images/migrated/products/kanca-tasima-arabasi/kanca-tasima-arabasi-1.jpg",
+          "alt": "KANCA TAŞIMA ARABASI"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/ciger-tasima-arabasi/",
+      "name": "CİĞER TAŞIMA ARABASI",
+      "categorySourceUrl": "https://www.mezbahateknolojileri.com/tr/kucukbas-mezbaha-makinalari/",
+      "shortDescription": "Aısı 304 Paslanmaz Çelik",
+      "descriptionHtml": "<p>Aısı 304 Paslanmaz Çelik </p>\r\n\r\n<p>Hayvanın ciğerinin paslanmaz çelik askılar vasıtasıyla taşınması işlemidir. </p>\r\n\r\n<p>Ciğer arabası üzerinde en az 50 adet ciğer taşınabilecek şekilde üç kademeli 304 kalite paslanmaz çelikten imal edilmiştir. İki hareketli iki sabit tekerlek sayesinde rahatça yön verilebilir.  </p>",
+      "specifications": [
+        {
+          "label": "Malzeme",
+          "value": "AISI 304 paslanmaz çelik"
+        },
+        {
+          "label": "Kapasite",
+          "value": "En az 50 adet ciğer (üç kademeli)"
+        },
+        {
+          "label": "Tekerlek",
+          "value": "2 hareketli + 2 sabit tekerlek"
+        }
+      ],
+      "applications": null,
+      "features": null,
+      "sku": null,
+      "images": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1535202211318159.jpg",
+          "alt": "CİĞER TAŞIMA ARABASI"
+        }
+      ],
+      "coverImageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1535202211318159.jpg",
+      "documents": [],
+      "videoUrl": null,
+      "seoTitle": "CİĞER TAŞIMA ARABASI - Mezbaha Teknolojileri",
+      "seoDescription": "Proje uzmanlarımız müşteriye özel CİĞER TAŞIMA ARABASI geliştirilmesi konusunda çalışmaktadır.",
+      "localImages": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1535202211318159.jpg",
+          "localPath": "public/images/migrated/products/ciger-tasima-arabasi/ciger-tasima-arabasi-1.jpg",
+          "alt": "CİĞER TAŞIMA ARABASI"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kurban-pro/",
+      "name": "KURBAN PRO",
+      "categorySourceUrl": "https://www.mezbahateknolojileri.com/tr/kurban-kesim/",
+      "shortDescription": "Komple Sistem . 3 mt genişlik 16 mt uzunluk 4 mt parçalama hattı. Kurban kesiminde işlerinizi pratikleştirin.",
+      "descriptionHtml": "<h2>KOLAYLIKLA KESİN ZAMANDAN TASARRUF EDİN.</h2>\r\n\r\n<p>Komple Sistem . 3 mt genişlik 16 mt uzunluk 4 mt parçalama hattı. Kurban kesiminde işlerinizi pratikleştirin. </p>",
+      "specifications": [
+        {
+          "label": "Genişlik",
+          "value": "3 metre"
+        },
+        {
+          "label": "Uzunluk",
+          "value": "16 metre"
+        },
+        {
+          "label": "Parçalama hattı",
+          "value": "4 metre"
+        }
+      ],
+      "applications": null,
+      "features": null,
+      "sku": null,
+      "images": [],
+      "coverImageSourceUrl": null,
+      "documents": [],
+      "videoUrl": null,
+      "seoTitle": "KURBAN PRO Kesim Sistemi – Etkin, Hızlı & Modern Çözüm - Mezbaha Teknolojileri",
+      "seoDescription": "KURBAN PRO ile güvenli, hızlı ve pratik kurban kesim sistemleri. 3 m genişlik, 16 m uzunluk komple hat ile zamandan tasarruf edin.",
+      "localImages": []
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/profesyonel-mezbaha-sistemleri/",
+      "name": "PROFESYONEL MEZBAHA SİSTEMLERİ",
+      "categorySourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-sistemleri/",
+      "shortDescription": "Mezbaha Sistemleri",
+      "descriptionHtml": "<p>Mezbaha Sistemleri </p>\r\n\r\n<p>Profesyonel mezbaha sistemlerinde ilk kesim anından yükleme noktasına kadar bütün ekipmanlar 304 kalite paslanmaz çelik kullanılarak üretilir. Her zaman kesim hızı ve operatör güvenliği ön planda tutulur. Operatörler çalıştığı platformdan inmeden sıcak soğuk el yıkama lavabosu bıçak sterilizatörü ve önlük yıkama üniteleri sayesinde tam hijyen kontrolüne sahiptir. Kanama ve işleme hatları otomatik olarak yürütülür. Ekipmanlar en iyi performans için yüksek kalite malzeme kullanılarak üretilir. İnsan gücünün en az ihtiyaç duyulduğu sistemdir. Bütün sakatatlar el değmeden konveyör ve bant aracılığı ile sakatathaneye iletilir. Karkaslar kurutmalı duşlama yapılır ve soğuk odalara gitmeden önce ön soğutmadan geçirilir. Et parçalama bant sistemli makina yardımı ile yapılır. Karkas yükleme işlemlerinde robot kol kullanılır. Ürün izleme etiket sistemi ile bilgisayarda hem karkas hem sakatatların izleme ve kilo kontrolü yapılır. Sakatatlar konveyör ve bantlar aracılığı ile veteriner kontrolünden geçirilir. İmha edilecek ürünler için imha fırını ve şüpheli karkaslar için ayrı bir soğuk depo mevcuttur. </p>",
+      "specifications": [],
+      "applications": null,
+      "features": null,
+      "sku": null,
+      "images": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536436339408776.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1551619454347502.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1551618595916060.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1551618595553804.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1551619588183959.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1554670484170550.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1554670482479603.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1554670481893437.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1554670479650148.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1563362842471419.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        }
+      ],
+      "coverImageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536436339408776.jpg",
+      "documents": [],
+      "videoUrl": null,
+      "seoTitle": "Profesyonel Mezbaha Sistemleri - Mezbaha Teknolojileri",
+      "seoDescription": "Profesyonel Mezbaha Sistemleri ile büyükbaş ve küçükbaş hayvanlar için hijyenik, güvenli ve verimli kesimhane çözümleri sunuyoruz.",
+      "localImages": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536436339408776.jpg",
+          "localPath": "public/images/migrated/products/profesyonel-mezbaha-sistemleri/profesyonel-mezbaha-sistemleri-1-mezbaha-sistemleri.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1551619454347502.jpg",
+          "localPath": "public/images/migrated/products/profesyonel-mezbaha-sistemleri/profesyonel-mezbaha-sistemleri-2-mezbaha-sistemleri-dis-gorunus.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1551618595916060.jpg",
+          "localPath": "public/images/migrated/products/profesyonel-mezbaha-sistemleri/profesyonel-mezbaha-sistemleri-3-mezbaha-sistemleri-bina-dizayni.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1551618595553804.jpg",
+          "localPath": "public/images/migrated/products/profesyonel-mezbaha-sistemleri/profesyonel-mezbaha-sistemleri-4-mezbaha-sistemleri-ic-dizayn.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1551619588183959.jpg",
+          "localPath": "public/images/migrated/products/profesyonel-mezbaha-sistemleri/profesyonel-mezbaha-sistemleri-5-mezbaha-sistemleri-makinalar.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1554670484170550.jpg",
+          "localPath": "public/images/migrated/products/profesyonel-mezbaha-sistemleri/profesyonel-mezbaha-sistemleri-6-slaughterhouse-systems-machine.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1554670482479603.jpg",
+          "localPath": "public/images/migrated/products/profesyonel-mezbaha-sistemleri/profesyonel-mezbaha-sistemleri-7-slaughterhouse-equipments.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1554670481893437.jpg",
+          "localPath": "public/images/migrated/products/profesyonel-mezbaha-sistemleri/profesyonel-mezbaha-sistemleri-8-mezbaha-sistemleri-makinalar.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1554670479650148.jpg",
+          "localPath": "public/images/migrated/products/profesyonel-mezbaha-sistemleri/profesyonel-mezbaha-sistemleri-9-mezbaha-sistemleri-makinalar.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1563362842471419.jpg",
+          "localPath": "public/images/migrated/products/profesyonel-mezbaha-sistemleri/profesyonel-mezbaha-sistemleri-10-slaughterhouse-equipment.jpg",
+          "alt": "PROFESYONEL MEZBAHA SİSTEMLERİ"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/standart-mezbaha-sistemleri/",
+      "name": "STANDART MEZBAHA SİSTEMLERİ",
+      "categorySourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-sistemleri/",
+      "shortDescription": "Mezbaha Sistemleri",
+      "descriptionHtml": "<p>Mezbaha Sistemleri</p>\r\n\r\n<p>Küçük ölçekli yada küçük kapasiteli mezbahalar olarak üretilir. Kullanılan materyaller ete temas eden yüzeylerin tamamı 304 kalite paslanmaz imal edilir. Diğer makina gövdelerinde sıcak daldırma galvaniz yada elektro galvaniz kullanılır. Fazla yer kaplamaması için klasik kesim hücresi tercih edilir. Kasap çalışma platformları standart gereksinimleri karşılayacak şekilde dizayn edilir. Koridor ve soğuk odalarda monoray yada ikizray kullanılır. Sakatatlar taşıma arabası ile sakatathaneye iletilir. Günlük kesim kapasitesi kadar soğuk depo yapılır. Karkas olarak sevkiyat yapılır. Standart alüminyum ve galvaniz kancalar kesim işleminde kullanılır.</p>",
+      "specifications": [],
+      "applications": null,
+      "features": null,
+      "sku": null,
+      "images": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536058393455552.jpg",
+          "alt": "STANDART MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536058393789212.jpg",
+          "alt": "STANDART MEZBAHA SİSTEMLERİ"
+        }
+      ],
+      "coverImageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536058393455552.jpg",
+      "documents": [],
+      "videoUrl": null,
+      "seoTitle": "Standart Mezbaha Sistemleri - Mezbaha Teknolojileri",
+      "seoDescription": "Standart Mezbaha Sistemleri ile hijyenik, güvenli ve modern kesimhane çözümleri; büyükbaş ve küçükbaş hayvan kesimi için profesyonel altyapı.",
+      "localImages": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536058393455552.jpg",
+          "localPath": "public/images/migrated/products/standart-mezbaha-sistemleri/standart-mezbaha-sistemleri-1-standart-mezbaha-sistemleri.jpg",
+          "alt": "STANDART MEZBAHA SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536058393789212.jpg",
+          "localPath": "public/images/migrated/products/standart-mezbaha-sistemleri/standart-mezbaha-sistemleri-2-small-capacity-abattoir-equipments.jpg",
+          "alt": "STANDART MEZBAHA SİSTEMLERİ"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/soguk-oda-ikizray-sistemleri/",
+      "name": "SOĞUK ODA İKİZRAY SİSTEMLERİ",
+      "categorySourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-sistemleri/",
+      "shortDescription": "Mezbaha Sistemleri Soğuk Oda İkizray",
+      "descriptionHtml": "<p>Mezbaha Sistemleri Soğuk Oda İkizray</p>\r\n\r\n<p>Mezbaha sistemlerinde karkas etlerin depolanması ve sevkiyatı işleminde kullanılan monoray yada ikizray uygulamalarında 304 kalite paslanmaz kullanılır. Her bir m2 için 350 kg yük taşıyacak şekilde dizayn edilir. Taşıyıcı sistem oda içerisine göre ölçülendirilir imalatı yapılır numaralı bir şekilde monte edilir. Makas sistemleri ile yönlendirme yapılır. Yarım karkas yada çeyrek karkas olarak uygulama yapılır. İkizray sistemlerde 50x30x2 mm 304 kalite paslanmaz profil, monoray sistemlerde ise 60x3 mm 304 kalite paslanmaz boru kullanılır. Soğuk oda zemin izolasyonundan önce kurulan taşıyıcı sistem rijit ve hijyenik olmasını sağlar.<br />\r\n </p>",
+      "specifications": [
+        {
+          "label": "Taşıma kapasitesi",
+          "value": "350 kg/m²"
+        },
+        {
+          "label": "İkizray profil",
+          "value": "50x30x2 mm, 304 kalite paslanmaz çelik"
+        },
+        {
+          "label": "Monoray boru",
+          "value": "60x3 mm, 304 kalite paslanmaz çelik"
+        }
+      ],
+      "applications": null,
+      "features": null,
+      "sku": null,
+      "images": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536058299803498.jpg",
+          "alt": "SOĞUK ODA İKİZRAY SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536058299487923.jpg",
+          "alt": "SOĞUK ODA İKİZRAY SİSTEMLERİ"
+        }
+      ],
+      "coverImageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536058299803498.jpg",
+      "documents": [],
+      "videoUrl": null,
+      "seoTitle": "Soğuk Oda İkizray Sistemleri - Mezbahane - Mezbaha Teknolojileri",
+      "seoDescription": "Mezbahaneniz için gerekli soğuk oda ikizray sistemleri sitemizde sizleri bekliyor. Tıklayın ve ürünü hızlıca inceleyin.",
+      "localImages": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536058299803498.jpg",
+          "localPath": "public/images/migrated/products/soguk-oda-ikizray-sistemleri/soguk-oda-ikizray-sistemleri-1-mezbaha-sistemleri-monoray-ikizray.jpg",
+          "alt": "SOĞUK ODA İKİZRAY SİSTEMLERİ"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536058299487923.jpg",
+          "localPath": "public/images/migrated/products/soguk-oda-ikizray-sistemleri/soguk-oda-ikizray-sistemleri-2-mezbaha-sistemleri-soguk-oda-ray.jpg",
+          "alt": "SOĞUK ODA İKİZRAY SİSTEMLERİ"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-bina-dizayni/",
+      "name": "MEZBAHA BİNA DİZAYNI",
+      "categorySourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-sistemleri/",
+      "shortDescription": "Mezbaha Sistemleri",
+      "descriptionHtml": "<p>Mezbaha Sistemleri</p>\r\n\r\n<p>Mezbaha projesi hazırlama aşamasında müşteri ihtiyacına tam olarak cevap verecek projeyi hazırlamak yapılan tesisin ihtiyaca cevap verebilecek yeterlilikte olmasını sağlamak için önemlidir. Mezbaha tesisinin dış duvarlarından bina içerisi dizaynına kadar iyi analiz edilip işleyişi engellemeyecek proje üretilir. Aynı zamanda genel kurallar çerçevesinde personel çalışma alanlarında hijyen prosedürleri uygulanır. Personelin her türlü ihtiyacı göz önünde bulundurulur. Kesim işleyişi için mümkün olduğu kadar düz hatlar tercih ederiz ve bu çalışan personelin işi daha hızlı bitirmesini garanti eder. Kirli alan temiz alan ayrımları ve sakatathane çalışanları tamamen ayrı bölümde görevini yerine getirmesi sağlanır. Genel olarak mezbaha tesisini 4 bölüme ayırır (Kesimhane-Sakatathane-Soğuk depolar-Et parçalama) ve bunlar arasında personel geçişlerini kotrol altına alırız. Çapraz bulaşma olmaması için kirli alandan temiz alana doğru bu bölümleri yerleştirir mümkün olduğu kadar biribirini takip eden düz hatlar kurmaya çalışırız.</p>",
+      "specifications": [],
+      "applications": null,
+      "features": null,
+      "sku": null,
+      "images": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536434803713453.jpg",
+          "alt": "MEZBAHA BİNA DİZAYNI"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536434903594741.jpg",
+          "alt": "MEZBAHA BİNA DİZAYNI"
+        }
+      ],
+      "coverImageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536434803713453.jpg",
+      "documents": [],
+      "videoUrl": null,
+      "seoTitle": "MEZBAHA BİNA DİZAYNI - Mezbaha Teknolojileri",
+      "seoDescription": "Proje uzmanlarımız müşteriye özel MEZBAHA BİNA DİZAYNI geliştirilmesi konusunda çalışmaktadır.",
+      "localImages": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536434803713453.jpg",
+          "localPath": "public/images/migrated/products/mezbaha-bina-dizayni/mezbaha-bina-dizayni-1-mezbaha-sistemleri-proje.jpg",
+          "alt": "MEZBAHA BİNA DİZAYNI"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1536434903594741.jpg",
+          "localPath": "public/images/migrated/products/mezbaha-bina-dizayni/mezbaha-bina-dizayni-2-mezbaha-sistemleri-proje.jpg",
+          "alt": "MEZBAHA BİNA DİZAYNI"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kosher-line/",
+      "name": "KOSHER LINE",
+      "categorySourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-sistemleri/",
+      "shortDescription": "Bu koşer et tuzlama hattı, kesimhanelerde Yahudi dini kurallarına uygun olarak et işlemek amacıyla özel olarak tasarlanmıştır.",
+      "descriptionHtml": "<p>Bu koşer et tuzlama hattı, kesimhanelerde Yahudi dini kurallarına uygun olarak et işlemek amacıyla özel olarak tasarlanmıştır.</p>\n\n<ul>\n  <li>Saatte 100 karkas işleme kapasitesine sahiptir.</li>\n  <li>Sistem, 3 adet tuzlama havuzu ve 1 adet durulama havuzu içerir.</li>\n  <li>Operasyonel hijyen için entegre bir duş kabini mevcuttur.</li>\n  <li>Kasap çalışmaları için platform ile birlikte gelir.</li>\n  <li>Hız kontrol ünitesi sayesinde işlem temposu ayarlanabilir.</li>\n  <li>Kurulum, istenen oda boyutlarına özel olarak tasarlanabilir.</li>\n</ul>\n\n<p>Koşer kurallarına tamamen uygun bu sistem, hem verimli hem de hijyenik bir işleme süreci sunar.</p>",
+      "specifications": [
+        {
+          "label": "İşleme kapasitesi",
+          "value": "Saatte 100 karkas"
+        },
+        {
+          "label": "Tuzlama havuzu",
+          "value": "3 adet"
+        },
+        {
+          "label": "Durulama havuzu",
+          "value": "1 adet"
+        }
+      ],
+      "applications": null,
+      "features": null,
+      "sku": null,
+      "images": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1575284292843801.jpg",
+          "alt": "KOSHER LINE"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_157528429242729.jpg",
+          "alt": "KOSHER LINE"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1575284292631006.jpg",
+          "alt": "KOSHER LINE"
+        }
+      ],
+      "coverImageSourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1575284292843801.jpg",
+      "documents": [],
+      "videoUrl": null,
+      "seoTitle": "Koşer Et Tuzlama Hattı – Kesimhane İçin Özel Sistem - Mezbaha Teknolojileri",
+      "seoDescription": "100 karkas/saat kapasiteli, 3 tuzlama ve 1 durulama havuzu içeren, duş kabini ve kasap platformu bulunan, hız kontrol üniteli koşer et tuzlama hattı.",
+      "localImages": [
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1575284292843801.jpg",
+          "localPath": "public/images/migrated/products/kosher-line/kosher-line-1-kosher-line.jpg",
+          "alt": "KOSHER LINE"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_157528429242729.jpg",
+          "localPath": "public/images/migrated/products/kosher-line/kosher-line-2-kosher-line-for-salting-meat-in-slaughterhouse.jpg",
+          "alt": "KOSHER LINE"
+        },
+        {
+          "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/services/images/image_1575284292631006.jpg",
+          "localPath": "public/images/migrated/products/kosher-line/kosher-line-3-kosher-line.jpg",
+          "alt": "KOSHER LINE"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Küçükbaş Mezbaha Makinaları",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kucukbas-mezbaha-makinalari/"
+    },
+    {
+      "name": "Kurban Kesim Makinaları",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/kurban-kesim/"
+    },
+    {
+      "name": "Mezbaha Sistemleri",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-sistemleri/"
+    }
+  ],
+  "errors": []
+}

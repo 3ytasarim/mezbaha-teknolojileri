@@ -1,0 +1,286 @@
+{
+  "generatedAt": "2026-09-23T20:45:06.779Z",
+  "redirects": {
+    "total": 210,
+    "ok301SingleHop200": 210,
+    "bad": []
+  },
+  "origin": {
+    "expectedOrigin": "https://www.mezbahateknolojileri.com",
+    "sitemapLocs": 128,
+    "sitemapWrongOrigin": [],
+    "canonicalWrongOrigin": [],
+    "robotsSitemap": [
+      "Sitemap: https://www.mezbahateknolojileri.com/sitemap.xml"
+    ],
+    "robotsOk": true,
+    "robotsBad": false,
+    "llmsUrls": 9,
+    "llmsWrongOrigin": [],
+    "llmsBad": false,
+    "pagesWithBadOrigin": [],
+    "pagesWithApexHost": [],
+    "unexpectedHosts": [
+      "www.mezbahateknolojilerionlinesatis.com"
+    ],
+    "hostCounts": {
+      "www.mezbahateknolojileri.com": 805,
+      "schema.org": 128,
+      "www.youtube.com": 18,
+      "www.mezbahateknolojilerionlinesatis.com": 1
+    }
+  },
+  "aiCrawlers": {
+    "/": {
+      "normal": {
+        "status": 200,
+        "bytes": 165181,
+        "hash": "28739d3f69",
+        "words": 1352,
+        "metaInHead": true
+      },
+      "OAI-SearchBot": {
+        "status": 200,
+        "bytes": 165181,
+        "hash": "28739d3f69",
+        "words": 1352,
+        "metaInHead": true
+      },
+      "ChatGPT-User": {
+        "status": 200,
+        "bytes": 165181,
+        "hash": "28739d3f69",
+        "words": 1352,
+        "metaInHead": true
+      },
+      "Claude-SearchBot": {
+        "status": 200,
+        "bytes": 165181,
+        "hash": "28739d3f69",
+        "words": 1352,
+        "metaInHead": true
+      }
+    },
+    "/urunler": {
+      "normal": {
+        "status": 200,
+        "bytes": 56499,
+        "hash": "5a420e425b",
+        "words": 231,
+        "metaInHead": true
+      },
+      "OAI-SearchBot": {
+        "status": 200,
+        "bytes": 56499,
+        "hash": "5a420e425b",
+        "words": 231,
+        "metaInHead": true
+      },
+      "ChatGPT-User": {
+        "status": 200,
+        "bytes": 56499,
+        "hash": "5a420e425b",
+        "words": 231,
+        "metaInHead": true
+      },
+      "Claude-SearchBot": {
+        "status": 200,
+        "bytes": 56499,
+        "hash": "5a420e425b",
+        "words": 231,
+        "metaInHead": true
+      }
+    },
+    "/urunler/buyukbas": {
+      "normal": {
+        "status": 200,
+        "bytes": 172333,
+        "hash": "1acd73461a",
+        "words": 965,
+        "metaInHead": true
+      },
+      "OAI-SearchBot": {
+        "status": 200,
+        "bytes": 172333,
+        "hash": "cc3775c62c",
+        "words": 965,
+        "metaInHead": true
+      },
+      "ChatGPT-User": {
+        "status": 200,
+        "bytes": 172403,
+        "hash": "3891d70287",
+        "words": 965,
+        "metaInHead": true
+      },
+      "Claude-SearchBot": {
+        "status": 200,
+        "bytes": 172403,
+        "hash": "3891d70287",
+        "words": 965,
+        "metaInHead": true
+      }
+    },
+    "/urun/et-parcalama-masasi": {
+      "normal": {
+        "status": 200,
+        "bytes": 56601,
+        "hash": "2a3b36683d",
+        "words": 234,
+        "metaInHead": true
+      },
+      "OAI-SearchBot": {
+        "status": 200,
+        "bytes": 56601,
+        "hash": "49a5bee4d2",
+        "words": 234,
+        "metaInHead": true
+      },
+      "ChatGPT-User": {
+        "status": 200,
+        "bytes": 56601,
+        "hash": "49a5bee4d2",
+        "words": 234,
+        "metaInHead": true
+      },
+      "Claude-SearchBot": {
+        "status": 200,
+        "bytes": 56601,
+        "hash": "49a5bee4d2",
+        "words": 234,
+        "metaInHead": true
+      }
+    },
+    "/blog/mezbaha-kurulum-maliyeti": {
+      "normal": {
+        "status": 200,
+        "bytes": 65402,
+        "hash": "31ed744e64",
+        "words": 1016,
+        "metaInHead": true
+      },
+      "OAI-SearchBot": {
+        "status": 200,
+        "bytes": 65402,
+        "hash": "31ed744e64",
+        "words": 1016,
+        "metaInHead": true
+      },
+      "ChatGPT-User": {
+        "status": 200,
+        "bytes": 65402,
+        "hash": "31ed744e64",
+        "words": 1016,
+        "metaInHead": true
+      },
+      "Claude-SearchBot": {
+        "status": 200,
+        "bytes": 65402,
+        "hash": "31ed744e64",
+        "words": 1016,
+        "metaInHead": true
+      }
+    },
+    "/blog": {
+      "normal": {
+        "status": 200,
+        "bytes": 175748,
+        "hash": "da4d8898dd",
+        "words": 981,
+        "metaInHead": true
+      },
+      "OAI-SearchBot": {
+        "status": 200,
+        "bytes": 175748,
+        "hash": "da4d8898dd",
+        "words": 981,
+        "metaInHead": true
+      },
+      "ChatGPT-User": {
+        "status": 200,
+        "bytes": 175748,
+        "hash": "da4d8898dd",
+        "words": 981,
+        "metaInHead": true
+      },
+      "Claude-SearchBot": {
+        "status": 200,
+        "bytes": 175748,
+        "hash": "da4d8898dd",
+        "words": 981,
+        "metaInHead": true
+      }
+    },
+    "/projeler": {
+      "normal": {
+        "status": 200,
+        "bytes": 85909,
+        "hash": "00b5304777",
+        "words": 682,
+        "metaInHead": true
+      },
+      "OAI-SearchBot": {
+        "status": 200,
+        "bytes": 85909,
+        "hash": "00b5304777",
+        "words": 682,
+        "metaInHead": true
+      },
+      "ChatGPT-User": {
+        "status": 200,
+        "bytes": 85909,
+        "hash": "00b5304777",
+        "words": 682,
+        "metaInHead": true
+      },
+      "Claude-SearchBot": {
+        "status": 200,
+        "bytes": 85909,
+        "hash": "00b5304777",
+        "words": 682,
+        "metaInHead": true
+      }
+    },
+    "/llms.txt": {
+      "normal": {
+        "status": 200,
+        "bytes": 624,
+        "hash": "613110b720",
+        "words": 44,
+        "metaInHead": false
+      },
+      "OAI-SearchBot": {
+        "status": 200,
+        "bytes": 624,
+        "hash": "613110b720",
+        "words": 44,
+        "metaInHead": false
+      },
+      "ChatGPT-User": {
+        "status": 200,
+        "bytes": 624,
+        "hash": "613110b720",
+        "words": 44,
+        "metaInHead": false
+      },
+      "Claude-SearchBot": {
+        "status": 200,
+        "bytes": 624,
+        "hash": "613110b720",
+        "words": 44,
+        "metaInHead": false
+      }
+    }
+  },
+  "linkChecks": {
+    "unique": 128,
+    "broken": 0,
+    "redirected": 0,
+    "orphans": 0
+  },
+  "semantic": {
+    "h1Not1": [],
+    "noMain": [],
+    "imgNoAlt": []
+  }
+}

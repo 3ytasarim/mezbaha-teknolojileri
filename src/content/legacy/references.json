@@ -1,0 +1,373 @@
+{
+  "source": "https://www.mezbahateknolojileri.com/tr/referanslar/",
+  "items": [
+    {
+      "name": "ADAL AZYK LTD",
+      "place": "KIRGIZİSTAN",
+      "foreign": true,
+      "type": "Tesis",
+      "image": "/images/references/adal-azyk-kirgizistan.jpg",
+      "imageAlt": "ADAL AZYK LTD referans projesi"
+    },
+    {
+      "name": "TOVUZ AGRO",
+      "place": "AZERBAYCAN",
+      "foreign": true,
+      "type": "Tesis"
+    },
+    {
+      "name": "AJAMY ARİA CONSTRUCTİON COMPANY",
+      "place": "AFGANİSTAN",
+      "foreign": true,
+      "type": "Tesis"
+    },
+    {
+      "name": "ÇORUM BELEDİYE MEZBAHASI",
+      "place": "",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "LOKMAN ÖZBEK ET TESİSİ",
+      "place": "AFYON",
+      "foreign": false,
+      "type": "Et Tesisi"
+    },
+    {
+      "name": "İBRAHİM MAZLUM ET TESİSİ",
+      "place": "AFYON",
+      "foreign": false,
+      "type": "Et Tesisi"
+    },
+    {
+      "name": "BAYBURT BELEDİYE MEZBAHASI",
+      "place": "",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "ANGEL LTD MEZBAHASI",
+      "place": "GÜRCİSTAN",
+      "foreign": true,
+      "type": "Mezbaha"
+    },
+    {
+      "name": "GEVAŞ BELEDİYE MEZBAHASI",
+      "place": "VAN",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "MAZLUM ET ENTEGRE",
+      "place": "AFYON",
+      "foreign": false,
+      "type": "Et Tesisi"
+    },
+    {
+      "name": "KARAHİSAR ET ENTEGRE",
+      "place": "AFYON",
+      "foreign": false,
+      "type": "Et Tesisi"
+    },
+    {
+      "name": "ERZURUM ET VE SÜT KURUMU",
+      "place": "",
+      "foreign": false,
+      "type": "Et Tesisi"
+    },
+    {
+      "name": "ELMALI BELEDİYE MEZBAHASI",
+      "place": "ANTALYA",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "SİNOP BELEDİYE MEZBAHASI",
+      "place": "",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "SİVAS GÜLER SUCUKLARI",
+      "place": "",
+      "foreign": false,
+      "type": "Et Tesisi"
+    },
+    {
+      "name": "ÇORLU BELEDİYE MEZBAHASI",
+      "place": "",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "SORGUN BELEDİYE MEZBAHASI",
+      "place": "YOZGAT",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "KORKUTELİ MEZBAHASI",
+      "place": "ANTALYA",
+      "foreign": false,
+      "type": "Mezbaha"
+    },
+    {
+      "name": "ÖZMEN ET MEZBAHASI",
+      "place": "KAYSERİ",
+      "foreign": false,
+      "type": "Mezbaha"
+    },
+    {
+      "name": "KEMSAN OVAKENT MEZBAHASI",
+      "place": "KAYSERİ",
+      "foreign": false,
+      "type": "Mezbaha"
+    },
+    {
+      "name": "ÇERKEŞ BELEDİYE MEZBAHASI",
+      "place": "ÇANKIRI",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "BELEDİYESİ MEZBAHASI",
+      "place": "AĞRI",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "KORKMAZ SUCUKLARI KESİMHANE REVİZYONU",
+      "place": "KAYSERİ",
+      "foreign": false,
+      "type": "Kesimhane"
+    },
+    {
+      "name": "AÇIK CEZAEVİ MEZBAHASI",
+      "place": "NİĞDE",
+      "foreign": false,
+      "type": "Cezaevi Mezbahası"
+    },
+    {
+      "name": "GANİOĞULLARI KURBAN KESİM TESİSİ",
+      "place": "ÇORLU",
+      "foreign": false,
+      "type": "Kurban Kesim Tesisi"
+    },
+    {
+      "name": "MİGROS TOPTAN MONORAY",
+      "place": "BURSA",
+      "foreign": false,
+      "type": "Monoray Hattı"
+    },
+    {
+      "name": "PİMAK TÜRKMENBAŞI KESİMHANESİ",
+      "place": "TÜKMENİSTAN",
+      "foreign": true,
+      "type": "Kesimhane"
+    },
+    {
+      "name": "MİGROS TOPTAN HADIMKÖY MONORAY",
+      "place": "İSTANBUL",
+      "foreign": false,
+      "type": "Monoray Hattı"
+    },
+    {
+      "name": "ATILGAN ET KURBAN KESİM TESİSİ",
+      "place": "İSTANBUL",
+      "foreign": false,
+      "type": "Kurban Kesim Tesisi"
+    },
+    {
+      "name": "BAKANLAR ET KOMBİNASI",
+      "place": "KAYSERİ",
+      "foreign": false,
+      "type": "Et Tesisi"
+    },
+    {
+      "name": "BOĞAZLIYAN BELEDİYESİ MEZBAHASI",
+      "place": "YOZGAT",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "NARMAN AÇIK CEZAEVİ MEZBAHASI",
+      "place": "ERZURUM",
+      "foreign": false,
+      "type": "Cezaevi Mezbahası"
+    },
+    {
+      "name": "MİGROS GEBZE ET DAĞITIM DEPOSU MONORAY",
+      "place": "KOCAELİ",
+      "foreign": false,
+      "type": "Monoray Hattı"
+    },
+    {
+      "name": "YILMAZOĞLU ET CENTER KESİMHANESİ",
+      "place": "İSTANBUL",
+      "foreign": false,
+      "type": "Kesimhane"
+    },
+    {
+      "name": "ESKİŞEHİR AÇILLAR BESİCİLİK KESİMHANESİ",
+      "place": "ESKİŞEHİR",
+      "foreign": false,
+      "type": "Kesimhane"
+    },
+    {
+      "name": "ALTINDAĞ BELEDİYESİ 3 ADET KESİMHANE",
+      "place": "ANKARA",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "KARS SELİM İLÇESİ MEZBAHASI",
+      "place": "KARS",
+      "foreign": false,
+      "type": "Mezbaha"
+    },
+    {
+      "name": "MİGROS TOPTAN ET DEPOSU",
+      "place": "ANKARA",
+      "foreign": false,
+      "type": "Tesis"
+    },
+    {
+      "name": "MİGROS SARAY ET DAĞITIM DEPOSU MONORAY",
+      "place": "ANKARA",
+      "foreign": false,
+      "type": "Monoray Hattı"
+    },
+    {
+      "name": "ESKİŞEHİR AÇILLAR BESİCİLİK KESİMHANESİ 2",
+      "place": "ESKİŞEHİR",
+      "foreign": false,
+      "type": "Kesimhane"
+    },
+    {
+      "name": "MİGROS SERİK ET DAĞITIM DEPOSU MONORAY",
+      "place": "ANTALYA",
+      "foreign": false,
+      "type": "Monoray Hattı"
+    },
+    {
+      "name": "ELMALI BELEDİYE MEZBAHASI",
+      "place": "ANTALYA",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "BEYBOĞA ET AVCILAR MONORAY ET DEPOSU",
+      "place": "İSTANBUL",
+      "foreign": false,
+      "type": "Monoray Hattı"
+    },
+    {
+      "name": "ÖZAY ET MONORAY ET DEPOSU CEVİZLİ",
+      "place": "İSTANBUL",
+      "foreign": false,
+      "type": "Monoray Hattı"
+    },
+    {
+      "name": "SİLOPİ BELEDİYE MEZBAHASI",
+      "place": "ŞIRNAK",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "BALIKESİR BAKIM OKULU MERKEZ KOMUTANLIĞI MONORAY HATTI",
+      "place": "BALIKESİR",
+      "foreign": false,
+      "type": "Monoray Hattı"
+    },
+    {
+      "name": "KEŞAN 4. MEKANİZE PİYADE TUGAY KOMUTANLIĞI MONORAY HATTI",
+      "place": "EDİRNE",
+      "foreign": false,
+      "type": "Monoray Hattı"
+    },
+    {
+      "name": "MERAM ET MONORAY HATTI",
+      "place": "ERZURUM",
+      "foreign": false,
+      "type": "Monoray Hattı"
+    },
+    {
+      "name": "BAKANLAR ET KIRIKHAN MEZBAHASI",
+      "place": "HATAY",
+      "foreign": false,
+      "type": "Mezbaha"
+    },
+    {
+      "name": "ELBİSTAN MEZBAHASI",
+      "place": "MARAŞ",
+      "foreign": false,
+      "type": "Mezbaha"
+    },
+    {
+      "name": "ÇEKİÇLER ET SOĞUK ODA",
+      "place": "HATAY",
+      "foreign": false,
+      "type": "Soğuk Oda"
+    },
+    {
+      "name": "ETAŞ SOĞUK ODA",
+      "place": "AMASYA",
+      "foreign": false,
+      "type": "Soğuk Oda"
+    },
+    {
+      "name": "AKSEKİ MEZBAHASI",
+      "place": "ANTALYA",
+      "foreign": false,
+      "type": "Mezbaha"
+    },
+    {
+      "name": "KUMLUCA BELEDİYE MEZBAHASI",
+      "place": "ANTALYA",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "GAZİPAŞA BELEDİYE MEZBAHASI",
+      "place": "ANTALYA",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "SAKARYA ET ENTEGRE TESİSİ",
+      "place": "",
+      "foreign": false,
+      "type": "Et Tesisi"
+    },
+    {
+      "name": "GÖBEL MEZBAHASI",
+      "place": "BALIKESİR",
+      "foreign": false,
+      "type": "Mezbaha"
+    },
+    {
+      "name": "ÇANKIRI BELEDİYE MEZBAHASI",
+      "place": "",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "ÜZÜMDALI BELEDİYE MEZBAHASI",
+      "place": "HATAY",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "DÖRTYOL BELEDİYE MEZBAHASI",
+      "place": "HATAY",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    },
+    {
+      "name": "DEMİRÖZÜ BELEDİYE MEZBAHASI",
+      "place": "BAYBURT",
+      "foreign": false,
+      "type": "Belediye Mezbahası"
+    }
+  ]
+}

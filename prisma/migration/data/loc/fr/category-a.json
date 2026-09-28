@@ -1,0 +1,34 @@
+[
+ {
+  "enSlug": "cattle-slaughterhouse",
+  "name": "Abattoir bovin",
+  "shortDescription": "Équipements et solutions d'abattoir haut de gamme pour la transformation des bovins et des ovins. Des machines hygiéniques et fiables qui augmentent la productivité de vos usines de viande.",
+  "description": "Équipements et solutions d'abattoir haut de gamme pour la transformation des bovins et des ovins. Des machines hygiéniques et fiables qui augmentent la productivité de vos usines de viande.",
+  "seoTitle": "Équipements et solutions d'abattoir",
+  "seoDescription": "Équipements et solutions d'abattoir haut de gamme pour la transformation des bovins et des ovins. Des machines hygiéniques et fiables qui augmentent la productivité de vos usines de viande."
+ },
+ {
+  "enSlug": "mini-slaughterhouse",
+  "name": "Mini-abattoir",
+  "shortDescription": "Des systèmes de mini-abattoir pratiques, hygiéniques et économiques pour les petites entreprises, avec installation et mise en service professionnelles.",
+  "description": "Des systèmes de mini-abattoir pratiques, hygiéniques et économiques pour les petites entreprises, avec installation et mise en service professionnelles.",
+  "seoTitle": "Systèmes de mini-abattoir à petite échelle",
+  "seoDescription": "Des systèmes de mini-abattoir pratiques, hygiéniques et économiques pour les petites entreprises, avec installation et mise en service professionnelles."
+ },
+ {
+  "enSlug": "sheep-slaughterhouse",
+  "name": "Abattoir ovin",
+  "shortDescription": "Nous fabriquons des lignes de convoyage, des systèmes de manutention automatisés, des machines d'écorchage et des équipements de transformation en acier inoxydable pour les abattoirs d'ovins et de caprins. Conçus selon la capacité et l'implantation de votre installation, nos systèmes assurent un flux hygiénique et efficace.",
+  "description": "Nous fabriquons des lignes de convoyage, des systèmes de manutention automatisés, des machines d'écorchage et des équipements de transformation en acier inoxydable pour les abattoirs d'ovins et de caprins. Conçus selon la capacité et l'implantation de votre installation, nos systèmes assurent un flux hygiénique et efficace.",
+  "seoTitle": "Machines d'abattoir pour ovins et caprins | Convoyage et systèmes automatisés",
+  "seoDescription": "Nous fabriquons des lignes de convoyage, des systèmes de manutention automatisés, des machines d'écorchage et des équipements de transformation en acier inoxydable pour les abattoirs d'ovins et de caprins."
+ },
+ {
+  "enSlug": "slaughterhouse-processing",
+  "name": "Transformation d'abattoir",
+  "shortDescription": "Nous proposons des équipements d'abattage professionnels et standards de bonne qualité, avec monorails de chambre froide et rails doubles de chambre froide.",
+  "description": "Nous proposons des équipements d'abattage professionnels et standards de bonne qualité, avec monorails de chambre froide et rails doubles de chambre froide.",
+  "seoTitle": "Produits de transformation d'abattage",
+  "seoDescription": "Nous proposons des équipements d'abattage professionnels et standards de bonne qualité, avec monorails de chambre froide et rails doubles de chambre froide."
+ }
+]

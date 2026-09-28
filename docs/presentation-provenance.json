@@ -1,0 +1,125 @@
+{
+  "importedAt": "2026-09-25T09:12:16.983Z",
+  "files": [
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971351.webp",
+      "local": "public/images/presentation/proje-01.png",
+      "sha256": "27f3be99f4f81a21a50c29bdf5be8a021eb926403005be599ec287e66f822e14",
+      "bytes": 349737
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971590.webp",
+      "local": "public/images/presentation/proje-02.png",
+      "sha256": "05d87e317f7f58bcdf0d4a37c3ad7c9d432763b0087f358044121fe3383f6721",
+      "bytes": 293627
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971372.webp",
+      "local": "public/images/presentation/proje-03.png",
+      "sha256": "45b772bda6841aac681aeca93fa2445b364ed70682eee611aa85bab972e55212",
+      "bytes": 330061
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971143.webp",
+      "local": "public/images/presentation/proje-04.png",
+      "sha256": "e8f57e625e211401398058aa7d1d7e4c1a5cdef8611387b92feac776b708e21d",
+      "bytes": 260414
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971477.webp",
+      "local": "public/images/presentation/proje-05.png",
+      "sha256": "4f5911cb540829c3d525dff188ef6214a3822aa3af5a986905a335064953836f",
+      "bytes": 297636
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971451.webp",
+      "local": "public/images/presentation/proje-06.png",
+      "sha256": "065b8e3b9ddfd12cb629b91c3e8d5e1eb20721f78e6cd9a0ee5151fe69512428",
+      "bytes": 336528
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971806.webp",
+      "local": "public/images/presentation/proje-07.png",
+      "sha256": "25d2d72279d839568ac72ec5262090bf25e1f781352b51f8d41714e177214803",
+      "bytes": 320338
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971848.webp",
+      "local": "public/images/presentation/proje-08.png",
+      "sha256": "584501e9879876f15f52683167e30265b63966021e2b40223592f5e68c59de18",
+      "bytes": 319170
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971186.webp",
+      "local": "public/images/presentation/proje-09.png",
+      "sha256": "d102621025e9f1fb857fec33e301b74e2a250e9071ac0e228f134a8e8b1cb3dc",
+      "bytes": 256563
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971826.webp",
+      "local": "public/images/presentation/proje-10.png",
+      "sha256": "790030822a563b95159ce6af75f2e0b89af9ca1abbf54cc0008b7fc1d77ccc26",
+      "bytes": 339776
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971328.webp",
+      "local": "public/images/presentation/proje-11.png",
+      "sha256": "9271f1728c9fe3c180d7a780c0a7c86c4dee512ac5ae06edf6c3de72450c6079",
+      "bytes": 376128
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971397.webp",
+      "local": "public/images/presentation/proje-12.png",
+      "sha256": "3adf7fc6785ee0af8f89c5aa2ae0621951853c2dbfa0fe0053242d3c2c6e76eb",
+      "bytes": 304082
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971687.webp",
+      "local": "public/images/presentation/proje-13.png",
+      "sha256": "d3e1c4acd60ab3c600e93fa706d1e640a0ec29b56615e82c16f4b1978b65b1f5",
+      "bytes": 326625
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971778.webp",
+      "local": "public/images/presentation/proje-14.png",
+      "sha256": "9d24fb77a0173f2af907fe17e22e61d31aa3693316d7fc8f3f972b9e54cfa72e",
+      "bytes": 278682
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971291.webp",
+      "local": "public/images/presentation/proje-15.png",
+      "sha256": "4c50945e8f17bab259c0a5671dce5032edb22580ca03bf2f4b6c159c093ba981",
+      "bytes": 307336
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971743.webp",
+      "local": "public/images/presentation/proje-16.png",
+      "sha256": "9c858d51e9b14d17e5c91cb896eb9f06ccdc3298b5b176f86947bb9c633d0213",
+      "bytes": 310953
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971507.webp",
+      "local": "public/images/presentation/proje-17.png",
+      "sha256": "10fb9d6df58faccf989f733c5d5d52aab2ad62d9721e2fa6508018099df4cb02",
+      "bytes": 386358
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971531.webp",
+      "local": "public/images/presentation/proje-18.png",
+      "sha256": "8478f66e4d9a297a9bcac4955980793b837a74f67ec15ef915fe02aa6199c94c",
+      "bytes": 301248
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/contents/thumb/content_thumb_1786971254.webp",
+      "local": "public/images/presentation/proje-19.png",
+      "sha256": "7c5383d3904a7430f393abd727f038c183493c99fe3abe2287b229648eabc3d8",
+      "bytes": 266440
+    },
+    {
+      "sourceUrl": "https://www.mezbahateknolojileri.com/templates/images/s4-bg.png",
+      "local": "public/images/presentation/presentation-bg.png",
+      "sha256": "05c3872c191fefad82bea0d5cd898965704924ba98f9a76edece33f9f44f18eb",
+      "bytes": 614957
+    }
+  ]
+}

@@ -1,0 +1,1581 @@
+{
+  "updatedAt": "2026-09-23T19:49:54.190Z",
+  "count": 175,
+  "records": [
+    {
+      "entity": "catalogCover",
+      "slug": "2018-mezbaha-sistemleri-katalog",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_1536524805.jpg",
+      "sourceHash": "be36f34d819b1d765e76f2614d1912a2e2a0d68c0fb100f6c7d93957c7ca5db2",
+      "bytes": 31421,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/cover.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#1",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536525719668153.jpg",
+      "sourceHash": "5e67f3e89964c18f39ae0a34988800f9faf72799545163f4a5e7c078f909e489",
+      "bytes": 107496,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-001.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#2",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536525848597903.jpg",
+      "sourceHash": "4800286fbf5590710435d7ee4cb9f7680b348c868535e3481d251667216f9807",
+      "bytes": 182358,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-002.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#3",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536525889828922.jpg",
+      "sourceHash": "a2c5e9bfa81bc4145e6140fa03c71fbb73a494068131741e8dc4ff592112e0c7",
+      "bytes": 196039,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-003.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#4",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536526169938832.jpg",
+      "sourceHash": "5778af084098502ccd7703ac043c5bfd6f694a47d01432a59f0378150619d938",
+      "bytes": 122611,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-004.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#5",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536676624204826.jpg",
+      "sourceHash": "72072a20c15046b9ad8ef9e5e2ad48f2a06974613cd022122302bfe1c0bc05b6",
+      "bytes": 253962,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-005.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#6",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536676664457034.jpg",
+      "sourceHash": "f22654182f3088192d91fa57be3ac459f93b4b3fb8efef18a4605a30a7c946f2",
+      "bytes": 209187,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-006.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#7",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536526170517252.jpg",
+      "sourceHash": "9b2ec5cb1c9209949bc467fbac8f114df8c38fb8abf436f5c50b9426a25280dd",
+      "bytes": 245754,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-007.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#8",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536526170833968.jpg",
+      "sourceHash": "380508a7a0ff423735f89fd34a2f611589112f88734d8f4bb498c35976fa3cac",
+      "bytes": 215867,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-008.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#9",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536526165786477.jpg",
+      "sourceHash": "186e3120850976820a8f4c7586678333ad38d67a47beb1af76d4214b13c1cabd",
+      "bytes": 145463,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-009.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#10",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536676755901899.jpg",
+      "sourceHash": "186e3120850976820a8f4c7586678333ad38d67a47beb1af76d4214b13c1cabd",
+      "bytes": 145463,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-010.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#11",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536676861367668.jpg",
+      "sourceHash": "1bee52a07b7045e040269b3e82909be0871c7fb5fce53fd24ab7f39bbc6f9f4e",
+      "bytes": 199537,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-011.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#12",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536676921659739.jpg",
+      "sourceHash": "f1a9a51422d83e9e06a904d089d49010766618631e88f0f9893251dda3768b99",
+      "bytes": 188145,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-012.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#13",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822400787721.jpg",
+      "sourceHash": "6b8e694eccadda285195ec315f61891114cf69d2d32f9f269ca024f0e43cae12",
+      "bytes": 222399,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-013.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#14",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822428663349.jpg",
+      "sourceHash": "84f89ee5ee12bb0d7d130c988bf18fb3f772cdd044c4e2398dca8dc677b33766",
+      "bytes": 200944,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-014.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#15",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822455280489.jpg",
+      "sourceHash": "320022da15dab9a2c698bcc1c436c2619b4d337f658f921930a391bc600468a1",
+      "bytes": 223144,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-015.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#16",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_153682249243530.jpg",
+      "sourceHash": "2b6b5353ee7f1d4dd2b7ccab93b3ea83c7875b09f67da0e091e5bcd041d080ad",
+      "bytes": 222116,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-016.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#17",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822509380385.jpg",
+      "sourceHash": "f3a8e1c060e6dcc01be5f4dc5820844761487329b8f8c931d7fe1ab9a463e22a",
+      "bytes": 209942,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-017.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#18",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_15368225264913.jpg",
+      "sourceHash": "e4074c1ce5d5075dbf5f4934c38421ef46dd7cfddd55d781ce7971fbcdc5ba14",
+      "bytes": 201327,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-018.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#19",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822547656660.jpg",
+      "sourceHash": "074a969f57386706d5f5a7bd5c4feab650823b5cf3a11505961ceac0280feadc",
+      "bytes": 242698,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-019.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#20",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822580114656.jpg",
+      "sourceHash": "e6fb818b79fe055e0aae4970ca7cf076d128e3f495a821927316e99aa1b01b01",
+      "bytes": 238378,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-020.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#21",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822618734343.jpg",
+      "sourceHash": "ca8db560e4a2a9df0fb4e8968a9aa4423705dad713fe8ea55b90c5af65b34430",
+      "bytes": 215513,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-021.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#22",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822645208064.jpg",
+      "sourceHash": "bdec952dd8b820bbb5262e06539d7b6b094af3a096467f03036e71c2741412bd",
+      "bytes": 202058,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-022.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#23",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822662659857.jpg",
+      "sourceHash": "8d87e099a8e83e709118dbaec1f39f450dd724d96c649e006752a0f5b6e8c9ce",
+      "bytes": 253192,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-023.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#24",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822692632752.jpg",
+      "sourceHash": "440c5be1259c4ea45fc6c8dbdcc8273e09e4a00a1443fcab56f4225898c7a3ca",
+      "bytes": 243695,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-024.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#25",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822721907303.jpg",
+      "sourceHash": "e7ec03ffc70c5a9fc6a57af52330f462aa6bbe56b41a0c5600bda9b19bf05d7a",
+      "bytes": 214237,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-025.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#26",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822741974675.jpg",
+      "sourceHash": "d7c0aafceb786e9cf1e46f2e4602b66526a464781d2c5f40874add10027f62d4",
+      "bytes": 210115,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-026.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#27",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822763165661.jpg",
+      "sourceHash": "0478d422fa191d08844394d4924e314dc1c7db03df28d95b6686688dd255a14f",
+      "bytes": 253088,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-027.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#28",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822786574767.jpg",
+      "sourceHash": "0cbe9c31b62049f4c8aaf5a8dbcbbaecc9020c5f6e3a1a75854686b65736144d",
+      "bytes": 240153,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-028.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#29",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822806908142.jpg",
+      "sourceHash": "b56d0148966511ee06b66ba5a219592eb0ce1c6d05896b185cff761c294cd4ae",
+      "bytes": 226001,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-029.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#30",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536822970842040.jpg",
+      "sourceHash": "b42b6e77638f97dfe7565339692d3a727072a5d19232415a075e1f4365623503",
+      "bytes": 219873,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-030.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#31",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823035160123.jpg",
+      "sourceHash": "a41f11b45f8339c3ad4dece1d13ee9d5483850a013d503509f1d4f5ea9b0c4e4",
+      "bytes": 220102,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-031.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#32",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_153682310632853.jpg",
+      "sourceHash": "0c73a6620ca17b1912b8fd63595fc5fd8090d25e9112726db0a305f61c6e6955",
+      "bytes": 211073,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-032.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#33",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823124434146.jpg",
+      "sourceHash": "78a0131d80b8fe5e22cd4df4604b8df63d7aacf1d2a2d46cc2578f2c252215ea",
+      "bytes": 187538,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-033.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#34",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823148539136.jpg",
+      "sourceHash": "ef0132d353069862bc7a29da76c672d5f5bf9bdd926b06a257aec5d746dbce9c",
+      "bytes": 181560,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-034.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#35",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823169221703.jpg",
+      "sourceHash": "b69129939c725bfef68917a38e49bb35f7f6ecaa26270b1dfe17f0b3f4b3872d",
+      "bytes": 251473,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-035.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#36",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823186991784.jpg",
+      "sourceHash": "085fd05f1e5c08e245975d1dd5da5efd3b7f945096acf4f99777dff84da49205",
+      "bytes": 243145,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-036.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#37",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823211172041.jpg",
+      "sourceHash": "02ee01b1acaa8b2f38185a6ff406f80b28c40c513fb6716030adb11e5d439753",
+      "bytes": 189693,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-037.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#38",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823231217682.jpg",
+      "sourceHash": "e92d6cd173ebd5f72669001e2cb02214d777a4f8812227c5fb435ec1273f0b41",
+      "bytes": 186218,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-038.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#39",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823247375084.jpg",
+      "sourceHash": "3e513145be923817b20eef2571a9ad4980c1776b454fb91eb1c0aad307ddccb5",
+      "bytes": 231127,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-039.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#40",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823267971641.jpg",
+      "sourceHash": "d174df11b7eebc7e0325489beec6667328f5d23f15bc64554c61d1b620a270ec",
+      "bytes": 216280,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-040.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#41",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823282314226.jpg",
+      "sourceHash": "9178aa6e1e07e78a6f31302456637a61b834023c6faf4117dec7eb1f18c119aa",
+      "bytes": 175887,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-041.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#42",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823299811710.jpg",
+      "sourceHash": "b0dd99b696cb59a2107a70e0898b8c3b29c5824759f491c57f861314cb41757a",
+      "bytes": 175394,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-042.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#43",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823318205630.jpg",
+      "sourceHash": "5f0100fb78dd8c4c16e15fffa6f6a910901ee25b92884b96ffa2b22b77939d50",
+      "bytes": 184439,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-043.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#44",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823337879026.jpg",
+      "sourceHash": "2f0a4000dcabc5f5474aff975e4608b2e312a7caa82ea2a9a753f6ca9bf48a64",
+      "bytes": 186868,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-044.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#45",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823368984640.jpg",
+      "sourceHash": "5ec4adfd76d0beae754fb9182b27774062424de76686d9ca1a81a00fe4a70ae4",
+      "bytes": 185107,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-045.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#46",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823401501222.jpg",
+      "sourceHash": "885183566b2d6239ccea288faa1a4e5f827d60b232860ec93eabc77693217599",
+      "bytes": 181645,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-046.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#47",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823434443997.jpg",
+      "sourceHash": "b37ba8ad45c0eef41d3ca62c4c688e614d7c67c14eb8644115f3a0e90b101053",
+      "bytes": 182013,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-047.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#48",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823452391555.jpg",
+      "sourceHash": "ecdfd42256f92ab652fbfcedfba561e22310db88eaa7caed7ca6dae910b2d11b",
+      "bytes": 171659,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-048.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#49",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823480342322.jpg",
+      "sourceHash": "a9ed657501b9cdb7f6beb40b4facf03ec116c51f668f80c27456a23a207c9144",
+      "bytes": 191797,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-049.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#50",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823499665073.jpg",
+      "sourceHash": "5ff635db3ffa34a57dbad140bdd8b77f0b2d4ae2b7a831a6cffc9f0f17ddb991",
+      "bytes": 176856,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-050.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#51",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823517414159.jpg",
+      "sourceHash": "2280f3023275d441890547167ce239e61b75def760bd3c7f9f76256c5f251ede",
+      "bytes": 193356,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-051.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#52",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823612906725.jpg",
+      "sourceHash": "700e0c1207b32ab98a7940324065a2909b335dfb4e46a276d5376fa8b16f439d",
+      "bytes": 185698,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-052.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#53",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823555126054.jpg",
+      "sourceHash": "7955c67cf6a1c3def31c47599ff7c92ed734d45c57256aa706512479dfc24f77",
+      "bytes": 186204,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-053.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#54",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823631109370.jpg",
+      "sourceHash": "73aa971c9a5ee72fac261847d955726017e2d21515fe24a08865a06c9fc3d1dd",
+      "bytes": 184228,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-054.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#55",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823651131011.jpg",
+      "sourceHash": "bf5167b35d82ea21441add98f3defb15fea793288bf98d8cc3902c0cf9b55000",
+      "bytes": 186974,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-055.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#56",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823668397742.jpg",
+      "sourceHash": "8137b0e89ad7deb4267077b126537bfc9fa9659a5191e6a8a3311206bd90890f",
+      "bytes": 184057,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-056.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#57",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_153682369137595.jpg",
+      "sourceHash": "41774535f102b2a27aaf424022b02c6f7c5febc2244f34718689b23e7e308898",
+      "bytes": 200846,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-057.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#58",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823737242713.jpg",
+      "sourceHash": "c9165679099aa474af46cdabf286e0695b93b2be48cc3ac20afda3451d840295",
+      "bytes": 188974,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-058.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#59",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823757989639.jpg",
+      "sourceHash": "2241331be8d2401b58f0ac74e394df03858db6edc3940857b5e0672dc1724bae",
+      "bytes": 193986,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-059.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#60",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823775496177.jpg",
+      "sourceHash": "3aa3b14b624cbbecf236c34fa521b2a8f317d88531c7460f1267b1f3d790f467",
+      "bytes": 182299,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-060.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#61",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823792685371.jpg",
+      "sourceHash": "2e577a73e892fff7bd2fe4032d32c9cfdb0b7de11f8bd76a2ae00f3d91a59883",
+      "bytes": 249026,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-061.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#62",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823808806932.jpg",
+      "sourceHash": "7e0d6830441562748e076670e1aa6684d5e0b494e161066d557f8192e6bd09f2",
+      "bytes": 248333,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-062.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#63",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823823744286.jpg",
+      "sourceHash": "12632df4c1fe2af28b20502bfcc94cf5dc9550c3544da2059d53b80910e20381",
+      "bytes": 146565,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-063.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#64",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823839514806.jpg",
+      "sourceHash": "cb6892bab676fc60fbaa34d9863daac8e61bc5a44cb6a589fbae12217654a9a7",
+      "bytes": 148397,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-064.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#65",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_153682385729228.jpg",
+      "sourceHash": "aba9e9af1c879b63715bda02342044cf79201858bf7f9f9ea11ceff223a94424",
+      "bytes": 193687,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-065.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#66",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823875950660.jpg",
+      "sourceHash": "ebd82929b2c5fbd7083537541788e5c29b43613775e4cb727f09b5bfa87f271d",
+      "bytes": 185791,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-066.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#67",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823905606722.jpg",
+      "sourceHash": "b3a9d2a7e9514ae453abc6226074e8d16edda8be49e84a16d95e654bc1f277b9",
+      "bytes": 206875,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-067.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#68",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823943799929.jpg",
+      "sourceHash": "ffe312e2fa02816b2caf23fb3f51eb49bf25de24e774165e967c035984eaf2f6",
+      "bytes": 203289,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-068.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#69",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536823960623603.jpg",
+      "sourceHash": "653f1afa82ee36f51b73122fb0f4c4f6a8fa42e5fd459f912d5279044d44f479",
+      "bytes": 248293,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-069.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#70",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824001593363.jpg",
+      "sourceHash": "e33c68accfc222bd3b778c2c4bf39cff8dbf4bb8dd7e7519ad114ba99fdd5004",
+      "bytes": 237851,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-070.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#71",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824018436073.jpg",
+      "sourceHash": "a9727981c97c41a6d3626f5f18d99be75dbe2c69d2b2b2022a92f35780c8a036",
+      "bytes": 217478,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-071.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#72",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824108833459.jpg",
+      "sourceHash": "612636a042916b5d7c628cd142231056418725bf07007a92662245314a0e6713",
+      "bytes": 218611,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-072.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#73",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824130764564.jpg",
+      "sourceHash": "22f58c319d5cfb2c548bc1db8d08b2ba0183bac1bdeb7f3b973f8401c5543593",
+      "bytes": 247750,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-073.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#74",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824155607100.jpg",
+      "sourceHash": "1849cb09bcefaa3ac7cc31d5f89b0f3e14ed0252e4d5b401a0de5f064f2b7096",
+      "bytes": 238511,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-074.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#75",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824173287298.jpg",
+      "sourceHash": "1d87dc4d8e989bd0e3a2a414b820951156712f06cec2e8adbb625ea37e00fc5a",
+      "bytes": 248538,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-075.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#76",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824190716987.jpg",
+      "sourceHash": "3b453af97c7ef74a8898bdef5ca821a87d9dd7f0908f883b48413712c0f86889",
+      "bytes": 245126,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-076.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#77",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824210211168.jpg",
+      "sourceHash": "7ab65149b2cedb7f75082e384b5c8b3092eaa2c51fd0ac5f20a205307147d7dd",
+      "bytes": 184937,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-077.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#78",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824227406473.jpg",
+      "sourceHash": "0aac6677cfd9e5de3a41ef2b6a5068b947f144667d4dd01c74f25c39492c91c2",
+      "bytes": 175673,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-078.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#79",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824276774527.jpg",
+      "sourceHash": "b911db5838eed92bc848ee7e269d4f308ad5667b56a628a76f938fbf2b7903b5",
+      "bytes": 199207,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-079.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#80",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824294747962.jpg",
+      "sourceHash": "f1a4b08ccbe12189572837cc6052744f940879f6c17b3302383579769b0cddaf",
+      "bytes": 187417,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-080.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#81",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824310292795.jpg",
+      "sourceHash": "a7fd2103166e6418cd731aedac925ecce43072c62c19bde17098e4e6a8ac6c50",
+      "bytes": 174597,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-081.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#82",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824331530812.jpg",
+      "sourceHash": "e81e0d46b99505f81c931024c975c2a93f08b02a2175ccbe2c8e5a2d581a0c55",
+      "bytes": 169055,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-082.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#83",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824347876078.jpg",
+      "sourceHash": "d5a5ce74a00193def10a07dc4de953f72c66b8b4cf14390f19f8108c735d5275",
+      "bytes": 211551,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-083.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#84",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824366592717.jpg",
+      "sourceHash": "5ae6123054c2c06d8aa4052befa17c5101138589804753b8952095c06287d6da",
+      "bytes": 213057,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-084.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#85",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824385705155.jpg",
+      "sourceHash": "f149b9b988d878fadc3701779313e49dbeb7335fd76f43a152e71188e565bb6a",
+      "bytes": 237235,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-085.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#86",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824403790846.jpg",
+      "sourceHash": "9d975877aa4e4d945f28fdd671f0d1d15f30376dd51e443f2f079c8bbe2219cd",
+      "bytes": 213127,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-086.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#87",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824422824584.jpg",
+      "sourceHash": "21b5485bdb43e764c7b33995eeb494b596bfea227cf46bdfe162dbe7e30129c4",
+      "bytes": 190888,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-087.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#88",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824438660372.jpg",
+      "sourceHash": "c48545add0db7f3f73ff5cdc1d5911067a5054ce0ddaed406f0777884603a679",
+      "bytes": 181925,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-088.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#89",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824454252979.jpg",
+      "sourceHash": "e76d0b725987851c636043b4a6a3c5827584d5ed8b6edd30ac30cee52fc87ef1",
+      "bytes": 192860,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-089.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#90",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824471828625.jpg",
+      "sourceHash": "e5ef6977cc00dacdcd828984300cf3f8b7e077bd892021ef7412ca2055f6a47a",
+      "bytes": 183993,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-090.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#91",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_153682448844616.jpg",
+      "sourceHash": "3a595bbf96771df533d271affeac22d3752d2974414aaed807b6e5c36a4974af",
+      "bytes": 192620,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-091.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#92",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824505716997.jpg",
+      "sourceHash": "3f41a8f5d978ded56daedcae7d18508798d741301f2c89f72ff4d76fbe020e5d",
+      "bytes": 187284,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-092.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#93",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824518304889.jpg",
+      "sourceHash": "e41c5c63e75f9bb18e0a593089054e810e8b43044533c51571bb2fea26b84eaa",
+      "bytes": 244730,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-093.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#94",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824536243545.jpg",
+      "sourceHash": "93a0c587bcb44058f56074f2581b3b1e128f4f8a4d1d88ea1e5776a60f6da494",
+      "bytes": 239897,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-094.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#95",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824552684060.jpg",
+      "sourceHash": "e67cbec0c274ffed1d8c7859ef71114841bad7f075c8dffcac21bbab8c09555a",
+      "bytes": 174281,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-095.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#96",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824568205156.jpg",
+      "sourceHash": "8920a1f71ce02ce0d91b25fcecd00138310b8d04a79a0ba7113550f4bb7489ea",
+      "bytes": 173944,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-096.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#97",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824586830618.jpg",
+      "sourceHash": "3800d92bf2724101bf7b6be73eb5575cd7c04bb689a5fa9c5ab9c85f5b617080",
+      "bytes": 194084,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-097.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#98",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824604543029.jpg",
+      "sourceHash": "d32d9c2cee1596e701a6e1055e6ec1a937199f18511f2197a56579392eab0e82",
+      "bytes": 196056,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-098.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#99",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824622165185.jpg",
+      "sourceHash": "55ecff3c2ab413b92054a61843d8051ff1f8bd9e5d7ddbf03081b1c3c1a4618e",
+      "bytes": 176806,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-099.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#100",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_153682466981239.jpg",
+      "sourceHash": "f67453ee579f30c75734f0a0ede9bb2825e3abb8003acbab9a7b49374aa3895a",
+      "bytes": 176414,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-100.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#101",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_153682469398747.jpg",
+      "sourceHash": "0f816e7ba0cf699c216175d9907932cd69f67a1e9c2da04bd8eae762d35abfae",
+      "bytes": 191963,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-101.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#102",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824719958258.jpg",
+      "sourceHash": "a9c97b65fe32e00ce421e326eee0d96a3fe90093a6c16f0244ab38e40f030b01",
+      "bytes": 185155,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-102.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#103",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824737390870.jpg",
+      "sourceHash": "6b1b62e9993278d41b570576fc802a5efc101a5903f5b6b2421e52c1c97669bc",
+      "bytes": 171275,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-103.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#104",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_153682475876135.jpg",
+      "sourceHash": "50a26794382d07d4b7981bdeef0b3c80769020f396183cb561d8471635168588",
+      "bytes": 170887,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-104.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#105",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824783463335.jpg",
+      "sourceHash": "6471c5d5b196f8c7973932c27b7cd9740c6b52731e2ee93f1845e0712355cc9b",
+      "bytes": 179144,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-105.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#106",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824801819495.jpg",
+      "sourceHash": "4c4bfe6e0ca966c9f65d681d56d598b91450ef59e9f9c1fd679550a6670cd04e",
+      "bytes": 184457,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-106.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#107",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824815653218.jpg",
+      "sourceHash": "eab50648e65e5304ee8273b411bb4c1ac2a098ad8957092bcd9c6219a5a180bd",
+      "bytes": 177274,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-107.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#108",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824834282398.jpg",
+      "sourceHash": "c7c26a8fd5b3401d4237f392ec1f02825dd26279e5b8f44664c1c8163f7b610c",
+      "bytes": 178036,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-108.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#109",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824855328937.jpg",
+      "sourceHash": "b74548a87c0c085d77a3d0a56bdc8521bb10cac23c565258bba47e52ad01ad5a",
+      "bytes": 178032,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-109.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#110",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824885100844.jpg",
+      "sourceHash": "ebbbc08512d9c0eae76130840c7ceb01bc5f165b6ab068a5d1d9322ad2c961d9",
+      "bytes": 178245,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-110.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#111",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824901968031.jpg",
+      "sourceHash": "e5b931216d002fd21f968cd7267c0adf8674e6dedc7cb0079a24d2e6ef504f47",
+      "bytes": 138706,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-111.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#112",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824918911593.jpg",
+      "sourceHash": "d281d0bd6795cfd38c05e3e01da76021483f4299ad7a673f07fce507defc2ce1",
+      "bytes": 125609,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-112.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#113",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824943119873.jpg",
+      "sourceHash": "03d65a6567fcb67e0c10b0579061ad58b0d6807e0a01abcdf4a8beef37b5e5d8",
+      "bytes": 204945,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-113.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#114",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824961856433.jpg",
+      "sourceHash": "828dad8b5ebd6347df6043c57302234438a43948b6985d88aa67037d403c7954",
+      "bytes": 193354,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-114.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#115",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536824987185166.jpg",
+      "sourceHash": "53d3a24f5a24109f6e1ca9a1cc9f820bc7c076ac1d560cb87688e42cc0c353a8",
+      "bytes": 155420,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-115.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#116",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825037984477.jpg",
+      "sourceHash": "0db528aed94215c6867b9f33c6cd077f4167e868fcfa969c40dbd5ed5bd16f27",
+      "bytes": 153831,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-116.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#117",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825057217652.jpg",
+      "sourceHash": "8d9b5e8198f522d378eadf1ead20318e0c9742d3b42c5b69d7b78f01867ad01a",
+      "bytes": 174866,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-117.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#118",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825077862883.jpg",
+      "sourceHash": "ab5055710bf4be950da9156e939655b676daa54b08d6c4aac68f37f13efb9079",
+      "bytes": 179634,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-118.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#119",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825152104031.jpg",
+      "sourceHash": "aa1c90ee2a1f7ea5c8bb5dd072ffae464a810706d06f0757aba72811de0baa6e",
+      "bytes": 191414,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-119.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#120",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825171815434.jpg",
+      "sourceHash": "92654bdc54ec19a2354970c681b15de523eb9bba92165506efb341ed040787eb",
+      "bytes": 195239,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-120.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#121",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825195695999.jpg",
+      "sourceHash": "06f51c6376dacd7069f4680d9c6b8d78de609952296f239ece03816a500c8ec2",
+      "bytes": 208537,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-121.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#122",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825214299655.jpg",
+      "sourceHash": "6be23e4fcbddf11fd3dac71141f0b47c1a55fa4db4dd19fe7770e3b8c4f01883",
+      "bytes": 213846,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-122.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#123",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825232913131.jpg",
+      "sourceHash": "ca9ded338d55926df56a670a320798f6c1a87340736ba41aa4dbe5444f5e3dbf",
+      "bytes": 178665,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-123.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#124",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825248897959.jpg",
+      "sourceHash": "a676caa03e4d9843e646690884111e5d911177bdfb211f1daaa3f30a7f753513",
+      "bytes": 203775,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-124.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#125",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825268154167.jpg",
+      "sourceHash": "291628fa98deb8cf27d1d71b7e99d977ecec78206c5550a924a415b2b1c41da4",
+      "bytes": 213175,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-125.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#126",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825306303630.jpg",
+      "sourceHash": "47fe12930b1c52e4d50100dd78c79e8609f3fe45f1a8438503df12ba04bbd7af",
+      "bytes": 209439,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-126.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#127",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825389535135.jpg",
+      "sourceHash": "6bf73ba652a6ab755bd4b8a820fd0972a9bba9493565aa09f7ac1b4f9da6e82d",
+      "bytes": 155265,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-127.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#128",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825411329988.jpg",
+      "sourceHash": "ed6c2798c35a6a57742323303ed2da245ed5bedd60d27ba520d8eb3d3cb14328",
+      "bytes": 148794,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-128.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#129",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825431956441.jpg",
+      "sourceHash": "7d6ad1fce07e58d7c7b86817a8ab547fa77cc17242fb3defb27f7814caa72c4f",
+      "bytes": 172071,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-129.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#130",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825447110829.jpg",
+      "sourceHash": "cb500710f1e7539db59dfaf2d83ed1e96a8bc7383639627ce080893c2e7a3593",
+      "bytes": 170084,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-130.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#131",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825464442313.jpg",
+      "sourceHash": "b0f05b1644c0170df5cfe29976cd7c6980a77138fea48fe67f254f4aff1393c1",
+      "bytes": 175312,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-131.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#132",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825481554411.jpg",
+      "sourceHash": "18c25d22ab4bbb48f84d4016464d9942425c6eb61bc4f2b77274a9cd51fa3b32",
+      "bytes": 178065,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-132.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#133",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825500940197.jpg",
+      "sourceHash": "1357189678afa6ffc4fda35ed84c92aa63428efcf2068e16c5398860fb1c8f41",
+      "bytes": 169348,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-133.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#134",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825519162945.jpg",
+      "sourceHash": "9e12f9189ea3565360f93f47135e650fbbe25f7bf7931175f9719e664836ec66",
+      "bytes": 167724,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-134.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#135",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825542437715.jpg",
+      "sourceHash": "92441ff486788b69b399b98572520080bbd9cf68b087adf182967e2f093dea64",
+      "bytes": 244872,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-135.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#136",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825753197041.jpg",
+      "sourceHash": "62eff5ce45ba5e36dfdf451d994d94c5e77641fa126957d4516bd7a22e16ed78",
+      "bytes": 216953,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-136.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#137",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825768433818.jpg",
+      "sourceHash": "1920532e3cf51b1507b4892a077a19f3797552ce333cca86284046c043b704e8",
+      "bytes": 219909,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-137.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#138",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825786815392.jpg",
+      "sourceHash": "d9f9eed58d6c5fd8b4ac6e5560a6abcb056275d635827e4f349a704a6a1207bf",
+      "bytes": 206569,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-138.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#139",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825807834100.jpg",
+      "sourceHash": "a4ae14a42cae4e81105c0ed4bc3146c47f03e7c80c4006e2b67e2dc4d94c9030",
+      "bytes": 202869,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-139.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#140",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825844829802.jpg",
+      "sourceHash": "29836ad842b5735008d8b3c982875d8dc097c53cf04593ae0f3396c00005f7b0",
+      "bytes": 200855,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-140.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#141",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825862789330.jpg",
+      "sourceHash": "07725aca05c0505475df7272f834a365d7359feaf443bcb9f69c6ca3de46c19e",
+      "bytes": 178324,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-141.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#142",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825885407409.jpg",
+      "sourceHash": "c85e3698be4a59f50f0ca770d2923d14c2ff34a5409c708752d340f331f3cf5e",
+      "bytes": 176989,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-142.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#143",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825904464624.jpg",
+      "sourceHash": "877678fcce6b21ec6e582a210f2e189148d85349a290b153ad72fccbb3cfc7e8",
+      "bytes": 179021,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-143.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#144",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_153682592084587.jpg",
+      "sourceHash": "1d5f0e101d62e75b8ef6c6dcb3420ba36e19238b261e8924563911018d784795",
+      "bytes": 174444,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-144.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#145",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825935109603.jpg",
+      "sourceHash": "f3ce5ee8dc46409b583ade4552fcc020d1316f6407ff288428a1a8a0e4a3b720",
+      "bytes": 181398,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-145.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#146",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825951570459.jpg",
+      "sourceHash": "46b980948087f9a1adf5e3f36a9fef2ff3da02a0287f8204adc5ffb60da70cf1",
+      "bytes": 181599,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-146.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#147",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825972793192.jpg",
+      "sourceHash": "5e94a7128dc615c02a528f3c5cad2d83c8fff0d69261a1b7c351aed8680def39",
+      "bytes": 163851,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-147.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#148",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536825990476680.jpg",
+      "sourceHash": "51300b58339e2ebec602989c924a99cb36094f0d7e3293d4b4b433f6333ce4dc",
+      "bytes": 162977,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-148.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#149",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536826005996764.jpg",
+      "sourceHash": "473701a35468e15a99d968e6702cca7654888c28dc9c2568cf42e5c36ed4008f",
+      "bytes": 186090,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-149.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#150",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536826022336954.jpg",
+      "sourceHash": "27495cf478e38054b4355c1398ec87af391f5c5dcf1af47c5137e35c8adde242",
+      "bytes": 180951,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-150.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#151",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_15368260366400.jpg",
+      "sourceHash": "7bb6b595ecfdda6445f8a34e4e58bb8d49fcddd0d7b39c2b48aa2230429f5863",
+      "bytes": 173786,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-151.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#152",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536826051999942.jpg",
+      "sourceHash": "f921330d6ee17ae2b4455e6ccd4380e3dcfbb127ed0980f1573a5fa982a5c143",
+      "bytes": 197405,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-152.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#153",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536826069835231.jpg",
+      "sourceHash": "c99a04527977d2f612578c2782e60ee32a89b2eda6a50f35e27960ce48e49b3a",
+      "bytes": 219034,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-153.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#154",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_1536826085834513.jpg",
+      "sourceHash": "cce3df9654cf8f15f90bf1ac4731f943a85eb8f88a849b9c1891b7fcb3ea6da8",
+      "bytes": 187017,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-154.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalogPage",
+      "slug": "2018-mezbaha-sistemleri-katalog#155",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/uploads/gallery/gallery_images/image_153682610250910.jpg",
+      "sourceHash": "876ededdedafe00c50244bcc06a45a3bdd34b6b617cb2ed93963236ee029b317",
+      "bytes": 124886,
+      "localPath": "public/images/migrated/catalog/2018-mezbaha-sistemleri-katalog/page-155.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "ukCmOffCs8c",
+      "sourceUrl": "https://i.ytimg.com/vi/ukCmOffCs8c/maxresdefault.jpg",
+      "sourceHash": "ea06834479224fdd5f7bcaf9ac933d500a1b91445b06c60522c3435916f55778",
+      "bytes": 88783,
+      "localPath": "public/images/migrated/videos/ukCmOffCs8c.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "-0-3d4vNP2k",
+      "sourceUrl": "https://i.ytimg.com/vi/-0-3d4vNP2k/maxresdefault.jpg",
+      "sourceHash": "309c4d2caac9a2414e774ab4734b5d7288ac90981186d652a0c4f73cc2e13fdc",
+      "bytes": 168768,
+      "localPath": "public/images/migrated/videos/-0-3d4vNP2k.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "nafl6zYQxPU",
+      "sourceUrl": "https://i.ytimg.com/vi/nafl6zYQxPU/maxresdefault.jpg",
+      "sourceHash": "f69bde3081a09d99d86d8957d39985c673bd03297fa7815bdf63555392af7d93",
+      "bytes": 25608,
+      "localPath": "public/images/migrated/videos/nafl6zYQxPU.jpg",
+      "importedAt": "2026-09-23T19:48:34.935Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "sXRqSPFhpR4",
+      "sourceUrl": "https://i.ytimg.com/vi/sXRqSPFhpR4/maxresdefault.jpg",
+      "sourceHash": "21b043d592aae069d80ca6c53cfd5968d93c31996b79fa0aa7e971551505bdb4",
+      "bytes": 8896,
+      "localPath": "public/images/migrated/videos/sXRqSPFhpR4.jpg",
+      "importedAt": "2026-09-23T19:48:34.935Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "5ekglaZXjlk",
+      "sourceUrl": "https://i.ytimg.com/vi/5ekglaZXjlk/maxresdefault.jpg",
+      "sourceHash": "9b88777987124d2bd1efaaf805ff038ecf1188fcf5e8615c677844b7897eb40a",
+      "bytes": 140646,
+      "localPath": "public/images/migrated/videos/5ekglaZXjlk.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "_eRtYCA9x7A",
+      "sourceUrl": "https://i.ytimg.com/vi/_eRtYCA9x7A/maxresdefault.jpg",
+      "sourceHash": "c1f1cfa0a7fd9d375f71914139d09c96a35b0b5aafde6e6300d5831be07ed6d3",
+      "bytes": 119220,
+      "localPath": "public/images/migrated/videos/_eRtYCA9x7A.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "6OI6DdYYv_g",
+      "sourceUrl": "https://i.ytimg.com/vi/6OI6DdYYv_g/maxresdefault.jpg",
+      "sourceHash": "21e15388b329b07648c19609d418089b582bf749561826e6e38a5917a6d696b8",
+      "bytes": 13467,
+      "localPath": "public/images/migrated/videos/6OI6DdYYv_g.jpg",
+      "importedAt": "2026-09-23T19:48:34.935Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "oYxpn8hoEFI",
+      "sourceUrl": "https://i.ytimg.com/vi/oYxpn8hoEFI/maxresdefault.jpg",
+      "sourceHash": "20e5abce98d2d66e1ee1af03d1536edad5fefc62bb4418a629676887df01ce20",
+      "bytes": 141332,
+      "localPath": "public/images/migrated/videos/oYxpn8hoEFI.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "aoZrHDXy9E8",
+      "sourceUrl": "https://i.ytimg.com/vi/aoZrHDXy9E8/maxresdefault.jpg",
+      "sourceHash": "ba8046d838d2389a02de4de087bcc35251ae69723aa84d567d4a299312518194",
+      "bytes": 84349,
+      "localPath": "public/images/migrated/videos/aoZrHDXy9E8.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "nFhds3cRy5w",
+      "sourceUrl": "https://i.ytimg.com/vi/nFhds3cRy5w/maxresdefault.jpg",
+      "sourceHash": "2bd3dcf1c545aae0ea67f9d4c8065f7d6bf54cfb79a38cf60899b3d47a4a2b58",
+      "bytes": 46969,
+      "localPath": "public/images/migrated/videos/nFhds3cRy5w.jpg",
+      "importedAt": "2026-09-23T19:48:34.935Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "GFHDjVvfciQ",
+      "sourceUrl": "https://i.ytimg.com/vi/GFHDjVvfciQ/maxresdefault.jpg",
+      "sourceHash": "57ffe93ed42da95eaaa5fbd467b50c2392bf066111377157a9209c98b4923b6f",
+      "bytes": 44614,
+      "localPath": "public/images/migrated/videos/GFHDjVvfciQ.jpg",
+      "importedAt": "2026-09-23T19:48:34.935Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "y8kJ7YuhtAI",
+      "sourceUrl": "https://i.ytimg.com/vi/y8kJ7YuhtAI/maxresdefault.jpg",
+      "sourceHash": "662eaced73c835b748170009c2c94941763e3b646f6fe953c5fbb46f2a3a1d63",
+      "bytes": 112405,
+      "localPath": "public/images/migrated/videos/y8kJ7YuhtAI.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "WyCZK-O8HeA",
+      "sourceUrl": "https://i.ytimg.com/vi/WyCZK-O8HeA/maxresdefault.jpg",
+      "sourceHash": "4a0c755c6f50066f6bccf2ac92a43501fc48e0da268912b227686635286b4250",
+      "bytes": 71056,
+      "localPath": "public/images/migrated/videos/WyCZK-O8HeA.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "ip4-sy3MKz0",
+      "sourceUrl": "https://i.ytimg.com/vi/ip4-sy3MKz0/maxresdefault.jpg",
+      "sourceHash": "91643d3e3763c9a3ab74a3b050f4dd50cf87ee1cf65ebee869ca8d74ed946d36",
+      "bytes": 30602,
+      "localPath": "public/images/migrated/videos/ip4-sy3MKz0.jpg",
+      "importedAt": "2026-09-23T19:48:34.935Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "T_VYMzoTTSw",
+      "sourceUrl": "https://i.ytimg.com/vi/T_VYMzoTTSw/maxresdefault.jpg",
+      "sourceHash": "7bd968b8c1c573bfd25b3f262810119f0c80a3e7d51f9a9ddc12e03919a6c7f5",
+      "bytes": 65950,
+      "localPath": "public/images/migrated/videos/T_VYMzoTTSw.jpg",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "videoThumbnail",
+      "slug": "enhv0Z3bAdo",
+      "sourceUrl": "https://i.ytimg.com/vi/enhv0Z3bAdo/maxresdefault.jpg",
+      "sourceHash": "05c04f0f9d7072000e504deee1ad059c0b5f4bb281a470056246a6a8cb786565",
+      "bytes": 49349,
+      "localPath": "public/images/migrated/videos/enhv0Z3bAdo.jpg",
+      "importedAt": "2026-09-23T19:48:34.935Z"
+    },
+    {
+      "entity": "videoGallery",
+      "slug": "videolar",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-sistemleri-videolar-941/",
+      "sourceHash": "ff07e8fa995ff8d4ac69238f6df953f1d22ebf4230a084f9c98c0bf7ccd5fbbc",
+      "bytes": 0,
+      "localPath": "src/content/legacy/videos.json",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "catalog",
+      "slug": "2018-mezbaha-sistemleri-katalog",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/mezbaha-makina-sistemleri-katalog/",
+      "sourceHash": "597f4d10ced60a261410c532ac8575b883241abc6c324bba6911c87806520c2c",
+      "bytes": 30254395,
+      "localPath": "src/content/legacy/catalogs.json",
+      "importedAt": "2026-09-23T19:47:17.882Z"
+    },
+    {
+      "entity": "page",
+      "slug": "endustriyel-sogutma-sistemleri",
+      "sourceUrl": "https://www.mezbahateknolojileri.com/tr/endustriyel-sogutma-sistemleri/",
+      "sourceHash": "065d8dbccd9681ffe268c651bd2d2b21d38daf44cef19d2df69c2712e9d086d1",
+      "bytes": 2826,
+      "localPath": "db:Page/endustriyel-sogutma-sistemleri",
+      "importedAt": "2026-09-23T19:49:51.738Z"
+    }
+  ]
+}
