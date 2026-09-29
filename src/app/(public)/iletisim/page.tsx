@@ -160,13 +160,13 @@ export default async function ContactPage() {
       {/* Fabrika fotoğrafı — ziyaretçi bizi arayıp bulmadan önce tesisimizi görsün diye */}
       <section className="bg-background pb-16 sm:pb-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="relative h-64 overflow-hidden rounded-[28px] border border-slate-200 shadow-[0_30px_80px_-24px_rgba(35,48,95,0.4)] sm:h-80 lg:h-96">
+          <div className="relative aspect-[4/3] overflow-hidden rounded-[28px] border border-slate-200 bg-slate-100 shadow-[0_30px_80px_-24px_rgba(35,48,95,0.4)] sm:aspect-[16/9]">
             <Image
               src="/images/about/mezbaha-teknolojileri-fabrika.webp"
               alt={d.about.factoryAlt}
               fill
               sizes="(min-width: 1024px) 1152px, 100vw"
-              className="object-cover"
+              className="object-contain"
             />
           </div>
         </div>
