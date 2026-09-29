@@ -149,8 +149,9 @@ export function SiteHeader({
               <FlowButton href="/teklif-al" text={d.getQuote} className="whitespace-nowrap" />
             </div>
 
-            {/* Mobil hamburger */}
-            <div className="flex items-center xl:hidden">
+            {/* Mobil: dil seçici hamburger'ın hemen solunda (menü panelinin içinde değil) */}
+            <div className="flex items-center gap-1 xl:hidden">
+              <LanguageSwitcher options={languages} label={d.language} variant="dropdown" />
               <button
                 type="button"
                 onClick={() => setMenuOpen((v) => !v)}
@@ -212,7 +213,6 @@ export function SiteHeader({
               </ul>
 
               <div className="mt-auto space-y-4 pt-8">
-                <LanguageSwitcher options={languages} label={d.language} className="justify-center text-sm" />
                 <a
                   href={`tel:+${phoneDigits}`}
                   className="flex min-h-14 items-center gap-3 rounded-xl bg-slate-50 px-4 text-[15px] font-semibold text-primary transition-colors hover:bg-orange-50"

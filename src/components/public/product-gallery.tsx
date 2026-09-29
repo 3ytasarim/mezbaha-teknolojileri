@@ -141,9 +141,24 @@ export function ProductGallery({ images, name }: { images: ProductGalleryImage[]
       )}
 
       {zoomOpen && (
-        <div role="dialog" aria-modal="true" aria-label={format(ui.zoomedAria, { name })} className="fixed inset-0 z-[100] flex items-center justify-center bg-black/90 p-4">
-          <button type="button" onClick={closeZoom} aria-label={ui.close} className="absolute end-4 top-4 z-10 flex size-11 items-center justify-center rounded-full bg-white/15 text-white transition hover:bg-white/30">
-            <X className="size-6" aria-hidden="true" />
+        <div
+          role="dialog"
+          aria-modal="true"
+          aria-label={format(ui.zoomedAria, { name })}
+          className="fixed inset-0 z-[100] flex items-center justify-center bg-black/90 p-4"
+          onClick={(e) => {
+            // Yalnızca arka plana (görselin/butonların DIŞINA) doğrudan tıklanınca kapat — mobilde
+            // küçük X'i bulamayan kullanıcı ekrana dokununca da çıkabilsin.
+            if (e.target === e.currentTarget) closeZoom();
+          }}
+        >
+          <button
+            type="button"
+            onClick={closeZoom}
+            aria-label={ui.close}
+            className="absolute end-4 top-4 z-20 flex size-12 items-center justify-center rounded-full bg-accent text-white shadow-lg ring-2 ring-white transition hover:scale-110 hover:bg-accent/90"
+          >
+            <X className="size-6" strokeWidth={2.5} aria-hidden="true" />
           </button>
           {count > 1 && (
             <>

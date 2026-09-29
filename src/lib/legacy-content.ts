@@ -14,10 +14,10 @@ export type Catalog = {
   title: string;
   cover: { path: string; alt: string; width: number; height: number };
   pageCount: number;
-  pageWidth: number;
-  pageHeight: number;
-  pagePathPattern: string;
-};
+} & (
+  | { format: "pdf"; pdfPath: string; pdfSizeBytes: number }
+  | { format?: "image-gallery"; pageWidth: number; pageHeight: number; pagePathPattern: string }
+);
 
 export type LegacyVideo = {
   id: string;
@@ -30,22 +30,14 @@ export type LegacyVideo = {
 };
 
 export function getCatalogs(): Catalog[] {
-  return catalogsJson.map((c) => ({
-    slug: c.slug,
-    title: c.title,
-    cover: c.cover,
-    pageCount: c.pageCount,
-    pageWidth: c.pageWidth,
-    pageHeight: c.pageHeight,
-    pagePathPattern: c.pagePathPattern,
-  }));
+  return catalogsJson as Catalog[];
 }
 
 export function getCatalogBySlug(slug: string): Catalog | null {
   return getCatalogs().find((c) => c.slug === slug) ?? null;
 }
 
-export function catalogPagePath(catalog: Catalog, page: number): string {
+export function catalogPagePath(catalog: Extract<Catalog, { pagePathPattern: string }>, page: number): string {
   return catalog.pagePathPattern.replace("{NNN}", String(page).padStart(3, "0"));
 }
 

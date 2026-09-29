@@ -34,11 +34,11 @@ export const PRIMARY_NAV = [
   { label: "İletişim", href: "/iletisim" },
 ] as const;
 
-/** Sosyal medya hesapları — eski sitenin (mezbahateknolojileri.com/tr) üst/alt bilgisindeki gerçek adresler. */
+/**
+ * Sosyal medya hesapları — yalnızca gerçekten aktif olan hesaplar (müşteri onayı: Facebook/X/LinkedIn/
+ * Pinterest hesabı yok, sadece Instagram ve YouTube var).
+ */
 export const SOCIAL = [
-  { key: "facebook", label: "Facebook", href: "https://www.facebook.com/mezbahaekipmanlar/" },
-  { key: "x", label: "X (Twitter)", href: "https://x.com/mezbahatekno" },
   { key: "instagram", label: "Instagram", href: "https://www.instagram.com/mezbahateknolojileri/" },
-  { key: "linkedin", label: "LinkedIn", href: "https://www.linkedin.com/company/mezbaha-teknolojileri" },
   { key: "youtube", label: "YouTube", href: "https://www.youtube.com/channel/UC4JvqrcuX-h3wkqsvcSgqBQ" },
 ] as const;
