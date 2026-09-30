@@ -20,6 +20,10 @@ export default async function AdminSliderPage() {
           <p className="mt-1 text-sm text-neutral-400">
             Ana sayfanın üstündeki hero slaytları. {slides.length} slayt, {activeCount} aktif. Sıra yukarıdan aşağıya doğrudur.
           </p>
+          <p className="mt-2 max-w-2xl text-sm text-amber-300/90">
+            Başlık/metin/buton yalnızca Türkçe girilir. Buradaki görseller ise tüm dillerde (İngilizce, Almanca...) aynı sırada
+            kullanılır — her dilin başlığı kendi çevirisinden gelir, siz sadece görselleri buradan yönetirsiniz.
+          </p>
         </div>
         <Link href="/admin/slider/yeni" className="h-10 rounded-md bg-neutral-100 px-4 text-sm font-medium leading-10 text-neutral-900">
           + Yeni Slayt

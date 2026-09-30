@@ -20,16 +20,22 @@ function normalizeTitleCase(text: string): string {
     .join(" ");
 }
 
+type ImageOverride = { image: string; imageAlt: string | null; fit: string };
+
 /**
  * Varsayılan slaytlar (yönetim panelinde hiç slayt yokken gösterilir; "Varsayılanları içe aktar" ile düzenlenebilir hale gelir):
  *  1) giriş içeriği (başlık + açıklama + tesis fotoğrafı),
  *  2..4) öne çıkan ürünler — ad, kısa açıklama ve ürünün kendi görseli GERÇEK verilerdir.
+ *
+ * `imageOverrides` verilirse (TR yönetim panelindeki AKTİF slaytların görselleri — bkz. getHeroSlides), aynı
+ * sıradaki slaytın görseli/alt metni/fit'i bunlarla değiştirilir; başlık/açıklama/buton yine BU dilin kendi
+ * verisidir. Böylece admin TR'de tek yerden daha profesyonel bir görsel seçtiğinde tüm diller aynı görseli kullanır.
  */
-export async function buildDefaultSlides(locale: Locale = CANONICAL_LOCALE): Promise<HeroSlide[]> {
+export async function buildDefaultSlides(locale: Locale = CANONICAL_LOCALE, imageOverrides?: ImageOverride[]): Promise<HeroSlide[]> {
   const products = await getDisplayFeaturedProducts(locale);
   const d = getDictionary(locale).home.hero;
 
-  return [
+  const slides: HeroSlide[] = [
     {
       id: "intro",
       title: d.headline,
@@ -56,19 +62,35 @@ export async function buildDefaultSlides(locale: Locale = CANONICAL_LOCALE): Pro
         fit: "contain",
       })),
   ];
+
+  if (!imageOverrides?.length) return slides;
+  return slides.map((slide, i) => {
+    const o = imageOverrides[i];
+    if (!o) return slide;
+    // imageAlt KASITLI OLARAK devralınmaz — TR yönetim panelindeki alt metin Türkçedir; bu dilin kendi
+    // (sözlük/ürün çevirisinden gelen) alt metni korunur, aksi halde İngilizce sayfada Türkçe alt metin sızardı.
+    return { ...slide, image: o.image, fit: o.fit === "contain" ? "contain" : "cover" };
+  });
 }
 
-/** Ana sayfa hero'su: veritabanındaki AKTİF slaytlar (sıraya göre); hiç yoksa varsayılan slaytlar. */
+/**
+ * Ana sayfa hero'su: veritabanındaki AKTİF slaytlar (sıraya göre); hiç yoksa varsayılan slaytlar.
+ * Başlık/açıklama/buton yönetim panelinde yalnızca Türkçe girilir, ama slaytların GÖRSELLERİ (admin TR için
+ * seçtiği, genelde daha profesyonel görseller) tüm dillerde aynı sırada kullanılır — metin yine o dilin
+ * kendi verisinden (sözlük + ürün çevirisi) gelir.
+ */
 export async function getHeroSlides(locale: Locale = CANONICAL_LOCALE): Promise<HeroSlide[]> {
-  // Yönetimdeki slaytlar Türkçedir; diğer dillerde giriş içeriği + o dilin öne çıkan ürünlerinden varsayılan slaytlar üretilir.
-  if (locale !== CANONICAL_LOCALE) return buildDefaultSlides(locale);
-
   const rows = await prisma.heroSlide.findMany({
     where: { active: true },
     orderBy: [{ sortOrder: "asc" }, { createdAt: "asc" }],
   });
 
-  if (rows.length === 0) return buildDefaultSlides();
+  if (locale !== CANONICAL_LOCALE) {
+    const overrides = rows.length ? rows.map((r) => ({ image: r.image, imageAlt: r.imageAlt, fit: r.fit })) : undefined;
+    return buildDefaultSlides(locale, overrides);
+  }
+
+  if (rows.length === 0) return buildDefaultSlides(locale);
 
   return rows.map<HeroSlide>((row) => ({
     id: row.id,
