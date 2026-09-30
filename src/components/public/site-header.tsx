@@ -24,7 +24,9 @@ import type { NavLink } from "@/lib/navigation";
  */
 
 
-const linkBase = "nav-link whitespace-nowrap text-xs font-semibold uppercase tracking-normal transition-colors xl:text-[13px] xl:tracking-wide 2xl:text-sm";
+// Tam masaüstü menü yalnızca 2xl'de (1536px) görünür — Rusça/Almanca gibi daha uzun çevirilerde bile
+// logo ile linkler çakışmasın diye. Daha dar genişliklerde (tablet + küçük masaüstü dahil) hamburger kullanılır.
+const linkBase = "nav-link whitespace-nowrap text-xs font-semibold uppercase tracking-wide transition-colors 2xl:text-sm";
 
 export function SiteHeader({
   categories,
@@ -76,9 +78,12 @@ export function SiteHeader({
         }`}
       >
         <div className="mx-auto max-w-[1600px] px-4 lg:px-6 xl:px-10">
-          <div className="flex h-20 items-center justify-between">
+          {/* Logo, sol/sağ menülerin GENİŞLİĞİNDEN bağımsız olarak 2xl'de tam ortaya sabitlenir (relative+absolute) —
+              aksi halde eşit flex-1 paylaşımı, sağ taraf (3 link + dil + CTA) sol taraftan doğal olarak daha geniş
+              olduğu için (özellikle Rusça/Almanca gibi uzun çevirilerde) logoya taşardı. */}
+          <div className="relative flex h-20 items-center justify-between">
             {/* Sol linkler */}
-            <nav aria-label={d.mainMenu} className="hidden flex-1 items-center gap-4 xl:gap-7 2xl:gap-10 xl:flex">
+            <nav aria-label={d.mainMenu} className="hidden shrink-0 items-center gap-4 2xl:flex 2xl:gap-5">
               {leftLinks.map((link) =>
                 link.dropdown ? (
                   <div key={link.href} className="group relative">
@@ -119,8 +124,8 @@ export function SiteHeader({
               )}
             </nav>
 
-            {/* Ortada logo */}
-            <div className="flex-shrink-0">
+            {/* Ortada logo: <2xl'de normal akışta (tek başına, sol/sağ menü zaten gizli); 2xl+'de mutlak ortalanmış */}
+            <div className="shrink-0 2xl:absolute 2xl:start-1/2 2xl:top-1/2 2xl:-translate-x-1/2 2xl:-translate-y-1/2 rtl:2xl:translate-x-1/2">
               <Link href="/" aria-label={format(d.homeAria, { name: SITE_NAME })}>
                 <Image
                   src="/images/brand/logo.svg"
@@ -135,7 +140,7 @@ export function SiteHeader({
             </div>
 
             {/* Sağ linkler + CTA */}
-            <div className="hidden flex-1 items-center justify-end gap-3 xl:gap-6 2xl:gap-8 xl:flex">
+            <div className="hidden shrink-0 items-center justify-end gap-3 2xl:flex 2xl:gap-3">
               {rightLinks.map((link) => (
                 <Link
                   key={link.href}
@@ -146,11 +151,15 @@ export function SiteHeader({
                 </Link>
               ))}
               <LanguageSwitcher options={languages} label={d.language} variant="dropdown" />
-              <FlowButton href="/teklif-al" text={d.getQuote} className="whitespace-nowrap" />
+              <FlowButton
+                href="/teklif-al"
+                text={d.getQuote}
+                className="whitespace-nowrap !px-4 !py-2.5 !text-xs 2xl:!px-5"
+              />
             </div>
 
             {/* Mobil: dil seçici hamburger'ın hemen solunda (menü panelinin içinde değil) */}
-            <div className="flex items-center gap-1 xl:hidden">
+            <div className="flex items-center gap-1 2xl:hidden">
               <LanguageSwitcher options={languages} label={d.language} variant="dropdown" />
               <button
                 type="button"
@@ -168,7 +177,7 @@ export function SiteHeader({
 
         {/* Mobil menü paneli: başlığın altında tüm ekranı kaplar */}
         {menuOpen && (
-          <div id="mobile-menu" className="fixed inset-x-0 bottom-0 top-20 z-40 overflow-y-auto overscroll-contain bg-white xl:hidden">
+          <div id="mobile-menu" className="fixed inset-x-0 bottom-0 top-20 z-40 overflow-y-auto overscroll-contain bg-white 2xl:hidden">
             <nav aria-label={d.mobileMenu} className="mx-auto flex min-h-full max-w-xl flex-col px-5 pb-8 pt-3">
               <ul className="divide-y divide-gray-100">
                 {[...leftLinks, ...rightLinks].map((link) => {
