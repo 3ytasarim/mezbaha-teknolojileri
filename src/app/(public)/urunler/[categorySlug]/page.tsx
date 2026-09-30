@@ -12,6 +12,7 @@ import { getSiteUrl } from "@/lib/seo/site";
 import { getLocalImageMeta } from "@/lib/seo/image-meta";
 import { getContactSettings, whatsappOf } from "@/lib/site-settings";
 import { getCategoryBySlug, getCategoryListing, getPublishedProductsByCategory, getLocaleSlugs } from "@/lib/queries";
+import { resolveCoverImage } from "@/lib/product-media";
 import { entityAlternates } from "@/lib/i18n/alternates";
 import { ProductGrid } from "@/components/public/product-grid";
 import { ProductsHero } from "@/components/public/products-hero";
@@ -103,7 +104,7 @@ export default async function CategoryDetailPage({
                   slug: slugOf(product, locale),
                   name: t?.name ?? product.slug,
                   shortDescription: t?.shortDescription,
-                  image: product.coverImage,
+                  image: resolveCoverImage(product.coverImage, t?.coverImage),
                   imageAlt: t?.imageAlt || t?.name || product.slug,
                 };
               })}

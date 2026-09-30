@@ -9,6 +9,7 @@ import { RichTextEditor } from "@/components/admin/rich-text-editor";
 import { SpecsEditor, type SpecItem } from "@/components/admin/specs-editor";
 import { DocumentsEditor, type DocumentItem } from "@/components/admin/documents-editor";
 import { MultiSelectList } from "@/components/admin/multi-select-list";
+import { LocaleImageEditor, type LocaleImageOption, type LocaleImageValues } from "@/components/admin/locale-image-editor";
 import type { ProductFormState } from "./actions";
 
 type CategoryOption = { id: string; name: string };
@@ -47,12 +48,17 @@ export function ProductForm({
   categories,
   projectOptions,
   postOptions,
+  localeImageOptions,
+  localeImageValues,
 }: {
   action: (state: ProductFormState, formData: FormData) => Promise<ProductFormState>;
   initialValues?: ProductFormValues;
   categories: CategoryOption[];
   projectOptions: RelatedOption[];
   postOptions: RelatedOption[];
+  /** Yalnızca düzenleme modunda (mevcut ürün) verilir — yeni ürünlerde henüz çeviri olmadığı için gösterilmez. */
+  localeImageOptions?: LocaleImageOption[];
+  localeImageValues?: Partial<Record<string, LocaleImageValues>>;
 }) {
   const [state, formAction] = useActionState(action, {});
 
@@ -153,6 +159,23 @@ export function ProductForm({
         <p className="text-sm font-medium text-neutral-200">Galeri</p>
         <GalleryEditor name="gallery" initialItems={initialValues?.gallery ?? []} />
       </section>
+
+      {localeImageOptions && (
+        <section className="flex flex-col gap-4 border-t border-neutral-800 pt-8">
+          <div>
+            <h2 className="text-sm font-semibold uppercase tracking-wider text-neutral-500">Dile Özgü Görseller</h2>
+            <p className="mt-1 text-sm text-neutral-400">
+              Kapak/galeri görsellerinin üzerinde yazı varsa, her dil için ayrı görsel buradan yüklenir. Boş bırakılan
+              diller yukarıdaki ortak görseli kullanmaya devam eder.
+            </p>
+          </div>
+          <LocaleImageEditor
+            locales={localeImageOptions}
+            baseGallery={(initialValues?.gallery ?? []).map((g) => ({ url: g.url, alt: g.alt }))}
+            initialValues={localeImageValues ?? {}}
+          />
+        </section>
+      )}
 
       <section className="flex flex-col gap-4 border-t border-neutral-800 pt-8">
         <h2 className="text-sm font-semibold uppercase tracking-wider text-neutral-500">

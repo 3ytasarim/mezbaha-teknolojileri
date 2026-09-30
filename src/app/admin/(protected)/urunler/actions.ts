@@ -7,7 +7,26 @@ import { prisma } from "@/lib/db";
 import { requireAdmin } from "@/lib/auth/guard";
 import { slugify, isReservedSlug } from "@/lib/slug";
 import { sanitizeContentHtml } from "@/lib/sanitize";
-import type { ContentStatus } from "@prisma/client";
+import { TARGET_LOCALES } from "@/lib/admin-translations";
+import { Prisma, type ContentStatus } from "@prisma/client";
+
+type GalleryItemInput = { url: string; alt: string; caption: string };
+
+/** Formdaki `coverImage_<dil>` ve `galleryOverride_<dil>__<encodedUrl>` alanlarından dile özgü görselleri toplar. */
+function parseLocaleImageOverrides(formData: FormData, gallery: GalleryItemInput[]) {
+  const result: Record<string, { coverImage: string | null; galleryOverrides: { baseImageUrl: string; imageUrl: string }[] }> = {};
+  for (const locale of TARGET_LOCALES) {
+    const coverImage = String(formData.get(`coverImage_${locale}`) ?? "").trim();
+    const galleryOverrides = gallery
+      .map((item) => {
+        const value = String(formData.get(`galleryOverride_${locale}__${encodeURIComponent(item.url)}`) ?? "").trim();
+        return value ? { baseImageUrl: item.url, imageUrl: value } : null;
+      })
+      .filter((x): x is { baseImageUrl: string; imageUrl: string } => x !== null);
+    result[locale] = { coverImage: coverImage || null, galleryOverrides };
+  }
+  return result;
+}
 
 const galleryItemSchema = z.object({
   url: z.string().min(1),
@@ -296,6 +315,17 @@ export async function updateProductAction(
           caption: item.caption,
           sortOrder: index,
         })),
+      });
+    }
+
+    // Dile özgü kapak/galeri görselleri (üzerinde o dilde yazı olan görseller). Çevirisi olmayan dillerde
+    // sessizce hiçbir şey yapmaz (updateMany) — o dilin sayfası zaten yayında değildir.
+    const localeImages = parseLocaleImageOverrides(formData, gallery);
+    for (const locale of TARGET_LOCALES) {
+      const { coverImage, galleryOverrides } = localeImages[locale];
+      await tx.productTranslation.updateMany({
+        where: { productId: id, locale },
+        data: { coverImage, galleryOverrides: galleryOverrides.length > 0 ? galleryOverrides : Prisma.JsonNull },
       });
     }
 

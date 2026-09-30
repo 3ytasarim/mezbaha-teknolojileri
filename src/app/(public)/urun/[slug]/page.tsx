@@ -12,6 +12,7 @@ import { format } from "@/lib/i18n/dictionaries";
 import { breadcrumbListJsonLd, breadcrumbId, productJsonLd, productId, webPageGraphJsonLd, jsonLdScriptProps } from "@/lib/seo/json-ld";
 import { getLocalImageMeta } from "@/lib/seo/image-meta";
 import { getProductBySlug, getRelatedProducts, getLocaleSlugs } from "@/lib/queries";
+import { resolveCoverImage, resolveGalleryImageUrl } from "@/lib/product-media";
 import { entityAlternates } from "@/lib/i18n/alternates";
 import { getSiteUrl } from "@/lib/seo/site";
 import { productWhatsappMessage, whatsappUrl } from "@/lib/whatsapp";
@@ -35,7 +36,7 @@ export async function generateMetadata({ params }: PageProps<"/urun/[slug]">): P
     title: translation?.seoTitle || translation?.name || product.slug,
     description: translation?.seoDescription || translation?.shortDescription || "",
     path: translation?.canonicalUrl || `/urun/${slugOf(product, locale)}`,
-    ogImage: translation?.ogImage || product.coverImage || undefined,
+    ogImage: translation?.ogImage || resolveCoverImage(product.coverImage, translation?.coverImage) || undefined,
     locale,
     alternates: entityAlternates("/urun", await getLocaleSlugs("product", product.id, product.slug)) ?? false,
   });
@@ -73,15 +74,16 @@ export default async function ProductDetailPage({ params }: PageProps<"/urun/[sl
   // eski `Product.coverImageAlt` / `ProductImage.alt` alanları yalnızca Türkçedir ve burada KULLANILMAZ
   // (İngilizce vb. sayfada Türkçe alt metni sızmasın diye — bkz. docs/I18N_PLAN.md).
   const imageAlt = t?.imageAlt || name;
+  const coverImage = resolveCoverImage(product.coverImage, t?.coverImage);
   const galleryImages = [
-    ...(product.coverImage ? [{ src: product.coverImage, alt: imageAlt }] : []),
-    ...product.images.map((img) => ({ src: img.imageUrl, alt: imageAlt })),
+    ...(coverImage ? [{ src: coverImage, alt: imageAlt }] : []),
+    ...product.images.map((img) => ({ src: resolveGalleryImageUrl(img.imageUrl, t?.galleryOverrides), alt: imageAlt })),
   ];
   const allImageUrls = galleryImages.map((g) => g.src);
   const email = contact.emails[0]?.value;
   const phone = contact.phones[0]?.value;
   const productPath = localizePath(locale, `/urun/${productSlug}`);
-  const coverImageMeta = product.coverImage ? await getLocalImageMeta(product.coverImage) : null;
+  const coverImageMeta = coverImage ? await getLocalImageMeta(coverImage) : null;
 
   return (
     <main className="bg-background">
@@ -119,8 +121,8 @@ export default async function ProductDetailPage({ params }: PageProps<"/urun/[sl
             locale,
             breadcrumbId: breadcrumbId(productPath),
             mainEntityId: productId(productPath),
-            primaryImage: product.coverImage
-              ? { url: product.coverImage, name: imageAlt, ...(coverImageMeta ? { dimensions: coverImageMeta } : {}) }
+            primaryImage: coverImage
+              ? { url: coverImage, name: imageAlt, ...(coverImageMeta ? { dimensions: coverImageMeta } : {}) }
               : undefined,
           })
         )}
@@ -213,7 +215,7 @@ export default async function ProductDetailPage({ params }: PageProps<"/urun/[sl
               )}
               <div className="flex flex-wrap items-center gap-3 rounded-xl border border-border bg-white px-4 py-3">
                 <span className="text-sm font-semibold text-foreground">{p.share}</span>
-                <ShareButtons url={productUrl} title={name} image={product.coverImage ? new URL(product.coverImage, siteUrl).toString() : undefined} />
+                <ShareButtons url={productUrl} title={name} image={coverImage ? new URL(coverImage, siteUrl).toString() : undefined} />
               </div>
             </div>
 
@@ -370,6 +372,7 @@ export default async function ProductDetailPage({ params }: PageProps<"/urun/[sl
               {related.map((item) => {
                 const rt = item.translations[0];
                 const rName = rt?.name ?? item.slug;
+                const rCoverImage = resolveCoverImage(item.coverImage, rt?.coverImage);
                 return (
                   <li key={item.id}>
                     <Link
@@ -377,8 +380,8 @@ export default async function ProductDetailPage({ params }: PageProps<"/urun/[sl
                       className="group block overflow-hidden rounded-xl border border-border bg-white shadow-sm transition-all hover:-translate-y-1 hover:shadow-lg"
                     >
                       <div className="relative aspect-square bg-white">
-                        {item.coverImage && (
-                          <Image src={item.coverImage} alt={rt?.imageAlt || rName} fill sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw" className="object-contain p-4" />
+                        {rCoverImage && (
+                          <Image src={rCoverImage} alt={rt?.imageAlt || rName} fill sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw" className="object-contain p-4" />
                         )}
                       </div>
                       <div className="border-t border-border p-4">

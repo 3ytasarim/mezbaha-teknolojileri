@@ -152,6 +152,13 @@ model ProductTranslation {
   /// Boşsa render katmanı `name`'e düşer; hiçbir zaman başka dilin (Türkçe) alt metnini göstermez.
   imageAlt String?
 
+  /// Bu dile özgü kapak görseli (üzerinde o dilde yazı olan görseller için). Boşsa Product.coverImage kullanılır.
+  coverImage String?
+
+  /// Bu dile özgü galeri görseli eşlemeleri: [{ baseImageUrl, imageUrl }]. `baseImageUrl` Türkçe (kanonik)
+  /// ProductImage.imageUrl değeriyle eşleşir; eşleşme yoksa o galeri görseli için Türkçe (ortak) görsel kullanılır.
+  galleryOverrides Json?
+
   @@unique([productId, locale])
   @@unique([locale, slug])
   @@index([locale])

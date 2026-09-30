@@ -1,6 +1,8 @@
 import { notFound } from "next/navigation";
 import { requireAdmin } from "@/lib/auth/guard";
 import { prisma } from "@/lib/db";
+import { CANONICAL_LOCALE, LOCALE_META } from "@/lib/i18n/config";
+import { TARGET_LOCALES } from "@/lib/admin-translations";
 import { ProductForm } from "../product-form";
 import { updateProductAction } from "../actions";
 
@@ -12,7 +14,7 @@ export default async function EditProductPage({ params }: PageProps<"/admin/urun
     prisma.product.findUnique({
       where: { id },
       include: {
-        translations: { where: { locale: "tr" } },
+        translations: true,
         images: { orderBy: { sortOrder: "asc" } },
         specifications: { where: { locale: "tr" }, orderBy: { sortOrder: "asc" } },
         documents: { orderBy: { sortOrder: "asc" } },
@@ -27,8 +29,24 @@ export default async function EditProductPage({ params }: PageProps<"/admin/urun
 
   if (!product) notFound();
 
-  const translation = product.translations[0];
+  const translation = product.translations.find((t) => t.locale === CANONICAL_LOCALE);
   const boundAction = updateProductAction.bind(null, id);
+
+  const localeImageOptions = TARGET_LOCALES.filter((locale) =>
+    product.translations.some((t) => t.locale === locale)
+  ).map((locale) => ({ code: locale, label: LOCALE_META[locale].label }));
+
+  const localeImageValues = Object.fromEntries(
+    product.translations
+      .filter((t) => t.locale !== CANONICAL_LOCALE)
+      .map((t) => [
+        t.locale,
+        {
+          coverImage: t.coverImage ?? "",
+          gallery: Array.isArray(t.galleryOverrides) ? (t.galleryOverrides as { baseImageUrl: string; imageUrl: string }[]) : [],
+        },
+      ])
+  );
 
   return (
     <div>
@@ -39,6 +57,8 @@ export default async function EditProductPage({ params }: PageProps<"/admin/urun
           categories={categories.map((c) => ({ id: c.id, name: c.translations[0]?.name ?? c.slug }))}
           projectOptions={projects.map((p) => ({ id: p.id, label: p.translations[0]?.name ?? p.slug }))}
           postOptions={posts.map((p) => ({ id: p.id, label: p.translations[0]?.title ?? p.slug }))}
+          localeImageOptions={localeImageOptions}
+          localeImageValues={localeImageValues}
           initialValues={{
             name: translation?.name ?? "",
             slug: product.slug,

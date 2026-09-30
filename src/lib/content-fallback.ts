@@ -17,6 +17,7 @@ import {
 } from "@/content/home";
 import { CANONICAL_LOCALE, type Locale } from "@/lib/i18n/config";
 import { slugOf } from "@/lib/i18n/slug";
+import { resolveCoverImage } from "@/lib/product-media";
 
 /**
  * Veritabanı boşsa Türkçede statik yedek içerik (content/home.ts) gösterilir. Diğer dillerde YEDEK KULLANILMAZ (Türkçe metin
@@ -73,7 +74,7 @@ export async function getDisplayFeaturedProducts(locale: Locale = CANONICAL_LOCA
       categoryName: categoryTranslation?.name ?? product.category.slug,
       shortDescription: translation?.shortDescription ?? "",
       href: `/urun/${slugOf(product, locale)}`,
-      image: product.coverImage ?? "",
+      image: resolveCoverImage(product.coverImage, translation?.coverImage) ?? "",
       imageAlt: translation?.imageAlt || translation?.name || product.slug,
     };
   });

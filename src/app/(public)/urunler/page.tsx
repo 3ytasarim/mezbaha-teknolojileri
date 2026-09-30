@@ -12,6 +12,7 @@ import { breadcrumbListJsonLd, jsonLdScriptProps } from "@/lib/seo/json-ld";
 import { getSiteUrl } from "@/lib/seo/site";
 import { getContactSettings, whatsappOf } from "@/lib/site-settings";
 import { getAllPublishedProducts, getCategoryListing } from "@/lib/queries";
+import { resolveCoverImage } from "@/lib/product-media";
 import { ProductCard } from "@/components/public/product-card";
 import { ProductsHero } from "@/components/public/products-hero";
 
@@ -191,7 +192,7 @@ export default async function ProductsPage({ searchParams }: { searchParams: Sea
                         slug={slugOf(product, locale)}
                         name={t?.name ?? product.slug}
                         shortDescription={t?.shortDescription}
-                        image={product.coverImage}
+                        image={resolveCoverImage(product.coverImage, t?.coverImage)}
                         imageAlt={t?.imageAlt || t?.name || product.slug}
                         categoryName={product.category.translations[0]?.name}
                         siteUrl={siteUrl}
