@@ -8,6 +8,7 @@ import { Footer } from "@/components/public/footer";
 import { LocaleProvider } from "@/components/i18n/locale-provider";
 import { getLocale } from "@/lib/i18n/server";
 import { getDictionary } from "@/lib/i18n/dictionaries";
+import { GoogleAdsTag } from "@/components/analytics/google-ads-tag";
 
 export default async function PublicLayout({ children }: { children: React.ReactNode }) {
   const contact = await getContactSettings();
@@ -16,6 +17,7 @@ export default async function PublicLayout({ children }: { children: React.React
 
   return (
     <LocaleProvider locale={locale} dict={getDictionary(locale)}>
+      <GoogleAdsTag />
       <script
         {...jsonLdScriptProps(
           organizationJsonLd({

@@ -1,9 +1,10 @@
 "use client";
 
-import { useActionState } from "react";
+import { useActionState, useEffect } from "react";
 import { CheckCircle2, Loader2, Send } from "lucide-react";
 import { Button3D } from "@/components/ui/button-3d";
 import { useDict } from "@/components/i18n/locale-provider";
+import { reportLeadFormConversion } from "@/lib/analytics/google-ads";
 import { submitContactAction, type ContactFormState } from "@/app/(public)/iletisim/actions";
 
 const initialState: ContactFormState = { status: "idle" };
@@ -45,6 +46,10 @@ export function ContactForm({ className = "", bare = false }: { className?: stri
   const f = useDict().forms;
   const [state, formAction, pending] = useActionState(submitContactAction, initialState);
   const errors = state.fieldErrors ?? {};
+
+  useEffect(() => {
+    if (state.status === "success") reportLeadFormConversion();
+  }, [state.status]);
 
   if (state.status === "success") {
     return (
