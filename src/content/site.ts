@@ -2,7 +2,7 @@ export const COMPANY = {
   name: "Mezbaha Teknolojileri",
   positioning: "Mezbaha ve et işleme sistemleri tasarımı ve imalatı",
   aboutParagraph:
-    "Proje uzmanlarımız müşteriye özel mezbaha ve et işleme sistemleri tasarımı, imalatı ve geliştirilmesi konusunda çalışır. Büyük ve küçük ölçekli et işleme tesislerinin ulusal, bölgesel ve yerel gereksinimlerini karşılamak için makine ve ekipman sağlıyor, otomasyon düzeyinde anahtar teslim çözümler sunuyoruz.",
+    "Proje uzmanlarımız müşteriye özel mezbaha ve et işleme sistemleri tasarımı, imalatı ve geliştirilmesi konusunda çalışır. Büyük ve küçük ölçekli et işleme tesislerinin ulusal, bölgesel ve yerel gereksinimlerini karşılamak için mühendislik ve imalat çözümleri sunuyoruz.",
 } as const;
 
 export const CONTACT = {
@@ -11,6 +11,9 @@ export const CONTACT = {
     line2: "Köseler Mahallesi, Dilovası / Kocaeli",
     locality: "Dilovası / Kocaeli",
     country: "TR",
+    // S.S. İstanbul Mermerciler Sanayi Sitesi'nin OpenStreetMap/Nominatim'den doğrulanmış gerçek konumu
+    // (sanayi sitesi geneli — bina/sokak numarası düzeyinde ayrı haritalama yok). LocalBusiness şeması için.
+    geo: { latitude: 40.8685801, longitude: 29.5562345 },
   },
   phones: [
     { label: "Genel", value: "+90 262 502 18 94" },

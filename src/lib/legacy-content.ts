@@ -27,6 +27,10 @@ export type LegacyVideo = {
   channelUrl: string | null;
   thumbnail: string;
   watchUrl: string;
+  /** ISO 8601 süre (ör. "PT1M58S") — YouTube'un gerçek sayfa meta verisinden alınmıştır. */
+  duration: string | null;
+  /** ISO 8601 yükleme tarihi — YouTube'un gerçek sayfa meta verisinden alınmıştır. */
+  uploadDate: string | null;
 };
 
 export function getCatalogs(): Catalog[] {
@@ -53,6 +57,8 @@ export function getPlayableVideos(): LegacyVideo[] {
       channelUrl: v.channelUrl,
       thumbnail: v.thumbnail as string,
       watchUrl: v.watchUrl,
+      duration: v.duration ?? null,
+      uploadDate: v.uploadDate ?? null,
     }));
 }
 

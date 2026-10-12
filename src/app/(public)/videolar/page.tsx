@@ -6,7 +6,7 @@ import { localizePath } from "@/lib/i18n/routes";
 import { format } from "@/lib/i18n/dictionaries";
 import { rich } from "@/lib/i18n/rich";
 
-import { breadcrumbListJsonLd, jsonLdScriptProps } from "@/lib/seo/json-ld";
+import { breadcrumbListJsonLd, videoGalleryJsonLd, jsonLdScriptProps } from "@/lib/seo/json-ld";
 import { getPlayableVideos } from "@/lib/legacy-content";
 import { VideoEmbed } from "@/components/videos/video-embed";
 import { SectionHeading } from "@/components/public/section-heading";
@@ -35,6 +35,22 @@ export default async function VideosPage() {
             { name: d.common.home, path: localizePath(locale, "/") },
             { name: v.metaTitle, path: localizePath(locale, "/videolar") },
           ])
+        )}
+      />
+      <script
+        {...jsonLdScriptProps(
+          videoGalleryJsonLd(
+            videos
+              .filter((video) => video.uploadDate)
+              .map((video) => ({
+                name: video.title,
+                thumbnailUrl: video.thumbnail,
+                uploadDate: video.uploadDate as string,
+                duration: video.duration,
+                embedUrl: `https://www.youtube.com/embed/${video.id}`,
+                contentUrl: video.watchUrl,
+              }))
+          )
         )}
       />
 

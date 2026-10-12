@@ -1,7 +1,7 @@
 import { organizationJsonLd, websiteJsonLd, jsonLdScriptProps } from "@/lib/seo/json-ld";
 import { getContactSettings } from "@/lib/site-settings";
 import { getLocalImageMeta } from "@/lib/seo/image-meta";
-import { SOCIAL } from "@/content/site";
+import { SOCIAL, CONTACT } from "@/content/site";
 import "../header-hero.css";
 import { Header } from "@/components/public/header";
 import { Footer } from "@/components/public/footer";
@@ -29,6 +29,8 @@ export default async function PublicLayout({ children }: { children: React.React
               addressLocality: contact.address.locality,
               addressCountry: contact.address.country,
             },
+            // Admin panelden değişmeyen, gerçek (Nominatim ile doğrulanmış) sabit konum — bkz. content/site.ts.
+            geo: CONTACT.address.geo,
             // Gerçek, footer'da render edilen sosyal medya hesapları (src/content/site.ts) — uydurma URL yok.
             sameAs: SOCIAL.map((s) => s.href),
           })

@@ -22,6 +22,10 @@ export function organizationJsonLd(input: {
     addressLocality: string;
     addressCountry: string;
   };
+  /** Gerçek koordinatlar (ör. OpenStreetMap/Nominatim ile doğrulanmış) verilirse tip "LocalBusiness"e yükseltilir
+   *  (schema.org'da Organization'ın alt tipi — tüm Organization alanları geçerli kalır) ve Google Maps/yerel
+   *  aramalar için GeoCoordinates eklenir. Verilmezse düz "Organization" olarak kalır. */
+  geo?: { latitude: number; longitude: number };
   /** Gerçekten var olan sosyal medya hesapları (src/content/site.ts → SOCIAL); uydurma URL asla verilmez. */
   sameAs?: string[];
 }) {
@@ -29,7 +33,7 @@ export function organizationJsonLd(input: {
 
   return {
     "@context": "https://schema.org",
-    "@type": "Organization",
+    "@type": input.geo ? "LocalBusiness" : "Organization",
     "@id": organizationId(siteUrl),
     name: SITE_NAME,
     url: siteUrl,
@@ -63,6 +67,7 @@ export function organizationJsonLd(input: {
           },
         }
       : {}),
+    ...(input.geo ? { geo: { "@type": "GeoCoordinates", latitude: input.geo.latitude, longitude: input.geo.longitude } } : {}),
     ...(input.sameAs?.length ? { sameAs: input.sameAs } : {}),
   };
 }
@@ -196,6 +201,56 @@ export function blogJsonLd(input: { name: string; description: string; path: str
     inLanguage: input.locale ?? DEFAULT_LOCALE,
     publisher: { "@id": organizationId(siteUrl) },
     blogPost: input.posts.map((p) => ({ "@type": "BlogPosting", headline: p.title, url: new URL(p.path, siteUrl).toString() })),
+  };
+}
+
+type VideoInput = {
+  name: string;
+  thumbnailUrl: string;
+  uploadDate: string;
+  duration?: string | null;
+  embedUrl: string;
+  contentUrl?: string;
+  description?: string;
+};
+
+/**
+ * Gerçek YouTube videoları için VideoObject (bare node, @context yok — tek başına script tag'i yerine bir
+ * grafiğin/listenin içine gömülmesi için). `duration`/`uploadDate` YouTube'un kendi sayfa meta verisinden
+ * alınmıştır (bkz. src/content/legacy/videos.json), uydurma değer YOKTUR. `embedUrl` gerçek YouTube embed
+ * linkidir; Google bu sayede video sonuçlarında doğrudan oynatma sunabilir.
+ */
+function videoObjectNode(input: VideoInput) {
+  const siteUrl = getSiteUrl();
+
+  return {
+    "@type": "VideoObject",
+    name: input.name,
+    description: input.description || input.name,
+    thumbnailUrl: [new URL(input.thumbnailUrl, siteUrl).toString()],
+    uploadDate: input.uploadDate,
+    ...(input.duration ? { duration: input.duration } : {}),
+    embedUrl: input.embedUrl,
+    ...(input.contentUrl ? { contentUrl: input.contentUrl } : {}),
+    publisher: { "@id": organizationId(siteUrl) },
+  };
+}
+
+/** Tek bir videonun bulunduğu sayfa için bağımsız VideoObject script'i. */
+export function videoObjectJsonLd(input: VideoInput) {
+  return { "@context": "https://schema.org", ...videoObjectNode(input) };
+}
+
+/** Video galerisi sayfası: her video kendi VideoObject'iyle sıralı bir ItemList olarak işaretlenir. */
+export function videoGalleryJsonLd(videos: VideoInput[]) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    itemListElement: videos.map((v, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      item: videoObjectNode(v),
+    })),
   };
 }
 
