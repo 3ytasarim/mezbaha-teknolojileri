@@ -1,0 +1,1465 @@
+{
+ "updateExisting": [
+  {
+   "id": "cmueeqrf3001umcp6txtybqhf",
+   "sourcePath": "/tr/otomatik-deri-yuzme-sistemleri-ile-iscilik-maliyeti-nasil-azalir",
+   "oldDest": "/tr/blog/otomatik-deri-yuzme-sistemleri-ile-iscilik-maliyeti-nasil-azalir",
+   "newDest": "/tr/blog"
+  },
+  {
+   "id": "cmueeqrik001vmcp6xswtg8ye",
+   "sourcePath": "/tr/karkas-tasima-sistemleri-et-kalitesini-nasil-etkiler",
+   "oldDest": "/tr/blog/karkas-tasima-sistemleri-et-kalitesini-nasil-etkiler",
+   "newDest": "/tr/blog"
+  },
+  {
+   "id": "cmueeqrm4001wmcp6rn1f4k9l",
+   "sourcePath": "/tr/et-parcalama-testereleri-hizli-ve-guvenli-kesim-ekipmanlari",
+   "oldDest": "/tr/blog/et-parcalama-testereleri-hizli-ve-guvenli-kesim-ekipmanlari",
+   "newDest": "/tr/blog"
+  },
+  {
+   "id": "cmueeqrpk001xmcp6wnrc8adl",
+   "sourcePath": "/tr/dos-acma-testeresi-ile-hizli-ve-hijyenik-kesim-icin-ipuclari",
+   "oldDest": "/tr/blog/dos-acma-testeresi-ile-hizli-ve-hijyenik-kesim-icin-ipuclari",
+   "newDest": "/tr/blog"
+  },
+  {
+   "id": "cmueeqrt1001ymcp6u4hoqop6",
+   "sourcePath": "/tr/hidrolik-deri-yuzme-makinasi-mi-mekanik-deri-yuzme-makinasi-mi",
+   "oldDest": "/tr/blog/hidrolik-deri-yuzme-makinasi-mi-mekanik-deri-yuzme-makinasi-mi",
+   "newDest": "/tr/blog"
+  },
+  {
+   "id": "cmueeqrwi001zmcp693ky13m6",
+   "sourcePath": "/tr/ayak-kesme-makasi-avantajlari",
+   "oldDest": "/tr/blog/ayak-kesme-makasi-avantajlari",
+   "newDest": "/tr/blog"
+  },
+  {
+   "id": "cmueeqrzy0020mcp6p4it131i",
+   "sourcePath": "/tr/robotik-mezbaha-sistemleri-nedir",
+   "oldDest": "/tr/blog/robotik-mezbaha-sistemleri-nedir",
+   "newDest": "/tr/blog"
+  },
+  {
+   "id": "cmueeqs3e0021mcp6x1mpmir2",
+   "sourcePath": "/tr/soguk-oda-ve-ikizray-sistemleri-et-kalitesini-nasil-etkiler",
+   "oldDest": "/tr/blog/soguk-oda-ve-ikizray-sistemleri-et-kalitesini-nasil-etkiler",
+   "newDest": "/tr/blog"
+  },
+  {
+   "id": "cmueeqs6w0022mcp6y5f968gw",
+   "sourcePath": "/tr/iskembe-atik-pompasi-ile-atik-yonetimi",
+   "oldDest": "/tr/blog/iskembe-atik-pompasi-ile-atik-yonetimi",
+   "newDest": "/tr/blog"
+  },
+  {
+   "id": "cmueiztc50001jwp6asem43s7",
+   "sourcePath": "/tr/mezbaha-makina-sistemleri-katalog",
+   "oldDest": "/tr/kataloglar/2018-mezbaha-sistemleri-katalog",
+   "newDest": "/tr/kataloglar/2024-mezbaha-teknolojileri-katalog"
+  },
+  {
+   "id": "cmui8dy2300088op6wof5k384",
+   "sourcePath": "/cattle-stunning-box",
+   "oldDest": "/tr/product/halal-cattle-stunning-box",
+   "newDest": "/urun/halal-cattle-stunning-box"
+  },
+  {
+   "id": "cmui8dyty000k8op6axe3f1rw",
+   "sourcePath": "/slaughterhouse-carcass-spliting-saw",
+   "oldDest": "/tr/product/carcass-splitting-saw",
+   "newDest": "/urun/carcass-splitting-saw"
+  },
+  {
+   "id": "cmui8e2da00218op6zadrcmun",
+   "sourcePath": "/return-line-and-hook-lowering-helix",
+   "oldDest": "/tr/product/return-line-and-hook-lowering-helix",
+   "newDest": "/urun/return-line-and-hook-lowering-helix"
+  },
+  {
+   "id": "cmueeqrbp001tmcp6rw49omvb",
+   "sourcePath": "/tr/rayli-tasima-sistemleri-ikizray-nedir-ve-neden-kullanilir",
+   "oldDest": "/tr/blog/rayli-tasima-sistemleri-ikizray-nedir-ve-neden-kullanilir",
+   "newDest": "/tr/blog"
+  },
+  {
+   "id": "cmui8dxir00008op6t31qs1xi",
+   "sourcePath": "/slaughterhouse-equipments",
+   "oldDest": "/tr/products/cattle-slaughterhouse",
+   "newDest": "/urunler/cattle-slaughterhouse"
+  },
+  {
+   "id": "cmui8dxnv00028op61yomwbdi",
+   "sourcePath": "/robotic",
+   "oldDest": "/tr/products/sheep-slaughterhouse",
+   "newDest": "/urunler"
+  },
+  {
+   "id": "cmui8dxss00048op638o98ysr",
+   "sourcePath": "/mini-slaughterhouse",
+   "oldDest": "/tr/products/mini-slaughterhouse",
+   "newDest": "/urunler/mini-slaughterhouse"
+  },
+  {
+   "id": "cmui8dxxf00068op6xdfatjee",
+   "sourcePath": "/slaughterhouse-processing",
+   "oldDest": "/tr/products/slaughterhouse-processing",
+   "newDest": "/urunler/slaughterhouse-processing"
+  },
+  {
+   "id": "cmui8dxli00018op62mv4d0st",
+   "sourcePath": "/ru/oborudovanie-mezbaha",
+   "oldDest": "/ru/produkty/skotobojnya",
+   "newDest": "/ru/urunler/skotobojnya"
+  },
+  {
+   "id": "cmui8dxqb00038op6639zzpz6",
+   "sourcePath": "/ru/robotizirovannye-sistemy-mezbaha",
+   "oldDest": "/ru/produkty/ovcebojnya",
+   "newDest": "/ru/urunler"
+  },
+  {
+   "id": "cmui8dxv400058op6d63qlgus",
+   "sourcePath": "/ru/oborudovanie-dlya-nebolshih-mini-boen",
+   "oldDest": "/ru/produkty/mini-skotobojnya",
+   "newDest": "/ru/urunler/mini-skotobojnya"
+  },
+  {
+   "id": "cmui8dxzr00078op6kz6ws77t",
+   "sourcePath": "/ru/sistemy-mezbaha",
+   "oldDest": "/ru/produkty/pererabotka-myasa",
+   "newDest": "/ru/urunler/pererabotka-myasa"
+  },
+  {
+   "id": "cmui8dy4h00098op696ijx1ij",
+   "sourcePath": "/ru/boks-oglusheniya-skota-pm-fbo",
+   "oldDest": "/ru/produkt/boks-oglusheniya-skota-pm-fbo",
+   "newDest": "/ru/urun/boks-oglusheniya-skota-pm-fbo"
+  },
+  {
+   "id": "cmui8dy95000b8op652msj3lc",
+   "sourcePath": "/ru/mehanicheskaya-kozha",
+   "oldDest": "/ru/produkt/mehanicheskij-sem-shkury",
+   "newDest": "/ru/urun/mehanicheskij-sem-shkury"
+  },
+  {
+   "id": "cmui8dydt000d8op6hd39xice",
+   "sourcePath": "/ru/dos-acma-testeresi",
+   "oldDest": "/ru/produkt/dos-acma-testeresi",
+   "newDest": "/ru/urun/dos-acma-testeresi"
+  },
+  {
+   "id": "cmui8dyie000f8op6wxt2aj14",
+   "sourcePath": "/ru/mezbaha-makinalari-ruka-dlya-zagruzki-myasa",
+   "oldDest": "/ru/produkt/mezbaha-makinalari-ruka-dlya-zagruzki-myasa",
+   "newDest": "/ru/urun/mezbaha-makinalari-ruka-dlya-zagruzki-myasa"
+  },
+  {
+   "id": "cmui8dyn0000h8op69t2eu2o6",
+   "sourcePath": "/ru/kamera-obrezki",
+   "oldDest": "/ru/produkt/kamera-obrezki",
+   "newDest": "/ru/urun/kamera-obrezki"
+  },
+  {
+   "id": "cmui8dyrn000j8op6r0sma1dc",
+   "sourcePath": "/ru/gidravlicheskaya-mashina-dlya-snyatiya-kozhi",
+   "oldDest": "/ru/produkt/gidravlicheskaya-mashina-dlya-snyatiya-kozhi",
+   "newDest": "/ru/urun/gidravlicheskaya-mashina-dlya-snyatiya-kozhi"
+  },
+  {
+   "id": "cmui8dyw9000l8op66563rmvh",
+   "sourcePath": "/ru/karkasnaya-pila-tonkaya",
+   "oldDest": "/ru/produkt/karkasnaya-pila-tonkaya",
+   "newDest": "/ru/urun/karkasnaya-pila-tonkaya"
+  },
+  {
+   "id": "cmui8dz10000n8op62w0blrjq",
+   "sourcePath": "/ru/nozhnicy-dlya-obrezaniya-nog",
+   "oldDest": "/ru/produkt/nozhnicy-dlya-obrezaniya-nog",
+   "newDest": "/ru/urun/nozhnicy-dlya-obrezaniya-nog"
+  },
+  {
+   "id": "cmui8dz5x000p8op6eo0mb8r5",
+   "sourcePath": "/ru/linejnaya-sistema-lifta-dlya-chetvertej-771",
+   "oldDest": "/ru/produkt/linejnaya-sistema-lifta-dlya-chetvertej-771",
+   "newDest": "/ru/urun/linejnaya-sistema-lifta-dlya-chetvertej-771"
+  },
+  {
+   "id": "cmui8dzak000r8op6ftwuovdm",
+   "sourcePath": "/ru/platforma-dlya-transportirovki",
+   "oldDest": "/ru/produkt/platforma-dlya-transportirovki",
+   "newDest": "/ru/urun/platforma-dlya-transportirovki"
+  },
+  {
+   "id": "cmui8dzf6000t8op6pmaga5dv",
+   "sourcePath": "/ru/pnevmaticheskaya-platforma-dlya-vnutrennih-organov",
+   "oldDest": "/ru/produkt/pnevmaticheskaya-platforma-dlya-vnutrennih-organov",
+   "newDest": "/ru/urun/pnevmaticheskaya-platforma-dlya-vnutrennih-organov"
+  },
+  {
+   "id": "cmui8dzjt000v8op6l48dh2rd",
+   "sourcePath": "/ru/kryuki",
+   "oldDest": "/ru/produkt/kryuki",
+   "newDest": "/ru/urun/kryuki"
+  },
+  {
+   "id": "cmui8dzof000x8op67baclaoz",
+   "sourcePath": "/ru/nasos-dlya-othodov-iz-subproduktov",
+   "oldDest": "/ru/produkt/nasos-dlya-othodov-iz-subproduktov",
+   "newDest": "/ru/urun/nasos-dlya-othodov-iz-subproduktov"
+  },
+  {
+   "id": "cmui8dzt5000z8op67dycvrgx",
+   "sourcePath": "/ru/mezbaha-sistemleri-dvojnoj-monorels",
+   "oldDest": "/ru/produkt/sistemy-dlya-skotoboen-dvojnoj-monorels",
+   "newDest": "/ru/urun/sistemy-dlya-skotoboen-dvojnoj-monorels"
+  },
+  {
+   "id": "cmui8dzxw00118op638tv5inz",
+   "sourcePath": "/ru/sterilizatory-dlya-pil",
+   "oldDest": "/ru/produkt/sterilizatory-dlya-pil",
+   "newDest": "/ru/urun/sterilizatory-dlya-pil"
+  },
+  {
+   "id": "cmui8e02i00138op63agin3q4",
+   "sourcePath": "/ru/kran-dlya-krovi",
+   "oldDest": "/ru/produkt/kran-dlya-krovi",
+   "newDest": "/ru/urun/kran-dlya-krovi"
+  },
+  {
+   "id": "cmui8e07500158op6mnf80kg0",
+   "sourcePath": "/ru/elevator-dlya-obeskrovlivaniya-krupnogo-rogatogo-skota",
+   "oldDest": "/ru/produkt/elevator-dlya-obeskrovlivaniya-krupnogo-rogatogo-skota",
+   "newDest": "/ru/urun/elevator-dlya-obeskrovlivaniya-krupnogo-rogatogo-skota"
+  },
+  {
+   "id": "cmui8e0br00178op6sbyozw4m",
+   "sourcePath": "/ru/konveyer-dlya-pererabotki-skota",
+   "oldDest": "/ru/produkt/konveyer-dlya-pererabotki-skota",
+   "newDest": "/ru/urun/konveyer-dlya-pererabotki-skota"
+  },
+  {
+   "id": "cmui8e0ge00198op6lh1rdjhs",
+   "sourcePath": "/ru/konveyer-dlya-pecheni",
+   "oldDest": "/ru/produkt/konveyer-dlya-pecheni",
+   "newDest": "/ru/urun/konveyer-dlya-pecheni"
+  },
+  {
+   "id": "cmui8e0l3001b8op6ch7wuxjw",
+   "sourcePath": "/ru/moechnye-rakoviny-dlya-skotoboen",
+   "oldDest": "/ru/produkt/moechnye-rakoviny-dlya-skotoboen",
+   "newDest": "/ru/urun/moechnye-rakoviny-dlya-skotoboen"
+  },
+  {
+   "id": "cmui8e0po001d8op6hnby4yfi",
+   "sourcePath": "/ru/populyarnaya-moyka-sapog",
+   "oldDest": "/ru/produkt/populyarnaya-moyka-sapog",
+   "newDest": "/ru/urun/populyarnaya-moyka-sapog"
+  },
+  {
+   "id": "cmui8e0ua001f8op6pw36iduf",
+   "sourcePath": "/ru/veshalka-dlya-sapog",
+   "oldDest": "/ru/produkt/veshalka-dlya-sapog",
+   "newDest": "/ru/urun/veshalka-dlya-sapog"
+  },
+  {
+   "id": "cmui8e0yx001h8op6akm4ixcj",
+   "sourcePath": "/ru/mashina-dlya-mytya-nog",
+   "oldDest": "/ru/produkt/mashina-dlya-mytya-nog",
+   "newDest": "/ru/urun/mashina-dlya-mytya-nog"
+  },
+  {
+   "id": "cmui8e13y001j8op6lzpbrq8f",
+   "sourcePath": "/ru/mashina-dlya-udalenia-mozga",
+   "oldDest": "/ru/produkt/mashina-dlya-udalenia-mozga",
+   "newDest": "/ru/urun/mashina-dlya-udalenia-mozga"
+  },
+  {
+   "id": "cmui8e19c001l8op6h45g4zet",
+   "sourcePath": "/ru/vanna-dlya-ochistki-shkur",
+   "oldDest": "/ru/produkt/vanna-dlya-ochistki-shkur",
+   "newDest": "/ru/urun/vanna-dlya-ochistki-shkur"
+  },
+  {
+   "id": "cmui8e1go001n8op65d1zvkw3",
+   "sourcePath": "/ru/vanna-dlya-ochistki-rubtsa",
+   "oldDest": "/ru/produkt/vanna-dlya-ochistki-rubtsa",
+   "newDest": "/ru/urun/vanna-dlya-ochistki-rubtsa"
+  },
+  {
+   "id": "cmui8dybh000c8op6ptg225qm",
+   "sourcePath": "/slaughterhouse-equipment-brisket-saw",
+   "oldDest": "/tr/product/brisket-saw",
+   "newDest": "/urun/brisket-saw"
+  },
+  {
+   "id": "cmui8dyg4000e8op6wo41hku6",
+   "sourcePath": "/slaughtering-equipment-carcass-loading-arm",
+   "oldDest": "/tr/product/carcass-loading-arm",
+   "newDest": "/urun/carcass-loading-arm"
+  },
+  {
+   "id": "cmui8dykp000g8op6dnm8a7rq",
+   "sourcePath": "/slaughterhouse-cattle-box",
+   "oldDest": "/tr/product/cattle-slaughter-box",
+   "newDest": "/urun/cattle-slaughter-box"
+  },
+  {
+   "id": "cmui8dypb000i8op6juzi88bg",
+   "sourcePath": "/hydraulic-skinning-machine",
+   "oldDest": "/tr/product/hydraulic-skinning-machine",
+   "newDest": "/urun/hydraulic-skinning-machine"
+  },
+  {
+   "id": "cmui8dyym000m8op6r6uq1658",
+   "sourcePath": "/leg-cuttine-machine",
+   "oldDest": "/tr/product/leg-and-horn-cutter",
+   "newDest": "/urun/leg-and-horn-cutter"
+  },
+  {
+   "id": "cmui8dz3f000o8op6g0c4xlfk",
+   "sourcePath": "/quarter-elevator",
+   "oldDest": "/tr/product/quartering-elevator",
+   "newDest": "/urun/quartering-elevator"
+  },
+  {
+   "id": "cmui8dz89000q8op6myzty5kq",
+   "sourcePath": "/pneumatic-transferring-platform",
+   "oldDest": "/tr/product/pneumatic-transferring-platform",
+   "newDest": "/urun/pneumatic-transferring-platform"
+  },
+  {
+   "id": "cmui8dzcv000s8op6ej2pv6to",
+   "sourcePath": "/pneumatic-evisceration-platform",
+   "oldDest": "/tr/product/pneumatic-evisceration-platform",
+   "newDest": "/urun/pneumatic-evisceration-platform"
+  },
+  {
+   "id": "cmui8dzhh000u8op6cvyhqpwl",
+   "sourcePath": "/slaughterhouse-hook",
+   "oldDest": "/tr/product/slaughterhouse-hook",
+   "newDest": "/urun/slaughterhouse-hook"
+  },
+  {
+   "id": "cmui8dzm4000w8op6w9qnzskq",
+   "sourcePath": "/slaughterhouse-tripe-waste-pump",
+   "oldDest": "/tr/product/slaughterhouse-tripe-waste-pump",
+   "newDest": "/urun/slaughterhouse-tripe-waste-pump"
+  },
+  {
+   "id": "cmui8dzqt000y8op67ivz6wnv",
+   "sourcePath": "/slaughterhouse-monorail-twinrail",
+   "oldDest": "/tr/product/monorail-and-twin-rail-systems",
+   "newDest": "/urun/monorail-and-twin-rail-systems"
+  },
+  {
+   "id": "cmui8dzvl00108op68qrq0sdj",
+   "sourcePath": "/slaughterhouse-saw-sterilizers",
+   "oldDest": "/tr/product/slaughterhouse-saw-sterilizers",
+   "newDest": "/urun/slaughterhouse-saw-sterilizers"
+  },
+  {
+   "id": "cmui8e00700128op66to6k78j",
+   "sourcePath": "/crane",
+   "oldDest": "/tr/product/cattle-bleeding-crane",
+   "newDest": "/urun/cattle-bleeding-crane"
+  },
+  {
+   "id": "cmui8e04u00148op6tyjijxow",
+   "sourcePath": "/cattle-bleeding-elevator",
+   "oldDest": "/tr/product/cattle-bleeding-elevator",
+   "newDest": "/urun/cattle-bleeding-elevator"
+  },
+  {
+   "id": "cmui8e09g00168op699ouhtvg",
+   "sourcePath": "/cattle-processing-line",
+   "oldDest": "/tr/product/cattle-processing-line",
+   "newDest": "/urun/cattle-processing-line"
+  },
+  {
+   "id": "cmui8e0e200188op65sg04ic6",
+   "sourcePath": "/liver-konveyor",
+   "oldDest": "/tr/product/liver-conveyor",
+   "newDest": "/urun/liver-conveyor"
+  },
+  {
+   "id": "cmui8e0ir001a8op6v3tr2jye",
+   "sourcePath": "/slaughterhouse-washbasin",
+   "oldDest": "/tr/product/slaughterhouse-washbasin",
+   "newDest": "/urun/slaughterhouse-washbasin"
+  },
+  {
+   "id": "cmui8e0ne001c8op61mspwk6a",
+   "sourcePath": "/boot-washing-stations",
+   "oldDest": "/tr/product/boot-washing-stations",
+   "newDest": "/urun/boot-washing-stations"
+  },
+  {
+   "id": "cmui8e0rz001e8op6j2d4zt1c",
+   "sourcePath": "/boot-hanger",
+   "oldDest": "/tr/product/boot-hanger",
+   "newDest": "/urun/boot-hanger"
+  },
+  {
+   "id": "cmui8e0wl001g8op6x8dn36ss",
+   "sourcePath": "/foot-washing-machine",
+   "oldDest": "/tr/product/foot-washing-machine",
+   "newDest": "/urun/foot-washing-machine"
+  },
+  {
+   "id": "cmui8e119001i8op6pazvhsre",
+   "sourcePath": "/brain-removal-machine",
+   "oldDest": "/tr/product/brain-extraction-machine",
+   "newDest": "/urun/brain-extraction-machine"
+  },
+  {
+   "id": "cmui8e16a001k8op6lx2zmkpk",
+   "sourcePath": "/leather-cleaning-pan",
+   "oldDest": "/tr/product/leather-cleaning-pan",
+   "newDest": "/urun/leather-cleaning-pan"
+  },
+  {
+   "id": "cmui8e1cc001m8op68i7b4bdq",
+   "sourcePath": "/tripe-cleaning-pan",
+   "oldDest": "/tr/product/tripe-cleaning-pan",
+   "newDest": "/urun/tripe-cleaning-pan"
+  },
+  {
+   "id": "cmui8e1iz001o8op6rf8a0dv4",
+   "sourcePath": "/lung-cleaning-pan",
+   "oldDest": "/tr/product/liver-cleaning-pan",
+   "newDest": "/urun/liver-cleaning-pan"
+  },
+  {
+   "id": "cmui8e1la001p8op6vj6lxxbh",
+   "sourcePath": "/kurutmali-kan-tanki",
+   "oldDest": "/tr/product/blood-tank-with-drying-unit",
+   "newDest": "/urun/blood-tank-with-drying-unit"
+  },
+  {
+   "id": "cmui8dy6t000a8op6s4zggcma",
+   "sourcePath": "/mechanical-leather-skinning",
+   "oldDest": "/tr/product/mechanical-leather-skinning",
+   "newDest": "/urun/mechanical-leather-skinning"
+  },
+  {
+   "id": "cmui8e1s9001s8op6y8wf57m3",
+   "sourcePath": "/ru/stacionarnaya-platforma",
+   "oldDest": "/ru/produkt/stacionarnaya-platforma",
+   "newDest": "/ru/urun/stacionarnaya-platforma"
+  },
+  {
+   "id": "cmui8e1x3001u8op6ixe0gey4",
+   "sourcePath": "/ru/stacionarnaya-konvejernaya-platforma",
+   "oldDest": "/ru/produkt/stacionarnaya-konvejernaya-platforma",
+   "newDest": "/ru/urun/stacionarnaya-konvejernaya-platforma"
+  },
+  {
+   "id": "cmui8e21q001w8op6mgspcs00",
+   "sourcePath": "/ru/stacionarnaya-platforma-dlya-vnutrennostej",
+   "oldDest": "/ru/produkt/stacionarnaya-platforma-dlya-vnutrennostej",
+   "newDest": "/ru/urun/stacionarnaya-platforma-dlya-vnutrennostej"
+  },
+  {
+   "id": "cmui8e26c001y8op6gg3aw39f",
+   "sourcePath": "/ru/stol-dlya-narezki-myasa",
+   "oldDest": "/ru/produkt/stol-dlya-narezki-myasa",
+   "newDest": "/ru/urun/stol-dlya-narezki-myasa"
+  },
+  {
+   "id": "cmui8e2ay00208op68c371foo",
+   "sourcePath": "/ru/kran-dlya-perenoski",
+   "oldDest": "/ru/produkt/kran-dlya-perenoski",
+   "newDest": "/ru/urun/kran-dlya-perenoski"
+  },
+  {
+   "id": "cmui8e2fo00228op6s2c3vcma",
+   "sourcePath": "/ru/spiralnaya-vozvratnaya-liniya",
+   "oldDest": "/ru/produkt/spiralnaya-vozvratnaya-liniya",
+   "newDest": "/ru/urun/spiralnaya-vozvratnaya-liniya"
+  },
+  {
+   "id": "cmui8e2k800248op6616csjcw",
+   "sourcePath": "/ru/blokirovka-i-rastyazhenie-nog",
+   "oldDest": "/ru/produkt/blokirovka-i-rastyazhenie-nog",
+   "newDest": "/ru/urun/blokirovka-i-rastyazhenie-nog"
+  },
+  {
+   "id": "cmui8e2ou00268op6d979furx",
+   "sourcePath": "/ru/kryuk-dlya-puskaniya-krovi",
+   "oldDest": "/ru/produkt/kryuk-dlya-puskaniya-krovi",
+   "newDest": "/ru/urun/kryuk-dlya-puskaniya-krovi"
+  },
+  {
+   "id": "cmui8e2th00288op6t6wx0k5g",
+   "sourcePath": "/ru/dvojnoj-kryuk",
+   "oldDest": "/ru/produkt/dvojnoj-kryuk",
+   "newDest": "/ru/urun/dvojnoj-kryuk"
+  },
+  {
+   "id": "cmui8e2y5002a8op6sxtkz7id",
+   "sourcePath": "/ru/kanal-i-gril",
+   "oldDest": "/ru/produkt/kanal-i-reshetka",
+   "newDest": "/ru/urun/kanal-i-reshetka"
+  },
+  {
+   "id": "cmui8e32q002c8op6xdyd82fk",
+   "sourcePath": "/ru/kamera-krugovoj-obrezki",
+   "oldDest": "/ru/produkt/kamera-krugovoj-obrezki",
+   "newDest": "/ru/urun/kamera-krugovoj-obrezki"
+  },
+  {
+   "id": "cmui8e37d002e8op6ih9vnvgr",
+   "sourcePath": "/ru/linejnyj-konveer-dlya-kozhi",
+   "oldDest": "/ru/produkt/linejnyj-konvejer-dlya-kozhi",
+   "newDest": "/ru/urun/linejnyj-konvejer-dlya-kozhi"
+  },
+  {
+   "id": "cmui8e3bz002g8op6q6cv3052",
+   "sourcePath": "/ru/skovoroda-dlya-krovi",
+   "oldDest": "/ru/produkt/poddon-dlya-krovi",
+   "newDest": "/ru/urun/poddon-dlya-krovi"
+  },
+  {
+   "id": "cmui8e3gm002i8op635ihu5g6",
+   "sourcePath": "/ru/rezervuar-dlya-krovi",
+   "oldDest": "/ru/produkt/rezervuar-dlya-krovi",
+   "newDest": "/ru/urun/rezervuar-dlya-krovi"
+  },
+  {
+   "id": "cmui8e3l9002k8op66w74x0tf",
+   "sourcePath": "/ru/veshalka-dlya-subproduktov",
+   "oldDest": "/ru/produkt/veshalka-dlya-subproduktov",
+   "newDest": "/ru/urun/veshalka-dlya-subproduktov"
+  },
+  {
+   "id": "cmui8e3pw002m8op6fwp72pl7",
+   "sourcePath": "/ru/konveyer-dlya-ovets",
+   "oldDest": "/ru/produkt/konveyer-dlya-ovets",
+   "newDest": "/ru/urun/konveyer-dlya-ovets"
+  },
+  {
+   "id": "cmui8e3ui002o8op6p8auf4mx",
+   "sourcePath": "/ru/elevator-dlya-ovets-bezopasnaya-gigienichnaya",
+   "oldDest": "/ru/produkt/elevator-dlya-ovets-bezopasnaya-gigienichnaya",
+   "newDest": "/ru/urun/elevator-dlya-ovets-bezopasnaya-gigienichnaya"
+  },
+  {
+   "id": "cmui8e3z5002q8op6eqx7ns7q",
+   "sourcePath": "/ru/telezhka-dlya-transportirovki-vnutrennikh-organov",
+   "oldDest": "/ru/produkt/telezhka-dlya-transportirovki-vnutrennikh-organov",
+   "newDest": "/ru/urun/telezhka-dlya-transportirovki-vnutrennikh-organov"
+  },
+  {
+   "id": "cmui8e43t002s8op6wuqnno5f",
+   "sourcePath": "/ru/telezhka-dlya-transportirovki",
+   "oldDest": "/ru/produkt/telezhka-dlya-transportirovki",
+   "newDest": "/ru/urun/telezhka-dlya-transportirovki"
+  },
+  {
+   "id": "cmui8e48f002u8op6wuihdbrd",
+   "sourcePath": "/ru/telezhka-dlya-perevozki-legkih",
+   "oldDest": "/ru/produkt/telezhka-dlya-perevozki-pecheni",
+   "newDest": "/ru/urun/telezhka-dlya-perevozki-pecheni"
+  },
+  {
+   "id": "cmui8e4d1002w8op69ign31wk",
+   "sourcePath": "/ru/professionalnye-sistemy-dlya-skotoboen",
+   "oldDest": "/ru/produkt/professionalnye-sistemy-dlya-skotoboen",
+   "newDest": "/ru/urun/professionalnye-sistemy-dlya-skotoboen"
+  },
+  {
+   "id": "cmui8e4hn002y8op6kgocf45v",
+   "sourcePath": "/ru/standarty-mezbaha-sistemleri",
+   "oldDest": "/ru/produkt/standartnye-sistemy-dlya-skotoboen",
+   "newDest": "/ru/urun/standartnye-sistemy-dlya-skotoboen"
+  },
+  {
+   "id": "cmui8e4mb00308op6tuvszao6",
+   "sourcePath": "/ru/dvojnaya-sistema-dlya-holodilnyh-kamer",
+   "oldDest": "/ru/produkt/dvojnaya-sistema-dlya-holodilnyh-kamer",
+   "newDest": "/ru/urun/dvojnaya-sistema-dlya-holodilnyh-kamer"
+  },
+  {
+   "id": "cmui8e4qy00328op6av72uf7e",
+   "sourcePath": "/ru/dizajn-zdaniya-skotobojni",
+   "oldDest": "/ru/produkt/dizajn-zdaniya-skotobojni",
+   "newDest": "/ru/urun/dizajn-zdaniya-skotobojni"
+  },
+  {
+   "id": "cmui8e1pz001r8op68ludvk1l",
+   "sourcePath": "/fixed-platform",
+   "oldDest": "/tr/product/fixed-tail-opening-platform",
+   "newDest": "/urun/fixed-tail-opening-platform"
+  },
+  {
+   "id": "cmui8e1uq001t8op6yra2fnka",
+   "sourcePath": "/fixed-transfer-platform",
+   "oldDest": "/tr/product/fixed-transfer-platform",
+   "newDest": "/urun/fixed-transfer-platform"
+  },
+  {
+   "id": "cmui8e1zd001v8op6wciy7acd",
+   "sourcePath": "/fixed-offals-platform",
+   "oldDest": "/tr/product/fixed-offal-platform",
+   "newDest": "/urun/fixed-offal-platform"
+  },
+  {
+   "id": "cmui8e240001x8op6akddn9fy",
+   "sourcePath": "/meat-deboning-worktable",
+   "oldDest": "/tr/product/meat-cutting-table",
+   "newDest": "/urun/meat-cutting-table"
+  },
+  {
+   "id": "cmui8e28n001z8op68szy0kcd",
+   "sourcePath": "/transfer-crane",
+   "oldDest": "/tr/product/transfer-crane",
+   "newDest": "/urun/transfer-crane"
+  },
+  {
+   "id": "cmui8e2hx00238op634epar4c",
+   "sourcePath": "/pneumatic-machine-for-hind-legs",
+   "oldDest": "/tr/product/pneumatic-machine-for-hind-legs",
+   "newDest": "/urun/pneumatic-machine-for-hind-legs"
+  },
+  {
+   "id": "cmui8e2mj00258op6ueodl8fa",
+   "sourcePath": "/bleeding-hook",
+   "oldDest": "/tr/product/bleeding-hook",
+   "newDest": "/urun/bleeding-hook"
+  },
+  {
+   "id": "cmui8e2r500278op6hhiz93os",
+   "sourcePath": "/twin-rail-hook",
+   "oldDest": "/tr/product/twin-rail-hook",
+   "newDest": "/urun/twin-rail-hook"
+  },
+  {
+   "id": "cmui8e2vu00298op6jtiqfpn2",
+   "sourcePath": "/channel-and-grill",
+   "oldDest": "/tr/product/drain-channel-and-grate",
+   "newDest": "/urun/drain-channel-and-grate"
+  },
+  {
+   "id": "cmui8e30f002b8op6yei0e0zt",
+   "sourcePath": "/slaughterhouse-ritual-cattle-killing-box",
+   "oldDest": "/tr/product/circular-stunning-box",
+   "newDest": "/urun/circular-stunning-box"
+  },
+  {
+   "id": "cmui8e351002d8op6f9vdhfrj",
+   "sourcePath": "/leather-band-conveyor",
+   "oldDest": "/tr/product/leather-band-conveyor",
+   "newDest": "/urun/leather-band-conveyor"
+  },
+  {
+   "id": "cmui8e39o002f8op69fnr0601",
+   "sourcePath": "/bleeding-pan",
+   "oldDest": "/tr/product/bleeding-pan",
+   "newDest": "/urun/bleeding-pan"
+  },
+  {
+   "id": "cmui8e3eb002h8op6wlpq694y",
+   "sourcePath": "/blood-tank",
+   "oldDest": "/tr/product/blood-tank",
+   "newDest": "/urun/blood-tank"
+  },
+  {
+   "id": "cmui8e3ix002j8op66axdkvbn",
+   "sourcePath": "/offal-hanger",
+   "oldDest": "/tr/product/offal-hanger",
+   "newDest": "/urun/offal-hanger"
+  },
+  {
+   "id": "cmui8e3nl002l8op6mxbm8z0w",
+   "sourcePath": "/sheep-processing-conveyor",
+   "oldDest": "/tr/product/sheep-processing-conveyor",
+   "newDest": "/urun/sheep-processing-conveyor"
+  },
+  {
+   "id": "cmui8e3s8002n8op653lsex1u",
+   "sourcePath": "/sheep-bleding-elevator",
+   "oldDest": "/tr/product/sheep-bleeding-elevator",
+   "newDest": "/urun/sheep-bleeding-elevator"
+  },
+  {
+   "id": "cmui8e3wv002p8op6egspa5qa",
+   "sourcePath": "/offal-transport-cart",
+   "oldDest": "/tr/product/offal-transport-cart",
+   "newDest": "/urun/offal-transport-cart"
+  },
+  {
+   "id": "cmui8e41g002r8op6dy0vy66y",
+   "sourcePath": "/hanger-trolley",
+   "oldDest": "/tr/product/hanger-trolley",
+   "newDest": "/urun/hanger-trolley"
+  },
+  {
+   "id": "cmui8e464002t8op6eh1hcz1c",
+   "sourcePath": "/lung-trolley",
+   "oldDest": "/tr/product/liver-trolley",
+   "newDest": "/urun/liver-trolley"
+  },
+  {
+   "id": "cmui8e4ar002v8op6rm4x2v3z",
+   "sourcePath": "/professional-slaughterhouse-system",
+   "oldDest": "/tr/product/professional-slaughterhouse-systems",
+   "newDest": "/urun/professional-slaughterhouse-systems"
+  },
+  {
+   "id": "cmui8e4fc002x8op6h7cztuph",
+   "sourcePath": "/standart-slaughterhouse-system",
+   "oldDest": "/tr/product/standard-slaughterhouse-systems",
+   "newDest": "/urun/standard-slaughterhouse-systems"
+  },
+  {
+   "id": "cmui8e4jz002z8op6rrcheyvo",
+   "sourcePath": "/cold-room-monorail-and-twinrail",
+   "oldDest": "/tr/product/cold-room-monorail-and-twin-rail-systems",
+   "newDest": "/urun/cold-room-monorail-and-twin-rail-systems"
+  },
+  {
+   "id": "cmui8e4ol00318op69yo4fop4",
+   "sourcePath": "/slaughterhouse-building-desing",
+   "oldDest": "/tr/product/slaughterhouse-building-design",
+   "newDest": "/urun/slaughterhouse-building-design"
+  },
+  {
+   "id": "cmui8e4t900338op69nl2za0m",
+   "sourcePath": "/kosher-line",
+   "oldDest": "/tr/product/kosher-line",
+   "newDest": "/urun/kosher-line"
+  },
+  {
+   "id": "cmui8e4vl00348op6brw4q567",
+   "sourcePath": "/slaughterhouse-setup-cost",
+   "oldDest": "/tr/blog/slaughterhouse-setup-cost",
+   "newDest": "/blog/slaughterhouse-setup-cost"
+  },
+  {
+   "id": "cmui8e4xx00358op6uqrfcovn",
+   "sourcePath": "/what-are-twin-rail-conveyor-systems-in-slaughterhouses",
+   "oldDest": "/tr/blog/what-are-twin-rail-conveyor-systems-in-slaughterhouses",
+   "newDest": "/blog"
+  },
+  {
+   "id": "cmui8e50700368op6l6tp0uxy",
+   "sourcePath": "/cattle-stunning-systems-guide",
+   "oldDest": "/tr/blog/cattle-stunning-systems-guide",
+   "newDest": "/blog/cattle-stunning-systems-guide"
+  },
+  {
+   "id": "cmui8e52h00378op623s6eapx",
+   "sourcePath": "/government-grants-for-slaugterhouse-setup",
+   "oldDest": "/tr/blog/government-grants-for-slaughterhouse-setup",
+   "newDest": "/blog/government-grants-for-slaughterhouse-setup"
+  },
+  {
+   "id": "cmui8e1nm001q8op63j7uhtmd",
+   "sourcePath": "/cattle-stunning",
+   "oldDest": "/tr/product/cattle-stunning",
+   "newDest": "/urun/cattle-stunning"
+  },
+  {
+   "id": "cmui8e7pe004c8op6bejt6gmo",
+   "sourcePath": "/ru/katalog-sistem-mezbaha-2018",
+   "oldDest": "/ru/katalogi/2018-mezbaha-sistemleri-katalog",
+   "newDest": "/ru/kataloglar/2024-mezbaha-teknolojileri-katalog"
+  },
+  {
+   "id": "cmui8e7rq004d8op6ue5q72og",
+   "sourcePath": "/ru/proekty-kartinki",
+   "oldDest": "/ru/proekty",
+   "newDest": "/ru/projeler"
+  },
+  {
+   "id": "cmui8e7u1004e8op6h7dy8f4a",
+   "sourcePath": "/ru/set-prodazh",
+   "oldDest": "/ru/kompaniya",
+   "newDest": "/ru/hakkimizda"
+  },
+  {
+   "id": "cmui8e7wf004f8op6zeer34v8",
+   "sourcePath": "/ru/predstavitelstva",
+   "oldDest": "/ru/kompaniya",
+   "newDest": "/ru/hakkimizda"
+  },
+  {
+   "id": "cmui8e7yu004g8op6928a1zm6",
+   "sourcePath": "/ru/ssylki-716",
+   "oldDest": "/ru/referencii",
+   "newDest": "/ru/referanslar"
+  },
+  {
+   "id": "cmui8e817004h8op613qzlzf5",
+   "sourcePath": "/ru/video-mezbaha-makinalari",
+   "oldDest": "/ru/video",
+   "newDest": "/ru/videolar"
+  },
+  {
+   "id": "cmui8e57500398op6c0wempj7",
+   "sourcePath": "/improving-meat-quality-in-slaughterhouses",
+   "oldDest": "/tr/blog/improving-meat-quality-in-slaughterhouses",
+   "newDest": "/blog/improving-meat-quality-in-slaughterhouses"
+  },
+  {
+   "id": "cmui8e59f003a8op6vrqw3ar8",
+   "sourcePath": "/hydraulic-hide-puller-or-mechanical-hide-puller-which-is-better",
+   "oldDest": "/tr/blog/hydraulic-hide-puller-or-mechanical-hide-puller-which-is-better",
+   "newDest": "/blog"
+  },
+  {
+   "id": "cmui8e5br003b8op6mew9yiox",
+   "sourcePath": "/tripe-waste-pumps-hygienic-cost-effective",
+   "oldDest": "/tr/blog/tripe-waste-pumps-hygienic-cost-effective",
+   "newDest": "/blog"
+  },
+  {
+   "id": "cmui8e5e2003c8op6skkwlt7y",
+   "sourcePath": "/how-carcass-conveying-systems-affect-meat-quality",
+   "oldDest": "/tr/blog/how-carcass-conveying-systems-affect-meat-quality",
+   "newDest": "/blog"
+  },
+  {
+   "id": "cmui8e5gd003d8op6qy7vxrjl",
+   "sourcePath": "/reducing-animal-stress-before-slaughter",
+   "oldDest": "/tr/blog/reducing-animal-stress-before-slaughter",
+   "newDest": "/blog/reducing-animal-stress-before-slaughter"
+  },
+  {
+   "id": "cmui8e5ip003e8op60ohrgi3a",
+   "sourcePath": "/how-to-save-energy-in-slaughterhouses",
+   "oldDest": "/tr/blog/how-to-save-energy-in-slaughterhouses",
+   "newDest": "/blog/how-to-save-energy-in-slaughterhouses"
+  },
+  {
+   "id": "cmui8e5l2003f8op6sgjhocj2",
+   "sourcePath": "/can-small-farms-use-slaughterhouse-machines",
+   "oldDest": "/tr/blog/can-small-farms-use-slaughterhouse-machines",
+   "newDest": "/blog/can-small-farms-use-slaughterhouse-machines"
+  },
+  {
+   "id": "cmui8e5nf003g8op6yqg547vm",
+   "sourcePath": "/small-large-ruminant-slaughterhouses",
+   "oldDest": "/tr/blog/small-large-ruminant-slaughterhouses",
+   "newDest": "/blog/small-large-ruminant-slaughterhouses"
+  },
+  {
+   "id": "cmui8e5pp003h8op6qr98qql6",
+   "sourcePath": "/build-slaughterhouse-step-by-step",
+   "oldDest": "/tr/blog/build-slaughterhouse-step-by-step",
+   "newDest": "/blog/build-slaughterhouse-step-by-step"
+  },
+  {
+   "id": "cmui8e5rz003i8op6f181l74w",
+   "sourcePath": "/financial-benefits-of-slaughterhouse-automation",
+   "oldDest": "/tr/blog/financial-benefits-of-slaughterhouse-automation",
+   "newDest": "/blog/financial-benefits-of-slaughterhouse-automation"
+  },
+  {
+   "id": "cmui8e5uc003j8op67wh4pva9",
+   "sourcePath": "/documents-required-for-slaughterhouse-installation",
+   "oldDest": "/tr/blog/documents-required-for-slaughterhouse-installation",
+   "newDest": "/blog/documents-required-for-slaughterhouse-installation"
+  },
+  {
+   "id": "cmui8e5wo003k8op6b8vs5agb",
+   "sourcePath": "/do-slaughterhouse-machines-affect-meat-quality",
+   "oldDest": "/tr/blog/do-slaughterhouse-machines-affect-meat-quality",
+   "newDest": "/blog/do-slaughterhouse-machines-affect-meat-quality"
+  },
+  {
+   "id": "cmui8e5yy003l8op63qr55zx2",
+   "sourcePath": "/slaughterhouse-automation-efficiency-boost",
+   "oldDest": "/tr/blog/slaughterhouse-automation-efficiency-boost",
+   "newDest": "/blog/slaughterhouse-automation-efficiency-boost"
+  },
+  {
+   "id": "cmui8e618003m8op6j0f5x49c",
+   "sourcePath": "/how-to-protect-animal-welfare-in-slaughterhouse-design",
+   "oldDest": "/tr/blog/how-to-protect-animal-welfare-in-slaughterhouse-design",
+   "newDest": "/blog/how-to-protect-animal-welfare-in-slaughterhouse-design"
+  },
+  {
+   "id": "cmui8e63k003n8op66m1q2acx",
+   "sourcePath": "/are-slaughterhouse-machines-safe-for-animals-and-workers",
+   "oldDest": "/tr/blog/are-slaughterhouse-machines-safe-for-animals-and-workers",
+   "newDest": "/blog/are-slaughterhouse-machines-safe-for-animals-and-workers"
+  },
+  {
+   "id": "cmui8e65u003o8op6q7aqaw0r",
+   "sourcePath": "/latest-slaughterhouse-equipment",
+   "oldDest": "/tr/blog/latest-slaughterhouse-equipment",
+   "newDest": "/blog/latest-slaughterhouse-equipment"
+  },
+  {
+   "id": "cmui8e685003p8op6b0gc0pnx",
+   "sourcePath": "/how-long-does-it-take-to-process-one-animal-with-modern-machines",
+   "oldDest": "/tr/blog/how-long-does-it-take-to-process-one-animal-with-modern-machines",
+   "newDest": "/blog/how-long-does-it-take-to-process-one-animal-with-modern-machines"
+  },
+  {
+   "id": "cmui8e6ag003q8op6czfltzkx",
+   "sourcePath": "/modern-slaughterhouse-equipment-and-how-they-work",
+   "oldDest": "/tr/blog/modern-slaughterhouse-equipment-and-how-they-work",
+   "newDest": "/blog/modern-slaughterhouse-equipment-and-how-they-work"
+  },
+  {
+   "id": "cmui8e6cu003r8op6h6xly51a",
+   "sourcePath": "/modern-slaughterhouse-systems-guide",
+   "oldDest": "/tr/blog/modern-slaughterhouse-systems-guide",
+   "newDest": "/blog/modern-slaughterhouse-systems-guide"
+  },
+  {
+   "id": "cmui8e6f3003s8op6vmvqgh9r",
+   "sourcePath": "/secure-slaughterhouse-machinery-shop",
+   "oldDest": "/tr/blog/secure-slaughterhouse-machinery-shop",
+   "newDest": "/blog/secure-slaughterhouse-machinery-shop"
+  },
+  {
+   "id": "cmui8e6jq003u8op6buqescz2",
+   "sourcePath": "/robotic-slaughterhouse-systems-overview",
+   "oldDest": "/tr/blog/robotic-slaughterhouse-systems-overview",
+   "newDest": "/blog"
+  },
+  {
+   "id": "cmui8e6m1003v8op6lxemar4z",
+   "sourcePath": "/what-are-the-most-common-machines-used-in-cattle-slaughter",
+   "oldDest": "/tr/blog/what-are-the-most-common-machines-used-in-cattle-slaughter",
+   "newDest": "/blog/what-are-the-most-common-machines-used-in-cattle-slaughter"
+  },
+  {
+   "id": "cmui8e6oc003w8op6q21hoch9",
+   "sourcePath": "/how-to-ensure-hygiene-in-slaughterhouse",
+   "oldDest": "/tr/blog/how-to-ensure-hygiene-in-slaughterhouse",
+   "newDest": "/blog/how-to-ensure-hygiene-in-slaughterhouse"
+  },
+  {
+   "id": "cmui8e6qo003x8op60f01ww5n",
+   "sourcePath": "/how-to-reduce-manual-cutting-errors-with-a-foot-cutting-shear",
+   "oldDest": "/tr/blog/how-to-reduce-manual-cutting-errors-with-a-foot-cutting-shear",
+   "newDest": "/blog"
+  },
+  {
+   "id": "cmui8e6t0003y8op6gsocwve9",
+   "sourcePath": "/meat-cutting-saws-for-fast-and-safe-processing",
+   "oldDest": "/tr/blog/meat-cutting-saws-for-fast-and-safe-processing",
+   "newDest": "/blog"
+  },
+  {
+   "id": "cmui8e6vb003z8op6ka1dme42",
+   "sourcePath": "/how-automatic-skinning-systems-reduce-labor-costs",
+   "oldDest": "/tr/blog/how-automatic-skinning-systems-reduce-labor-costs",
+   "newDest": "/blog"
+  },
+  {
+   "id": "cmui8e6xm00408op6h9avk4fc",
+   "sourcePath": "/how-do-cold-rooms-and-twin-rail-systems-affect-meat-quality",
+   "oldDest": "/tr/blog/how-do-cold-rooms-and-twin-rail-systems-affect-meat-quality",
+   "newDest": "/blog"
+  },
+  {
+   "id": "cmui8e6zy00418op69qo316z0",
+   "sourcePath": "/2018-slaughterhouse-catalog",
+   "oldDest": "/tr/catalogs/2018-mezbaha-sistemleri-katalog",
+   "newDest": "/kataloglar/2024-mezbaha-teknolojileri-katalog"
+  },
+  {
+   "id": "cmui8e79700458op6z889pwrb",
+   "sourcePath": "/project-images",
+   "oldDest": "/tr/projects",
+   "newDest": "/projeler"
+  },
+  {
+   "id": "cmui8e54t00388op6o0c5rtlv",
+   "sourcePath": "/tips-for-fast-and-hygienic-cutting-with-a-brisket-saw",
+   "oldDest": "/tr/blog/tips-for-fast-and-hygienic-cutting-with-a-brisket-saw",
+   "newDest": "/blog"
+  },
+  {
+   "id": "cmui8e7bk00468op6aoze6ocb",
+   "sourcePath": "/slaughterhouse-project",
+   "oldDest": "/tr/projects",
+   "newDest": "/projeler"
+  },
+  {
+   "id": "cmui8e7ik00498op6nb7c2v9p",
+   "sourcePath": "/sales-network",
+   "oldDest": "/tr/corporate",
+   "newDest": "/hakkimizda"
+  },
+  {
+   "id": "cmui8e7kv004a8op6yuslm3jg",
+   "sourcePath": "/representations",
+   "oldDest": "/tr/corporate",
+   "newDest": "/hakkimizda"
+  },
+  {
+   "id": "cmui8e7n5004b8op6k7lo9ju5",
+   "sourcePath": "/slaughterhouse-product-videos",
+   "oldDest": "/tr/videos",
+   "newDest": "/videolar"
+  },
+  {
+   "id": "cmumn57b90000s0p6d8g39aro",
+   "sourcePath": "/catalogs/2018-mezbaha-sistemleri-katalog",
+   "oldDest": "/catalogs/2024-mezbaha-teknolojileri-katalog",
+   "newDest": "/kataloglar/2024-mezbaha-teknolojileri-katalog"
+  }
+ ],
+ "addEnDuplicates": [
+  {
+   "sourcePath": "/en/cattle-stunning-box",
+   "destinationPath": "/urun/halal-cattle-stunning-box"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-carcass-spliting-saw",
+   "destinationPath": "/urun/carcass-splitting-saw"
+  },
+  {
+   "sourcePath": "/en/return-line-and-hook-lowering-helix",
+   "destinationPath": "/urun/return-line-and-hook-lowering-helix"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-equipments",
+   "destinationPath": "/urunler/cattle-slaughterhouse"
+  },
+  {
+   "sourcePath": "/en/robotic",
+   "destinationPath": "/urunler"
+  },
+  {
+   "sourcePath": "/en/mini-slaughterhouse",
+   "destinationPath": "/urunler/mini-slaughterhouse"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-processing",
+   "destinationPath": "/urunler/slaughterhouse-processing"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-equipment-brisket-saw",
+   "destinationPath": "/urun/brisket-saw"
+  },
+  {
+   "sourcePath": "/en/slaughtering-equipment-carcass-loading-arm",
+   "destinationPath": "/urun/carcass-loading-arm"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-cattle-box",
+   "destinationPath": "/urun/cattle-slaughter-box"
+  },
+  {
+   "sourcePath": "/en/hydraulic-skinning-machine",
+   "destinationPath": "/urun/hydraulic-skinning-machine"
+  },
+  {
+   "sourcePath": "/en/leg-cuttine-machine",
+   "destinationPath": "/urun/leg-and-horn-cutter"
+  },
+  {
+   "sourcePath": "/en/quarter-elevator",
+   "destinationPath": "/urun/quartering-elevator"
+  },
+  {
+   "sourcePath": "/en/pneumatic-transferring-platform",
+   "destinationPath": "/urun/pneumatic-transferring-platform"
+  },
+  {
+   "sourcePath": "/en/pneumatic-evisceration-platform",
+   "destinationPath": "/urun/pneumatic-evisceration-platform"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-hook",
+   "destinationPath": "/urun/slaughterhouse-hook"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-tripe-waste-pump",
+   "destinationPath": "/urun/slaughterhouse-tripe-waste-pump"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-monorail-twinrail",
+   "destinationPath": "/urun/monorail-and-twin-rail-systems"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-saw-sterilizers",
+   "destinationPath": "/urun/slaughterhouse-saw-sterilizers"
+  },
+  {
+   "sourcePath": "/en/crane",
+   "destinationPath": "/urun/cattle-bleeding-crane"
+  },
+  {
+   "sourcePath": "/en/cattle-bleeding-elevator",
+   "destinationPath": "/urun/cattle-bleeding-elevator"
+  },
+  {
+   "sourcePath": "/en/cattle-processing-line",
+   "destinationPath": "/urun/cattle-processing-line"
+  },
+  {
+   "sourcePath": "/en/liver-konveyor",
+   "destinationPath": "/urun/liver-conveyor"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-washbasin",
+   "destinationPath": "/urun/slaughterhouse-washbasin"
+  },
+  {
+   "sourcePath": "/en/boot-washing-stations",
+   "destinationPath": "/urun/boot-washing-stations"
+  },
+  {
+   "sourcePath": "/en/boot-hanger",
+   "destinationPath": "/urun/boot-hanger"
+  },
+  {
+   "sourcePath": "/en/foot-washing-machine",
+   "destinationPath": "/urun/foot-washing-machine"
+  },
+  {
+   "sourcePath": "/en/brain-removal-machine",
+   "destinationPath": "/urun/brain-extraction-machine"
+  },
+  {
+   "sourcePath": "/en/leather-cleaning-pan",
+   "destinationPath": "/urun/leather-cleaning-pan"
+  },
+  {
+   "sourcePath": "/en/tripe-cleaning-pan",
+   "destinationPath": "/urun/tripe-cleaning-pan"
+  },
+  {
+   "sourcePath": "/en/lung-cleaning-pan",
+   "destinationPath": "/urun/liver-cleaning-pan"
+  },
+  {
+   "sourcePath": "/en/kurutmali-kan-tanki",
+   "destinationPath": "/urun/blood-tank-with-drying-unit"
+  },
+  {
+   "sourcePath": "/en/mechanical-leather-skinning",
+   "destinationPath": "/urun/mechanical-leather-skinning"
+  },
+  {
+   "sourcePath": "/en/fixed-platform",
+   "destinationPath": "/urun/fixed-tail-opening-platform"
+  },
+  {
+   "sourcePath": "/en/fixed-transfer-platform",
+   "destinationPath": "/urun/fixed-transfer-platform"
+  },
+  {
+   "sourcePath": "/en/fixed-offals-platform",
+   "destinationPath": "/urun/fixed-offal-platform"
+  },
+  {
+   "sourcePath": "/en/meat-deboning-worktable",
+   "destinationPath": "/urun/meat-cutting-table"
+  },
+  {
+   "sourcePath": "/en/transfer-crane",
+   "destinationPath": "/urun/transfer-crane"
+  },
+  {
+   "sourcePath": "/en/pneumatic-machine-for-hind-legs",
+   "destinationPath": "/urun/pneumatic-machine-for-hind-legs"
+  },
+  {
+   "sourcePath": "/en/bleeding-hook",
+   "destinationPath": "/urun/bleeding-hook"
+  },
+  {
+   "sourcePath": "/en/twin-rail-hook",
+   "destinationPath": "/urun/twin-rail-hook"
+  },
+  {
+   "sourcePath": "/en/channel-and-grill",
+   "destinationPath": "/urun/drain-channel-and-grate"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-ritual-cattle-killing-box",
+   "destinationPath": "/urun/circular-stunning-box"
+  },
+  {
+   "sourcePath": "/en/leather-band-conveyor",
+   "destinationPath": "/urun/leather-band-conveyor"
+  },
+  {
+   "sourcePath": "/en/bleeding-pan",
+   "destinationPath": "/urun/bleeding-pan"
+  },
+  {
+   "sourcePath": "/en/blood-tank",
+   "destinationPath": "/urun/blood-tank"
+  },
+  {
+   "sourcePath": "/en/offal-hanger",
+   "destinationPath": "/urun/offal-hanger"
+  },
+  {
+   "sourcePath": "/en/sheep-processing-conveyor",
+   "destinationPath": "/urun/sheep-processing-conveyor"
+  },
+  {
+   "sourcePath": "/en/sheep-bleding-elevator",
+   "destinationPath": "/urun/sheep-bleeding-elevator"
+  },
+  {
+   "sourcePath": "/en/offal-transport-cart",
+   "destinationPath": "/urun/offal-transport-cart"
+  },
+  {
+   "sourcePath": "/en/hanger-trolley",
+   "destinationPath": "/urun/hanger-trolley"
+  },
+  {
+   "sourcePath": "/en/lung-trolley",
+   "destinationPath": "/urun/liver-trolley"
+  },
+  {
+   "sourcePath": "/en/professional-slaughterhouse-system",
+   "destinationPath": "/urun/professional-slaughterhouse-systems"
+  },
+  {
+   "sourcePath": "/en/standart-slaughterhouse-system",
+   "destinationPath": "/urun/standard-slaughterhouse-systems"
+  },
+  {
+   "sourcePath": "/en/cold-room-monorail-and-twinrail",
+   "destinationPath": "/urun/cold-room-monorail-and-twin-rail-systems"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-building-desing",
+   "destinationPath": "/urun/slaughterhouse-building-design"
+  },
+  {
+   "sourcePath": "/en/kosher-line",
+   "destinationPath": "/urun/kosher-line"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-setup-cost",
+   "destinationPath": "/blog/slaughterhouse-setup-cost"
+  },
+  {
+   "sourcePath": "/en/what-are-twin-rail-conveyor-systems-in-slaughterhouses",
+   "destinationPath": "/blog"
+  },
+  {
+   "sourcePath": "/en/cattle-stunning-systems-guide",
+   "destinationPath": "/blog/cattle-stunning-systems-guide"
+  },
+  {
+   "sourcePath": "/en/government-grants-for-slaugterhouse-setup",
+   "destinationPath": "/blog/government-grants-for-slaughterhouse-setup"
+  },
+  {
+   "sourcePath": "/en/cattle-stunning",
+   "destinationPath": "/urun/cattle-stunning"
+  },
+  {
+   "sourcePath": "/en/improving-meat-quality-in-slaughterhouses",
+   "destinationPath": "/blog/improving-meat-quality-in-slaughterhouses"
+  },
+  {
+   "sourcePath": "/en/hydraulic-hide-puller-or-mechanical-hide-puller-which-is-better",
+   "destinationPath": "/blog"
+  },
+  {
+   "sourcePath": "/en/tripe-waste-pumps-hygienic-cost-effective",
+   "destinationPath": "/blog"
+  },
+  {
+   "sourcePath": "/en/how-carcass-conveying-systems-affect-meat-quality",
+   "destinationPath": "/blog"
+  },
+  {
+   "sourcePath": "/en/reducing-animal-stress-before-slaughter",
+   "destinationPath": "/blog/reducing-animal-stress-before-slaughter"
+  },
+  {
+   "sourcePath": "/en/how-to-save-energy-in-slaughterhouses",
+   "destinationPath": "/blog/how-to-save-energy-in-slaughterhouses"
+  },
+  {
+   "sourcePath": "/en/can-small-farms-use-slaughterhouse-machines",
+   "destinationPath": "/blog/can-small-farms-use-slaughterhouse-machines"
+  },
+  {
+   "sourcePath": "/en/small-large-ruminant-slaughterhouses",
+   "destinationPath": "/blog/small-large-ruminant-slaughterhouses"
+  },
+  {
+   "sourcePath": "/en/build-slaughterhouse-step-by-step",
+   "destinationPath": "/blog/build-slaughterhouse-step-by-step"
+  },
+  {
+   "sourcePath": "/en/financial-benefits-of-slaughterhouse-automation",
+   "destinationPath": "/blog/financial-benefits-of-slaughterhouse-automation"
+  },
+  {
+   "sourcePath": "/en/documents-required-for-slaughterhouse-installation",
+   "destinationPath": "/blog/documents-required-for-slaughterhouse-installation"
+  },
+  {
+   "sourcePath": "/en/do-slaughterhouse-machines-affect-meat-quality",
+   "destinationPath": "/blog/do-slaughterhouse-machines-affect-meat-quality"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-automation-efficiency-boost",
+   "destinationPath": "/blog/slaughterhouse-automation-efficiency-boost"
+  },
+  {
+   "sourcePath": "/en/how-to-protect-animal-welfare-in-slaughterhouse-design",
+   "destinationPath": "/blog/how-to-protect-animal-welfare-in-slaughterhouse-design"
+  },
+  {
+   "sourcePath": "/en/are-slaughterhouse-machines-safe-for-animals-and-workers",
+   "destinationPath": "/blog/are-slaughterhouse-machines-safe-for-animals-and-workers"
+  },
+  {
+   "sourcePath": "/en/latest-slaughterhouse-equipment",
+   "destinationPath": "/blog/latest-slaughterhouse-equipment"
+  },
+  {
+   "sourcePath": "/en/how-long-does-it-take-to-process-one-animal-with-modern-machines",
+   "destinationPath": "/blog/how-long-does-it-take-to-process-one-animal-with-modern-machines"
+  },
+  {
+   "sourcePath": "/en/modern-slaughterhouse-equipment-and-how-they-work",
+   "destinationPath": "/blog/modern-slaughterhouse-equipment-and-how-they-work"
+  },
+  {
+   "sourcePath": "/en/modern-slaughterhouse-systems-guide",
+   "destinationPath": "/blog/modern-slaughterhouse-systems-guide"
+  },
+  {
+   "sourcePath": "/en/secure-slaughterhouse-machinery-shop",
+   "destinationPath": "/blog/secure-slaughterhouse-machinery-shop"
+  },
+  {
+   "sourcePath": "/en/robotic-slaughterhouse-systems-overview",
+   "destinationPath": "/blog"
+  },
+  {
+   "sourcePath": "/en/what-are-the-most-common-machines-used-in-cattle-slaughter",
+   "destinationPath": "/blog/what-are-the-most-common-machines-used-in-cattle-slaughter"
+  },
+  {
+   "sourcePath": "/en/how-to-ensure-hygiene-in-slaughterhouse",
+   "destinationPath": "/blog/how-to-ensure-hygiene-in-slaughterhouse"
+  },
+  {
+   "sourcePath": "/en/how-to-reduce-manual-cutting-errors-with-a-foot-cutting-shear",
+   "destinationPath": "/blog"
+  },
+  {
+   "sourcePath": "/en/meat-cutting-saws-for-fast-and-safe-processing",
+   "destinationPath": "/blog"
+  },
+  {
+   "sourcePath": "/en/how-automatic-skinning-systems-reduce-labor-costs",
+   "destinationPath": "/blog"
+  },
+  {
+   "sourcePath": "/en/how-do-cold-rooms-and-twin-rail-systems-affect-meat-quality",
+   "destinationPath": "/blog"
+  },
+  {
+   "sourcePath": "/en/2018-slaughterhouse-catalog",
+   "destinationPath": "/kataloglar/2024-mezbaha-teknolojileri-katalog"
+  },
+  {
+   "sourcePath": "/en/project-images",
+   "destinationPath": "/projeler"
+  },
+  {
+   "sourcePath": "/en/tips-for-fast-and-hygienic-cutting-with-a-brisket-saw",
+   "destinationPath": "/blog"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-project",
+   "destinationPath": "/projeler"
+  },
+  {
+   "sourcePath": "/en/sales-network",
+   "destinationPath": "/hakkimizda"
+  },
+  {
+   "sourcePath": "/en/representations",
+   "destinationPath": "/hakkimizda"
+  },
+  {
+   "sourcePath": "/en/slaughterhouse-product-videos",
+   "destinationPath": "/videolar"
+  },
+  {
+   "sourcePath": "/en/corporate",
+   "destinationPath": "/hakkimizda"
+  },
+  {
+   "sourcePath": "/en/contact-us",
+   "destinationPath": "/iletisim"
+  },
+  {
+   "sourcePath": "/en/catalogs",
+   "destinationPath": "/kataloglar"
+  },
+  {
+   "sourcePath": "/en/projects",
+   "destinationPath": "/projeler"
+  },
+  {
+   "sourcePath": "/en/references",
+   "destinationPath": "/referanslar"
+  },
+  {
+   "sourcePath": "/en/catalogs/2018-mezbaha-sistemleri-katalog",
+   "destinationPath": "/kataloglar/2024-mezbaha-teknolojileri-katalog"
+  }
+ ],
+ "reactivateFixed": [
+  {
+   "id": "cmui8e72800428op6td1j5hfb",
+   "sourcePath": "/corporate",
+   "oldDest": "/corporate",
+   "newDest": "/hakkimizda"
+  },
+  {
+   "id": "cmui8e74j00438op6lxnvyg68",
+   "sourcePath": "/contact-us",
+   "oldDest": "/contact-us",
+   "newDest": "/iletisim"
+  },
+  {
+   "id": "cmui8e76w00448op6fc19clef",
+   "sourcePath": "/catalogs",
+   "oldDest": "/catalogs",
+   "newDest": "/kataloglar"
+  },
+  {
+   "id": "cmui8e7dw00478op6me9yfgey",
+   "sourcePath": "/projects",
+   "oldDest": "/projects",
+   "newDest": "/projeler"
+  },
+  {
+   "id": "cmui8e7g900488op6zxkwh8xu",
+   "sourcePath": "/references",
+   "oldDest": "/references",
+   "newDest": "/referanslar"
+  }
+ ],
+ "addNew": [
+  {
+   "sourcePath": "/products",
+   "destinationPath": "/urunler"
+  },
+  {
+   "sourcePath": "/en/products",
+   "destinationPath": "/urunler"
+  }
+ ],
+ "unresolved": []
+}
