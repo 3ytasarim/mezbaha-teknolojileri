@@ -3,10 +3,12 @@
 import { z } from "zod";
 import { prisma } from "@/lib/db";
 import { getI18n } from "@/lib/i18n/server";
+import { sendNotificationEmail, fieldsToHtml } from "@/lib/mail";
 
 /**
  * Teklif talebi formu: doğrulama (Zod) + spam koruması (bal küpü, aynı e-postadan saatte en fazla 3, tüm sitede saatte en
- * fazla 30) + veritabanına kayıt (QuoteRequest → Admin > Talepler > Teklif Talepleri). E-posta bildirimi yoktur.
+ * fazla 30) + veritabanına kayıt (QuoteRequest → Admin > Talepler > Teklif Talepleri) + e-posta bildirimi
+ * (CONTACT_NOTIFY_EMAIL). E-posta gönderimi başarısız olsa bile form yine başarılı sayılır — veri DB'de güvende.
  */
 const PROJECT_TYPES = ["Yeni mezbaha kurulumu", "Mevcut tesise ekipman", "Modernizasyon / yenileme", "Diğer"] as const;
 
@@ -78,12 +80,37 @@ export async function submitQuoteAction(_prev: QuoteFormState, formData: FormDat
   }
 
   // Ürün yalnızca gerçekten var olan yayınlı bir ürünse bağlanır
-  const product = productId ? await prisma.product.findFirst({ where: { id: productId, status: "PUBLISHED" }, select: { id: true } }) : null;
+  const product = productId
+    ? await prisma.product.findFirst({
+        where: { id: productId, status: "PUBLISHED" },
+        select: { id: true, translations: { where: { locale: "tr" }, select: { name: true } } },
+      })
+    : null;
 
   try {
     await prisma.quoteRequest.create({ data: { ...data, productId: product?.id } });
   } catch {
     return { status: "error", message: f.quoteFailed };
+  }
+
+  try {
+    await sendNotificationEmail({
+      subject: `Yeni teklif talebi: ${data.company}`,
+      html: fieldsToHtml("Yeni Teklif Talebi", [
+        { label: "Ad Soyad", value: data.name },
+        { label: "Firma", value: data.company },
+        { label: "E-posta", value: data.email },
+        { label: "Telefon", value: data.phone },
+        { label: "Ülke", value: data.country },
+        { label: "Ürün", value: product?.translations[0]?.name },
+        { label: "Proje Tipi", value: data.projectType },
+        { label: "Kapasite", value: data.capacity },
+        { label: "Mesaj", value: data.message },
+      ]),
+      replyTo: data.email,
+    });
+  } catch (err) {
+    console.error("Teklif talebi bildirim e-postası gönderilemedi:", err);
   }
 
   return { status: "success", message: f.quoteSuccess };

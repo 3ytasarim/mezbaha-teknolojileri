@@ -3,11 +3,12 @@
 import { z } from "zod";
 import { prisma } from "@/lib/db";
 import { getI18n } from "@/lib/i18n/server";
+import { sendNotificationEmail, fieldsToHtml } from "@/lib/mail";
 
 /**
  * İletişim formu: doğrulama (Zod) + spam koruması (bal küpü alanı, aynı e-postadan saatte en fazla 3, tüm sitede saatte
- * en fazla 30 kayıt) + veritabanına kayıt (ContactSubmission → Admin > Talepler > İletişim). E-posta bildirimi yoktur;
- * mesajlar yönetim panelinde görünür.
+ * en fazla 30 kayıt) + veritabanına kayıt (ContactSubmission → Admin > Talepler > İletişim) + e-posta bildirimi
+ * (CONTACT_NOTIFY_EMAIL). E-posta gönderimi başarısız olsa bile form yine başarılı sayılır — veri DB'de güvende.
  */
 const makeSchema = (e: { name: string; email: string; message: string; messageMax: string; consent: string }) =>
   z.object({
@@ -75,6 +76,23 @@ export async function submitContactAction(_prev: ContactFormState, formData: For
     await prisma.contactSubmission.create({ data });
   } catch {
     return { status: "error", message: f.contactFailed };
+  }
+
+  try {
+    await sendNotificationEmail({
+      subject: `Yeni iletişim formu: ${data.name}`,
+      html: fieldsToHtml("Yeni İletişim Formu", [
+        { label: "Ad Soyad", value: data.name },
+        { label: "E-posta", value: data.email },
+        { label: "Telefon", value: data.phone },
+        { label: "Firma", value: data.company },
+        { label: "Konu", value: data.subject },
+        { label: "Mesaj", value: data.message },
+      ]),
+      replyTo: data.email,
+    });
+  } catch (err) {
+    console.error("İletişim bildirim e-postası gönderilemedi:", err);
   }
 
   return { status: "success", message: f.contactSuccess };
