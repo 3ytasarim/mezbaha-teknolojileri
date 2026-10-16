@@ -5,6 +5,7 @@ import { CheckCircle2, Loader2, Send } from "lucide-react";
 import { Button3D } from "@/components/ui/button-3d";
 import { useDict } from "@/components/i18n/locale-provider";
 import { reportLeadFormConversion } from "@/lib/analytics/google-ads";
+import { reportContactFormSubmitted } from "@/lib/analytics/datalayer";
 import { submitContactAction, type ContactFormState } from "@/app/(public)/iletisim/actions";
 
 const initialState: ContactFormState = { status: "idle" };
@@ -48,7 +49,10 @@ export function ContactForm({ className = "", bare = false }: { className?: stri
   const errors = state.fieldErrors ?? {};
 
   useEffect(() => {
-    if (state.status === "success") reportLeadFormConversion();
+    if (state.status === "success") {
+      reportLeadFormConversion();
+      reportContactFormSubmitted();
+    }
   }, [state.status]);
 
   if (state.status === "success") {

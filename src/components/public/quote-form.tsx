@@ -5,6 +5,7 @@ import { CheckCircle2, Loader2, Send } from "lucide-react";
 import { Button3D } from "@/components/ui/button-3d";
 import { useDict } from "@/components/i18n/locale-provider";
 import { reportLeadFormConversion } from "@/lib/analytics/google-ads";
+import { reportQuoteFormSubmitted } from "@/lib/analytics/datalayer";
 import { submitQuoteAction, type QuoteFormState } from "@/app/(public)/teklif-al/actions";
 
 const initialState: QuoteFormState = { status: "idle" };
@@ -41,7 +42,10 @@ export function QuoteForm({ products, defaultProductId }: { products: QuoteProdu
   const errors = state.fieldErrors ?? {};
 
   useEffect(() => {
-    if (state.status === "success") reportLeadFormConversion();
+    if (state.status === "success") {
+      reportLeadFormConversion();
+      reportQuoteFormSubmitted();
+    }
   }, [state.status]);
 
   if (state.status === "success") {
