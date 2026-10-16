@@ -3,6 +3,7 @@ import { Archivo, Inter } from "next/font/google";
 import { getSiteUrl, SITE_NAME } from "@/lib/seo/site";
 import { getLocale } from "@/lib/i18n/server";
 import { dirOf } from "@/lib/i18n/config";
+import { GoogleTagManager, GoogleTagManagerNoscript } from "@/components/analytics/google-tag-manager";
 import "./globals.css";
 
 const archivo = Archivo({
@@ -33,7 +34,11 @@ export default async function RootLayout({ children }: LayoutProps<"/">) {
       dir={dirOf(locale)}
       className={`${archivo.variable} ${inter.variable} h-full antialiased`}
     >
-      <body className="flex min-h-full flex-col font-sans">{children}</body>
+      <body className="flex min-h-full flex-col font-sans">
+        <GoogleTagManagerNoscript />
+        {children}
+      </body>
+      <GoogleTagManager />
     </html>
   );
 }
