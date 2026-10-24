@@ -362,6 +362,10 @@ model BlogPostTranslation {
   /// Dile özgü URL parçası (i18n). Boşsa o dilde sayfa yok.
   slug String?
 
+  /// Kapak görseli için dile özgü açıklayıcı alt metni (Google Images/erişilebilirlik). Boşsa Türkçede
+  /// BlogPost.coverImageAlt, diğer dillerde başlık kullanılır — başka dilin alt metni asla sızmaz.
+  imageAlt String?
+
   @@unique([blogPostId, locale])
   @@unique([locale, slug])
   @@index([locale])

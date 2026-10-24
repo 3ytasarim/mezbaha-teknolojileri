@@ -9,6 +9,7 @@ import { blogJsonLd, breadcrumbListJsonLd, jsonLdScriptProps } from "@/lib/seo/j
 import { getBlogListing } from "@/lib/queries";
 import { SectionHeading } from "@/components/public/section-heading";
 import { BlogCard } from "@/components/public/blog-card";
+import { blogCoverAlt } from "@/lib/blog-media";
 
 export async function generateMetadata(): Promise<Metadata> {
   const { locale, d } = await getI18n();
@@ -64,6 +65,7 @@ export default async function BlogListingPage() {
               title={t?.title ?? post.slug}
               excerpt={t?.excerpt}
               image={post.coverImage}
+              imageAlt={blogCoverAlt(post, t, locale)}
               category={post.category?.translations[0]?.name}
               publishedAt={post.publishedAt}
             />

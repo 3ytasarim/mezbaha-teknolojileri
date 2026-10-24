@@ -14,6 +14,7 @@ import { getBlogPostBySlug, getRecentBlogPosts, getRelatedBlogPosts, getLocaleSl
 import { entityAlternates } from "@/lib/i18n/alternates";
 import { SITE_NAME, getSiteUrl } from "@/lib/seo/site";
 import { tagHref, tagLabel } from "@/lib/blog-tags";
+import { blogCoverAlt } from "@/lib/blog-media";
 import { SectionHeading } from "@/components/public/section-heading";
 import { BlogCard } from "@/components/public/blog-card";
 import { ShareButtons } from "@/components/public/share-buttons";
@@ -58,6 +59,7 @@ export default async function BlogPostDetailPage({ params }: PageProps<"/blog/[s
   const intl = LOCALE_META[locale].intl;
 
   const translation = post.translations[0];
+  const coverAlt = blogCoverAlt(post, translation, locale);
   const authorName = post.authorType === "company" ? SITE_NAME : (post.authorName ?? SITE_NAME);
   const siteUrl = getSiteUrl();
   const postUrl = `${siteUrl}${localizePath(locale, `/blog/${postSlug}`)}`;
@@ -101,7 +103,7 @@ export default async function BlogPostDetailPage({ params }: PageProps<"/blog/[s
             locale,
             breadcrumbId: breadcrumbId(blogPath),
             primaryImage: post.coverImage
-              ? { url: post.coverImage, name: translation?.title ?? post.slug, ...(coverImageMeta ? { dimensions: coverImageMeta } : {}) }
+              ? { url: post.coverImage, name: coverAlt, ...(coverImageMeta ? { dimensions: coverImageMeta } : {}) }
               : undefined,
           })
         )}
@@ -151,7 +153,7 @@ export default async function BlogPostDetailPage({ params }: PageProps<"/blog/[s
           <div className="relative mt-8 aspect-[16/9] overflow-hidden bg-muted">
             <Image
               src={post.coverImage}
-              alt={translation?.title ?? post.slug}
+              alt={coverAlt}
               fill
               fetchPriority="high"
               loading="eager"
@@ -204,6 +206,7 @@ export default async function BlogPostDetailPage({ params }: PageProps<"/blog/[s
                   title={t?.title ?? item.slug}
                   excerpt={t?.excerpt}
                   image={item.coverImage}
+                  imageAlt={blogCoverAlt(item, t, locale)}
                   publishedAt={item.publishedAt}
                   sizes="(min-width: 1024px) 380px, (min-width: 640px) 50vw, 100vw"
                 />

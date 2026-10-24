@@ -12,6 +12,7 @@ import { getBlogTagWithPosts } from "@/lib/queries";
 import { tagLabel } from "@/lib/blog-tags";
 import { SectionHeading } from "@/components/public/section-heading";
 import { BlogCard } from "@/components/public/blog-card";
+import { blogCoverAlt } from "@/lib/blog-media";
 
 /** Etiket sayfası: /blog/etiket/<slug> — etikete sahip yazıların listesi (konu kümesi, iç bağlantı ve SEO için). */
 export async function generateMetadata({ params }: PageProps<"/blog/etiket/[slug]">): Promise<Metadata> {
@@ -84,6 +85,7 @@ export default async function BlogTagPage({ params }: PageProps<"/blog/etiket/[s
               title={t?.title ?? post.slug}
               excerpt={t?.excerpt}
               image={post.coverImage}
+              imageAlt={blogCoverAlt(post, t, locale)}
               category={post.category?.translations[0]?.name}
               publishedAt={post.publishedAt}
             />
