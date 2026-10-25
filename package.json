@@ -15,7 +15,10 @@
     "import:verified-content": "tsx prisma/seed-content.ts",
     "migrate:content": "tsx prisma/migrate-content.ts",
     "validate:site": "tsx prisma/migration/validate-site.ts",
-    "i18n:check": "tsx prisma/migration/i18n-check.ts"
+    "i18n:check": "tsx prisma/migration/i18n-check.ts",
+    "redirects:selftest": "tsx prisma/migration/redirect-selftest.ts",
+    "redirects:check": "tsx prisma/migration/check-redirects.ts",
+    "test:redirects": "tsx --test tests/redirects/*.test.ts"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.1141.0",

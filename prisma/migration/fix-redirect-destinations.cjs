@@ -17,7 +17,16 @@
  *    veriyorlar. Önek'siz her kayıt için aynı (düzeltilmiş) hedefe giden bir "/en/..." eşleniği eklendi.
  *
  * Kullanım: node prisma/migration/fix-redirect-destinations.cjs [--apply]
+ *
+ * !! KULLANIMDAN KALDIRILDI (S1-01, 2026-10-25): bu betik hedefleri sabit TÜRKÇE iç yollara (/urun/…, /urunler) çevirir; sitenin
+ * gerçek canonical adresleri ise dile göre yerelleşir (/product/…, /products, /ru/produkt/…). 13 Ekim'de çalıştırılması 204 kurala
+ * canonical olmayan hedef yazdı ve 7 canonical URL'yi 301'e çevirdi. Yeniden çalıştırılmamalıdır; düzeltme için
+ * prisma/migration/s1-01-redirect-recovery.cjs ve docs/seo/USA_SEO_S1_01_*.md kullanılır.
  */
+if (!process.argv.includes("--i-know-this-reintroduces-the-regression")) {
+  console.error("Bu betik kullanımdan kaldırıldı (bkz. dosya başı). Çıkılıyor.");
+  process.exit(1);
+}
 require("dotenv/config");
 const { PrismaClient } = require("@prisma/client");
 const { PrismaPg } = require("@prisma/adapter-pg");

@@ -2,7 +2,8 @@ import Link from "next/link";
 import { requireAdmin } from "@/lib/auth/guard";
 import { prisma } from "@/lib/db";
 import { DeleteButton } from "@/components/admin/delete-button";
-import { deleteRedirectAction, toggleRedirectAction } from "./actions";
+import { deleteRedirectAction } from "./actions";
+import { ToggleRedirectButton } from "./toggle-redirect-button";
 import type { Prisma } from "@prisma/client";
 
 const PAGE_SIZE = 25;
@@ -89,11 +90,7 @@ export default async function AdminRedirectsPage({ searchParams }: PageProps<"/a
                 </td>
                 <td className="px-4 py-3">
                   <div className="flex items-center justify-end gap-4">
-                    <form action={toggleRedirectAction.bind(null, row.id)}>
-                      <button type="submit" className="text-sm font-medium text-neutral-300 hover:text-white">
-                        {row.active ? "Kapat" : "Aç"}
-                      </button>
-                    </form>
+                    <ToggleRedirectButton id={row.id} active={row.active} />
                     <Link href={`/admin/seo/redirectler/${row.id}`} className="text-sm font-medium text-neutral-100 hover:underline">
                       Düzenle
                     </Link>
