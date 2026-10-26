@@ -14,9 +14,9 @@ import { HERO } from "@/content/home";
  * bu paylaşım etiketlerini değiştirir — sayfanın gerçek title/description'ı (Google için)
  * ve diğer dillerin (/tr, /de, ...) kendi metadata'sı DOKUNULMAZ (bkz. src/lib/seo/metadata.ts).
  */
-const APEX_OG_TITLE = "Slaughterhouse Technologies | Modern Slaughtering & Meat Processing Systems";
+const APEX_OG_TITLE = "Slaughterhouse Equipment & Machinery | Mezbaha Teknolojileri";
 const APEX_OG_DESCRIPTION =
-  "Modern slaughtering lines, equipment and industrial solutions for slaughterhouses and meat processing facilities.";
+  "Slaughterhouse equipment for cattle and sheep: stunning boxes, skinning machines, saws, platforms, hooks, rail and conveyor systems. Request a quote.";
 const APEX_OG_IMAGE_PATH = "/images/og/mezbaha-teknolojileri-og.jpg";
 
 import { Hero } from "@/components/home/hero";

@@ -15,6 +15,7 @@ import { getProductBySlug, getRelatedProducts, getLocaleSlugs } from "@/lib/quer
 import { resolveCoverImage, resolveGalleryImageUrl } from "@/lib/product-media";
 import { entityAlternates } from "@/lib/i18n/alternates";
 import { getSiteUrl } from "@/lib/seo/site";
+import { isVerifiedOwnBrand } from "@/lib/seo/product-brand";
 import { productWhatsappMessage, whatsappUrl } from "@/lib/whatsapp";
 import { getContactSettings, whatsappOf } from "@/lib/site-settings";
 import { youtubeId } from "@/lib/youtube";
@@ -106,8 +107,8 @@ export default async function ProductDetailPage({ params }: PageProps<"/urun/[sl
             images: allImageUrls.length > 0 ? allImageUrls : [new URL("/favicon.ico", siteUrl).toString()],
             categoryName: categoryTranslation?.name,
             sku: product.sku ?? undefined,
-            // Ürünlerin gerçek üreticisi/markası biziz (site içeriğinde doğrulanabilir) — uydurma brand değil.
-            brandRef: true,
+            // brand yalnızca üretici/marka olduğumuz doğrulanmış ürünlerde (src/lib/seo/product-brand.ts; şimdilik boş liste).
+            brandRef: isVerifiedOwnBrand(product.slug),
             locale,
           })
         )}

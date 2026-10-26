@@ -18,7 +18,8 @@
     "i18n:check": "tsx prisma/migration/i18n-check.ts",
     "redirects:selftest": "tsx prisma/migration/redirect-selftest.ts",
     "redirects:check": "tsx prisma/migration/check-redirects.ts",
-    "test:redirects": "tsx --test tests/redirects/*.test.ts"
+    "test:redirects": "tsx --test tests/redirects/*.test.ts",
+    "test:seo": "tsx --test tests/seo/*.test.ts"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.1141.0",
