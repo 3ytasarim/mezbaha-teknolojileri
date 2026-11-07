@@ -1,0 +1,116 @@
+{
+  "postId": "01-workflow",
+  "translationGroup": "01-workflow",
+  "locale": "ar",
+  "htmlLang": "ar",
+  "htmlDir": "rtl",
+  "draft": true,
+  "h1": "سير العمل في خط ذبح الأبقار: تخطيط نقاط النقل بتصميم ثلاثي الأبعاد",
+  "metaTitle": "تخطيط سير العمل في خط ذبح الأبقار بتصميم ثلاثي الأبعاد",
+  "metaDescription": "تعرف على تخطيط سير العمل في خط ذبح الأبقار بتصميم ثلاثي الأبعاد، من نقل الذبائح إلى محطات التجهيز وفصل المسارات والطاقة الإنتاجية.",
+  "excerpt": "دليل عملي يوضح نقاط تحويل الذبائح ومراحل التشغيل والمعلومات اللازمة لطلب عرض سعر لمعدات المسلخ.",
+  "slug": "takhtit-sayr-amal-khat-dhabh-al-abqar-3d",
+  "primaryKeyword": "خط ذبح الأبقار",
+  "secondaryKeywords": [
+    "تخطيط المسالخ ثلاثي الأبعاد",
+    "معدات مسالخ الأبقار",
+    "نقل الذبائح",
+    "تصميم خط تجهيز اللحوم"
+  ],
+  "canonicalCandidate": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-sayr-amal-khat-dhabh-al-abqar-3d",
+  "hreflangCandidates": {
+    "en-US": "https://www.mezbahateknolojileri.com/blog/cattle-slaughter-line-process-flow-3d",
+    "de": "https://www.mezbahateknolojileri.com/de/blog/rinderschlachtlinie-prozessablauf-3d",
+    "ar": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-sayr-amal-khat-dhabh-al-abqar-3d",
+    "tr": "https://www.mezbahateknolojileri.com/tr/blog/buyukbas-kesim-hatti-is-akisi-3d",
+    "ru": "https://www.mezbahateknolojileri.com/ru/blog/liniya-uboya-krs-tekhnologicheskiy-potok-3d",
+    "fr": "https://www.mezbahateknolojileri.com/fr/blog/flux-ligne-abattage-bovin-transferts-3d",
+    "x-default": "https://www.mezbahateknolojileri.com/blog/cattle-slaughter-line-process-flow-3d"
+  },
+  "robots": "index, follow",
+  "openGraph": {
+    "type": "article",
+    "title": "تخطيط سير العمل في خط ذبح الأبقار بتصميم ثلاثي الأبعاد",
+    "description": "تعرف على تخطيط سير العمل في خط ذبح الأبقار بتصميم ثلاثي الأبعاد، من نقل الذبائح إلى محطات التجهيز وفصل المسارات والطاقة الإنتاجية.",
+    "url": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-sayr-amal-khat-dhabh-al-abqar-3d",
+    "locale": "ar",
+    "imageCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-og.jpg",
+    "imageAlt": "تصميم ثلاثي الأبعاد لخط ذبح الأبقار يوضح مناطق النقل والسكك العلوية ومنصات تجهيز الذبائح"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "تخطيط سير العمل في خط ذبح الأبقار بتصميم ثلاثي الأبعاد",
+    "description": "تعرف على تخطيط سير العمل في خط ذبح الأبقار بتصميم ثلاثي الأبعاد، من نقل الذبائح إلى محطات التجهيز وفصل المسارات والطاقة الإنتاجية."
+  },
+  "imageSEO": {
+    "sourceOriginal": "WhatsApp Image 2026-11-05 at 12.08.21 (1).jpeg",
+    "webpFilename": "cattle-slaughter-line-process-flow-3d.webp",
+    "webpCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d.webp",
+    "width": 1600,
+    "height": 900,
+    "alt": "تصميم ثلاثي الأبعاد لخط ذبح الأبقار يوضح مناطق النقل والسكك العلوية ومنصات تجهيز الذبائح",
+    "caption": "الشكل 1. نموذج تصوري لمناطق نقل الذبائح والهيكل الحامل ومحطات العمل على خط الأبقار.",
+    "isConceptual3DRendering": true,
+    "responsiveSrcset": [
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d-800w.webp",
+        "width": 800
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d-1200w.webp",
+        "width": 1200
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d-1600w.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "contentFile": "posts/01-workflow/ar.md",
+  "author": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "expertReview": {
+    "status": "not_verified",
+    "note": "Do not publish expert-reviewed, byline names, credentials or certifications without an actual editorial review."
+  },
+  "publishedAt": null,
+  "modifiedAt": null,
+  "structuredDataTemplate": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "سير العمل في خط ذبح الأبقار: تخطيط نقاط النقل بتصميم ثلاثي الأبعاد",
+    "description": "تعرف على تخطيط سير العمل في خط ذبح الأبقار بتصميم ثلاثي الأبعاد، من نقل الذبائح إلى محطات التجهيز وفصل المسارات والطاقة الإنتاجية.",
+    "inLanguage": "ar",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-sayr-amal-khat-dhabh-al-abqar-3d"
+    },
+    "url": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-sayr-amal-khat-dhabh-al-abqar-3d",
+    "image": [
+      "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d.webp"
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    }
+  },
+  "notes": [
+    "URLs are PROPOSED until checked against the real CMS router.",
+    "Set real publication/update timestamps when publishing.",
+    "Do not add a meta keywords tag; keyword lists are editorial targets."
+  ]
+}

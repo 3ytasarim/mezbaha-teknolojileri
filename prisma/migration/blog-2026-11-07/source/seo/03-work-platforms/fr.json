@@ -1,0 +1,116 @@
+{
+  "postId": "03-work-platforms",
+  "translationGroup": "03-work-platforms",
+  "locale": "fr",
+  "htmlLang": "fr",
+  "htmlDir": "ltr",
+  "draft": true,
+  "h1": "Plateformes de travail d'abattoir : accès opérateur en plan 3D",
+  "metaTitle": "Plateformes de travail d'abattoir : accès en 3D",
+  "metaDescription": "Implantation 3D de plateformes de travail d'abattoir : hauteur, portée, escaliers, garde-corps, hygiène et rails aériens.",
+  "excerpt": "Checklist d'accès des opérateurs et de coordination des plateformes avec le transport des carcasses.",
+  "slug": "plateformes-travail-abattoir-acces-operateur-3d",
+  "primaryKeyword": "plateformes de travail abattoir",
+  "secondaryKeywords": [
+    "accès opérateur ligne bovine",
+    "plateforme de traitement carcasses",
+    "ergonomie abattoir",
+    "rails aériens bovins"
+  ],
+  "canonicalCandidate": "https://www.mezbahateknolojileri.com/fr/blog/plateformes-travail-abattoir-acces-operateur-3d",
+  "hreflangCandidates": {
+    "en-US": "https://www.mezbahateknolojileri.com/blog/slaughterhouse-work-platform-layout-3d",
+    "de": "https://www.mezbahateknolojileri.com/de/blog/arbeitsbuehnen-schlachthof-zugang-3d",
+    "ar": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-mansat-amal-maslakh-wusul-3d",
+    "tr": "https://www.mezbahateknolojileri.com/tr/blog/mezbaha-calisma-platformu-yerlesimi-3d",
+    "ru": "https://www.mezbahateknolojileri.com/ru/blog/rabochie-platformy-boyni-dostup-operatora-3d",
+    "fr": "https://www.mezbahateknolojileri.com/fr/blog/plateformes-travail-abattoir-acces-operateur-3d",
+    "x-default": "https://www.mezbahateknolojileri.com/blog/slaughterhouse-work-platform-layout-3d"
+  },
+  "robots": "index, follow",
+  "openGraph": {
+    "type": "article",
+    "title": "Plateformes de travail d'abattoir : accès en 3D",
+    "description": "Implantation 3D de plateformes de travail d'abattoir : hauteur, portée, escaliers, garde-corps, hygiène et rails aériens.",
+    "url": "https://www.mezbahateknolojileri.com/fr/blog/plateformes-travail-abattoir-acces-operateur-3d",
+    "locale": "fr_FR",
+    "imageCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-og.jpg",
+    "imageAlt": "Vue 3D des plateformes de travail, escaliers et accès des opérateurs le long d'une ligne de carcasses bovines"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Plateformes de travail d'abattoir : accès en 3D",
+    "description": "Implantation 3D de plateformes de travail d'abattoir : hauteur, portée, escaliers, garde-corps, hygiène et rails aériens."
+  },
+  "imageSEO": {
+    "sourceOriginal": "WhatsApp Image 2026-11-05 at 12.08.21.jpeg",
+    "webpFilename": "slaughterhouse-work-platform-operator-access-3d.webp",
+    "webpCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d.webp",
+    "width": 1600,
+    "height": 900,
+    "alt": "Vue 3D des plateformes de travail, escaliers et accès des opérateurs le long d'une ligne de carcasses bovines",
+    "caption": "Figure 3. Illustration conceptuelle des plateformes et escaliers desservant plusieurs postes de traitement.",
+    "isConceptual3DRendering": true,
+    "responsiveSrcset": [
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d-800w.webp",
+        "width": 800
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d-1200w.webp",
+        "width": 1200
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d-1600w.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "contentFile": "posts/03-work-platforms/fr.md",
+  "author": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "expertReview": {
+    "status": "not_verified",
+    "note": "Do not publish expert-reviewed, byline names, credentials or certifications without an actual editorial review."
+  },
+  "publishedAt": null,
+  "modifiedAt": null,
+  "structuredDataTemplate": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Plateformes de travail d'abattoir : accès opérateur en plan 3D",
+    "description": "Implantation 3D de plateformes de travail d'abattoir : hauteur, portée, escaliers, garde-corps, hygiène et rails aériens.",
+    "inLanguage": "fr",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.mezbahateknolojileri.com/fr/blog/plateformes-travail-abattoir-acces-operateur-3d"
+    },
+    "url": "https://www.mezbahateknolojileri.com/fr/blog/plateformes-travail-abattoir-acces-operateur-3d",
+    "image": [
+      "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d.webp"
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    }
+  },
+  "notes": [
+    "URLs are PROPOSED until checked against the real CMS router.",
+    "Set real publication/update timestamps when publishing.",
+    "Do not add a meta keywords tag; keyword lists are editorial targets."
+  ]
+}

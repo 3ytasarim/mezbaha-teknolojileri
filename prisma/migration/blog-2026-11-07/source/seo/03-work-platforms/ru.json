@@ -1,0 +1,116 @@
+{
+  "postId": "03-work-platforms",
+  "translationGroup": "03-work-platforms",
+  "locale": "ru",
+  "htmlLang": "ru",
+  "htmlDir": "ltr",
+  "draft": true,
+  "h1": "Рабочие платформы на бойне: доступ оператора в 3D-планировке",
+  "metaTitle": "Рабочие платформы бойни: 3D-планировка доступа",
+  "metaDescription": "Планировка рабочих платформ бойни в 3D: высота и досягаемость, лестницы, ограждения, санитарная обработка и подвесные пути.",
+  "excerpt": "Чек-лист для согласования рабочих площадок и доступа операторов вдоль линии обработки КРС.",
+  "slug": "rabochie-platformy-boyni-dostup-operatora-3d",
+  "primaryKeyword": "рабочие платформы бойни",
+  "secondaryKeywords": [
+    "площадки обработки туш",
+    "эргономика мясопереработки",
+    "доступ операторов бойни",
+    "подвесные пути КРС"
+  ],
+  "canonicalCandidate": "https://www.mezbahateknolojileri.com/ru/blog/rabochie-platformy-boyni-dostup-operatora-3d",
+  "hreflangCandidates": {
+    "en-US": "https://www.mezbahateknolojileri.com/blog/slaughterhouse-work-platform-layout-3d",
+    "de": "https://www.mezbahateknolojileri.com/de/blog/arbeitsbuehnen-schlachthof-zugang-3d",
+    "ar": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-mansat-amal-maslakh-wusul-3d",
+    "tr": "https://www.mezbahateknolojileri.com/tr/blog/mezbaha-calisma-platformu-yerlesimi-3d",
+    "ru": "https://www.mezbahateknolojileri.com/ru/blog/rabochie-platformy-boyni-dostup-operatora-3d",
+    "fr": "https://www.mezbahateknolojileri.com/fr/blog/plateformes-travail-abattoir-acces-operateur-3d",
+    "x-default": "https://www.mezbahateknolojileri.com/blog/slaughterhouse-work-platform-layout-3d"
+  },
+  "robots": "index, follow",
+  "openGraph": {
+    "type": "article",
+    "title": "Рабочие платформы бойни: 3D-планировка доступа",
+    "description": "Планировка рабочих платформ бойни в 3D: высота и досягаемость, лестницы, ограждения, санитарная обработка и подвесные пути.",
+    "url": "https://www.mezbahateknolojileri.com/ru/blog/rabochie-platformy-boyni-dostup-operatora-3d",
+    "locale": "ru_RU",
+    "imageCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-og.jpg",
+    "imageAlt": "3D-визуализация рабочих платформ, лестниц и мест операторов вдоль линии обработки говяжьих туш"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Рабочие платформы бойни: 3D-планировка доступа",
+    "description": "Планировка рабочих платформ бойни в 3D: высота и досягаемость, лестницы, ограждения, санитарная обработка и подвесные пути."
+  },
+  "imageSEO": {
+    "sourceOriginal": "WhatsApp Image 2026-11-05 at 12.08.21.jpeg",
+    "webpFilename": "slaughterhouse-work-platform-operator-access-3d.webp",
+    "webpCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d.webp",
+    "width": 1600,
+    "height": 900,
+    "alt": "3D-визуализация рабочих платформ, лестниц и мест операторов вдоль линии обработки говяжьих туш",
+    "caption": "Рисунок 3. Концепция размещения площадок и лестниц у подвесной линии обработки туш.",
+    "isConceptual3DRendering": true,
+    "responsiveSrcset": [
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d-800w.webp",
+        "width": 800
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d-1200w.webp",
+        "width": 1200
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d-1600w.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "contentFile": "posts/03-work-platforms/ru.md",
+  "author": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "expertReview": {
+    "status": "not_verified",
+    "note": "Do not publish expert-reviewed, byline names, credentials or certifications without an actual editorial review."
+  },
+  "publishedAt": null,
+  "modifiedAt": null,
+  "structuredDataTemplate": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Рабочие платформы на бойне: доступ оператора в 3D-планировке",
+    "description": "Планировка рабочих платформ бойни в 3D: высота и досягаемость, лестницы, ограждения, санитарная обработка и подвесные пути.",
+    "inLanguage": "ru",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.mezbahateknolojileri.com/ru/blog/rabochie-platformy-boyni-dostup-operatora-3d"
+    },
+    "url": "https://www.mezbahateknolojileri.com/ru/blog/rabochie-platformy-boyni-dostup-operatora-3d",
+    "image": [
+      "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d.webp"
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    }
+  },
+  "notes": [
+    "URLs are PROPOSED until checked against the real CMS router.",
+    "Set real publication/update timestamps when publishing.",
+    "Do not add a meta keywords tag; keyword lists are editorial targets."
+  ]
+}

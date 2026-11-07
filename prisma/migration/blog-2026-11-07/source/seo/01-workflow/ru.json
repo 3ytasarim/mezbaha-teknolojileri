@@ -1,0 +1,116 @@
+{
+  "postId": "01-workflow",
+  "translationGroup": "01-workflow",
+  "locale": "ru",
+  "htmlLang": "ru",
+  "htmlDir": "ltr",
+  "draft": true,
+  "h1": "Технологический поток линии убоя КРС: планирование переходов в 3D",
+  "metaTitle": "Поток линии убоя КРС: 3D-планирование переходов",
+  "metaDescription": "Как спланировать технологический поток линии убоя КРС в 3D: передачу туш, рабочие станции, санитарные маршруты и расчётные данные.",
+  "excerpt": "Практический разбор переходных узлов и этапов обработки туш в концептуальной 3D-модели линии КРС.",
+  "slug": "liniya-uboya-krs-tekhnologicheskiy-potok-3d",
+  "primaryKeyword": "линия убоя КРС",
+  "secondaryKeywords": [
+    "3D планировка бойни",
+    "оборудование для убоя КРС",
+    "передача туш",
+    "мясоперерабатывающая линия"
+  ],
+  "canonicalCandidate": "https://www.mezbahateknolojileri.com/ru/blog/liniya-uboya-krs-tekhnologicheskiy-potok-3d",
+  "hreflangCandidates": {
+    "en-US": "https://www.mezbahateknolojileri.com/blog/cattle-slaughter-line-process-flow-3d",
+    "de": "https://www.mezbahateknolojileri.com/de/blog/rinderschlachtlinie-prozessablauf-3d",
+    "ar": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-sayr-amal-khat-dhabh-al-abqar-3d",
+    "tr": "https://www.mezbahateknolojileri.com/tr/blog/buyukbas-kesim-hatti-is-akisi-3d",
+    "ru": "https://www.mezbahateknolojileri.com/ru/blog/liniya-uboya-krs-tekhnologicheskiy-potok-3d",
+    "fr": "https://www.mezbahateknolojileri.com/fr/blog/flux-ligne-abattage-bovin-transferts-3d",
+    "x-default": "https://www.mezbahateknolojileri.com/blog/cattle-slaughter-line-process-flow-3d"
+  },
+  "robots": "index, follow",
+  "openGraph": {
+    "type": "article",
+    "title": "Поток линии убоя КРС: 3D-планирование переходов",
+    "description": "Как спланировать технологический поток линии убоя КРС в 3D: передачу туш, рабочие станции, санитарные маршруты и расчётные данные.",
+    "url": "https://www.mezbahateknolojileri.com/ru/blog/liniya-uboya-krs-tekhnologicheskiy-potok-3d",
+    "locale": "ru_RU",
+    "imageCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-og.jpg",
+    "imageAlt": "Трёхмерная схема линии убоя КРС с переходными узлами, подвесными путями и площадками обработки туш"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Поток линии убоя КРС: 3D-планирование переходов",
+    "description": "Как спланировать технологический поток линии убоя КРС в 3D: передачу туш, рабочие станции, санитарные маршруты и расчётные данные."
+  },
+  "imageSEO": {
+    "sourceOriginal": "WhatsApp Image 2026-11-05 at 12.08.21 (1).jpeg",
+    "webpFilename": "cattle-slaughter-line-process-flow-3d.webp",
+    "webpCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d.webp",
+    "width": 1600,
+    "height": 900,
+    "alt": "Трёхмерная схема линии убоя КРС с переходными узлами, подвесными путями и площадками обработки туш",
+    "caption": "Рисунок 1. Концепция размещения узлов передачи туш, несущих конструкций и рабочих станций.",
+    "isConceptual3DRendering": true,
+    "responsiveSrcset": [
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d-800w.webp",
+        "width": 800
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d-1200w.webp",
+        "width": 1200
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d-1600w.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "contentFile": "posts/01-workflow/ru.md",
+  "author": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "expertReview": {
+    "status": "not_verified",
+    "note": "Do not publish expert-reviewed, byline names, credentials or certifications without an actual editorial review."
+  },
+  "publishedAt": null,
+  "modifiedAt": null,
+  "structuredDataTemplate": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Технологический поток линии убоя КРС: планирование переходов в 3D",
+    "description": "Как спланировать технологический поток линии убоя КРС в 3D: передачу туш, рабочие станции, санитарные маршруты и расчётные данные.",
+    "inLanguage": "ru",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.mezbahateknolojileri.com/ru/blog/liniya-uboya-krs-tekhnologicheskiy-potok-3d"
+    },
+    "url": "https://www.mezbahateknolojileri.com/ru/blog/liniya-uboya-krs-tekhnologicheskiy-potok-3d",
+    "image": [
+      "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d.webp"
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    }
+  },
+  "notes": [
+    "URLs are PROPOSED until checked against the real CMS router.",
+    "Set real publication/update timestamps when publishing.",
+    "Do not add a meta keywords tag; keyword lists are editorial targets."
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "postId": "02-overhead-rail",
+  "translationGroup": "02-overhead-rail",
+  "locale": "tr",
+  "htmlLang": "tr",
+  "htmlDir": "ltr",
+  "draft": true,
+  "h1": "Mezbaha Üstten Ray Sistemi Tasarımı: Karkas Konveyörü Kontrol Listesi",
+  "metaTitle": "Mezbaha Üstten Ray Sistemi: 3D Karkas Konveyör Rehberi",
+  "metaDescription": "Mezbaha üstten ray sistemi tasarımı için 3D kontrol listesi: karkas konveyörü, askı aralığı, tahrikler, çelik taşıyıcılar ve bakım.",
+  "excerpt": "Karkas konveyör güzergâhını, yapısal yükleri ve teklif öncesi teknik kontrol noktalarını inceleyin.",
+  "slug": "mezbaha-ustten-ray-sistemi-karkas-konveyor-3d",
+  "primaryKeyword": "mezbaha üstten ray sistemi",
+  "secondaryKeywords": [
+    "karkas konveyörü",
+    "büyükbaş karkas taşıma sistemi",
+    "mezbaha raylı sistem",
+    "askı hattı tasarımı"
+  ],
+  "canonicalCandidate": "https://www.mezbahateknolojileri.com/tr/blog/mezbaha-ustten-ray-sistemi-karkas-konveyor-3d",
+  "hreflangCandidates": {
+    "en-US": "https://www.mezbahateknolojileri.com/blog/overhead-meat-rail-system-design-3d",
+    "de": "https://www.mezbahateknolojileri.com/de/blog/rohrbahnsystem-schlachthof-3d-checkliste",
+    "ar": "https://www.mezbahateknolojileri.com/ar/blog/nizam-sikak-ulwiyya-naql-dhabaeh-3d",
+    "tr": "https://www.mezbahateknolojileri.com/tr/blog/mezbaha-ustten-ray-sistemi-karkas-konveyor-3d",
+    "ru": "https://www.mezbahateknolojileri.com/ru/blog/podvesnye-puti-tush-krs-konveyer-3d",
+    "fr": "https://www.mezbahateknolojileri.com/fr/blog/rail-aerien-abattoir-convoyeur-carcasses-3d",
+    "x-default": "https://www.mezbahateknolojileri.com/blog/overhead-meat-rail-system-design-3d"
+  },
+  "robots": "index, follow",
+  "openGraph": {
+    "type": "article",
+    "title": "Mezbaha Üstten Ray Sistemi: 3D Karkas Konveyör Rehberi",
+    "description": "Mezbaha üstten ray sistemi tasarımı için 3D kontrol listesi: karkas konveyörü, askı aralığı, tahrikler, çelik taşıyıcılar ve bakım.",
+    "url": "https://www.mezbahateknolojileri.com/tr/blog/mezbaha-ustten-ray-sistemi-karkas-konveyor-3d",
+    "locale": "tr_TR",
+    "imageCandidate": "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-og.jpg",
+    "imageAlt": "Karkas konveyörleri, üstten raylar, motor tahrikleri ve askılı karkasları gösteren 3D mezbaha modeli"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Mezbaha Üstten Ray Sistemi: 3D Karkas Konveyör Rehberi",
+    "description": "Mezbaha üstten ray sistemi tasarımı için 3D kontrol listesi: karkas konveyörü, askı aralığı, tahrikler, çelik taşıyıcılar ve bakım."
+  },
+  "imageSEO": {
+    "sourceOriginal": "WhatsApp Image 2026-11-05 at 12.08.21 (2).jpeg",
+    "webpFilename": "overhead-meat-rail-beef-carcass-conveyor-3d.webp",
+    "webpCandidate": "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-3d.webp",
+    "width": 1600,
+    "height": 900,
+    "alt": "Karkas konveyörleri, üstten raylar, motor tahrikleri ve askılı karkasları gösteren 3D mezbaha modeli",
+    "caption": "Şekil 2. Karkas askı rayları, tahrik üniteleri ve transfer bölgelerinin kavramsal görünümü.",
+    "isConceptual3DRendering": true,
+    "responsiveSrcset": [
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-3d-800w.webp",
+        "width": 800
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-3d-1200w.webp",
+        "width": 1200
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-3d-1600w.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "contentFile": "posts/02-overhead-rail/tr.md",
+  "author": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "expertReview": {
+    "status": "not_verified",
+    "note": "Do not publish expert-reviewed, byline names, credentials or certifications without an actual editorial review."
+  },
+  "publishedAt": null,
+  "modifiedAt": null,
+  "structuredDataTemplate": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Mezbaha Üstten Ray Sistemi Tasarımı: Karkas Konveyörü Kontrol Listesi",
+    "description": "Mezbaha üstten ray sistemi tasarımı için 3D kontrol listesi: karkas konveyörü, askı aralığı, tahrikler, çelik taşıyıcılar ve bakım.",
+    "inLanguage": "tr",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.mezbahateknolojileri.com/tr/blog/mezbaha-ustten-ray-sistemi-karkas-konveyor-3d"
+    },
+    "url": "https://www.mezbahateknolojileri.com/tr/blog/mezbaha-ustten-ray-sistemi-karkas-konveyor-3d",
+    "image": [
+      "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-3d.webp"
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    }
+  },
+  "notes": [
+    "URLs are PROPOSED until checked against the real CMS router.",
+    "Set real publication/update timestamps when publishing.",
+    "Do not add a meta keywords tag; keyword lists are editorial targets."
+  ]
+}

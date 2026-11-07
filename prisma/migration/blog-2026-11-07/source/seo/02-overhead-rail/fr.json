@@ -1,0 +1,116 @@
+{
+  "postId": "02-overhead-rail",
+  "translationGroup": "02-overhead-rail",
+  "locale": "fr",
+  "htmlLang": "fr",
+  "htmlDir": "ltr",
+  "draft": true,
+  "h1": "Rail aérien d'abattoir : checklist 3D du convoyeur de carcasses",
+  "metaTitle": "Rail aérien d'abattoir : checklist 3D du convoyeur",
+  "metaDescription": "Checklist 3D pour un rail aérien d'abattoir bovin : charges, crochets, convoyeurs de carcasses, entraînements et entretien.",
+  "excerpt": "Comment définir les rails, supports et transferts des carcasses pour consulter les fournisseurs d'équipement.",
+  "slug": "rail-aerien-abattoir-convoyeur-carcasses-3d",
+  "primaryKeyword": "rail aérien abattoir",
+  "secondaryKeywords": [
+    "convoyeur de carcasses bovines",
+    "transport aérien de viande",
+    "équipements de convoyage abattoir",
+    "plan de rail carcasses"
+  ],
+  "canonicalCandidate": "https://www.mezbahateknolojileri.com/fr/blog/rail-aerien-abattoir-convoyeur-carcasses-3d",
+  "hreflangCandidates": {
+    "en-US": "https://www.mezbahateknolojileri.com/blog/overhead-meat-rail-system-design-3d",
+    "de": "https://www.mezbahateknolojileri.com/de/blog/rohrbahnsystem-schlachthof-3d-checkliste",
+    "ar": "https://www.mezbahateknolojileri.com/ar/blog/nizam-sikak-ulwiyya-naql-dhabaeh-3d",
+    "tr": "https://www.mezbahateknolojileri.com/tr/blog/mezbaha-ustten-ray-sistemi-karkas-konveyor-3d",
+    "ru": "https://www.mezbahateknolojileri.com/ru/blog/podvesnye-puti-tush-krs-konveyer-3d",
+    "fr": "https://www.mezbahateknolojileri.com/fr/blog/rail-aerien-abattoir-convoyeur-carcasses-3d",
+    "x-default": "https://www.mezbahateknolojileri.com/blog/overhead-meat-rail-system-design-3d"
+  },
+  "robots": "index, follow",
+  "openGraph": {
+    "type": "article",
+    "title": "Rail aérien d'abattoir : checklist 3D du convoyeur",
+    "description": "Checklist 3D pour un rail aérien d'abattoir bovin : charges, crochets, convoyeurs de carcasses, entraînements et entretien.",
+    "url": "https://www.mezbahateknolojileri.com/fr/blog/rail-aerien-abattoir-convoyeur-carcasses-3d",
+    "locale": "fr_FR",
+    "imageCandidate": "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-og.jpg",
+    "imageAlt": "Rendu 3D de rails aériens pour carcasses bovines avec convoyeurs, entraînements et crochets suspendus"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Rail aérien d'abattoir : checklist 3D du convoyeur",
+    "description": "Checklist 3D pour un rail aérien d'abattoir bovin : charges, crochets, convoyeurs de carcasses, entraînements et entretien."
+  },
+  "imageSEO": {
+    "sourceOriginal": "WhatsApp Image 2026-11-05 at 12.08.21 (2).jpeg",
+    "webpFilename": "overhead-meat-rail-beef-carcass-conveyor-3d.webp",
+    "webpCandidate": "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-3d.webp",
+    "width": 1600,
+    "height": 900,
+    "alt": "Rendu 3D de rails aériens pour carcasses bovines avec convoyeurs, entraînements et crochets suspendus",
+    "caption": "Figure 2. Vue conceptuelle du réseau de transport des carcasses, des entraînements et des zones de transfert.",
+    "isConceptual3DRendering": true,
+    "responsiveSrcset": [
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-3d-800w.webp",
+        "width": 800
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-3d-1200w.webp",
+        "width": 1200
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-3d-1600w.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "contentFile": "posts/02-overhead-rail/fr.md",
+  "author": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "expertReview": {
+    "status": "not_verified",
+    "note": "Do not publish expert-reviewed, byline names, credentials or certifications without an actual editorial review."
+  },
+  "publishedAt": null,
+  "modifiedAt": null,
+  "structuredDataTemplate": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Rail aérien d'abattoir : checklist 3D du convoyeur de carcasses",
+    "description": "Checklist 3D pour un rail aérien d'abattoir bovin : charges, crochets, convoyeurs de carcasses, entraînements et entretien.",
+    "inLanguage": "fr",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.mezbahateknolojileri.com/fr/blog/rail-aerien-abattoir-convoyeur-carcasses-3d"
+    },
+    "url": "https://www.mezbahateknolojileri.com/fr/blog/rail-aerien-abattoir-convoyeur-carcasses-3d",
+    "image": [
+      "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-3d.webp"
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    }
+  },
+  "notes": [
+    "URLs are PROPOSED until checked against the real CMS router.",
+    "Set real publication/update timestamps when publishing.",
+    "Do not add a meta keywords tag; keyword lists are editorial targets."
+  ]
+}

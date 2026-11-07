@@ -1,0 +1,116 @@
+{
+  "postId": "01-workflow",
+  "translationGroup": "01-workflow",
+  "locale": "tr",
+  "htmlLang": "tr",
+  "htmlDir": "ltr",
+  "draft": true,
+  "h1": "Büyükbaş Kesim Hattı İş Akışı: 3D Tasarımda Transfer Noktalarını Planlamak",
+  "metaTitle": "Büyükbaş Kesim Hattı İş Akışı: 3D Transfer Planlaması",
+  "metaDescription": "Büyükbaş kesim hattı iş akışını 3D modelle inceleyin: karkas transferi, istasyon süreleri, hijyen bölgeleri ve ekipman planlama adımları.",
+  "excerpt": "Kavramsal 3D kesim hattı üzerinde transfer noktalarını, çalışma akışını ve teknik teklif için gerekli bilgileri öğrenin.",
+  "slug": "buyukbas-kesim-hatti-is-akisi-3d",
+  "primaryKeyword": "büyükbaş kesim hattı iş akışı",
+  "secondaryKeywords": [
+    "büyükbaş mezbaha yerleşimi",
+    "karkas transfer sistemi",
+    "kesim hattı ekipman planlama",
+    "3D mezbaha tasarımı"
+  ],
+  "canonicalCandidate": "https://www.mezbahateknolojileri.com/tr/blog/buyukbas-kesim-hatti-is-akisi-3d",
+  "hreflangCandidates": {
+    "en-US": "https://www.mezbahateknolojileri.com/blog/cattle-slaughter-line-process-flow-3d",
+    "de": "https://www.mezbahateknolojileri.com/de/blog/rinderschlachtlinie-prozessablauf-3d",
+    "ar": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-sayr-amal-khat-dhabh-al-abqar-3d",
+    "tr": "https://www.mezbahateknolojileri.com/tr/blog/buyukbas-kesim-hatti-is-akisi-3d",
+    "ru": "https://www.mezbahateknolojileri.com/ru/blog/liniya-uboya-krs-tekhnologicheskiy-potok-3d",
+    "fr": "https://www.mezbahateknolojileri.com/fr/blog/flux-ligne-abattage-bovin-transferts-3d",
+    "x-default": "https://www.mezbahateknolojileri.com/blog/cattle-slaughter-line-process-flow-3d"
+  },
+  "robots": "index, follow",
+  "openGraph": {
+    "type": "article",
+    "title": "Büyükbaş Kesim Hattı İş Akışı: 3D Transfer Planlaması",
+    "description": "Büyükbaş kesim hattı iş akışını 3D modelle inceleyin: karkas transferi, istasyon süreleri, hijyen bölgeleri ve ekipman planlama adımları.",
+    "url": "https://www.mezbahateknolojileri.com/tr/blog/buyukbas-kesim-hatti-is-akisi-3d",
+    "locale": "tr_TR",
+    "imageCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-og.jpg",
+    "imageAlt": "Büyükbaş kesim hattında transfer sistemlerini, üst rayları ve karkas işleme platformlarını gösteren 3D tasarım"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Büyükbaş Kesim Hattı İş Akışı: 3D Transfer Planlaması",
+    "description": "Büyükbaş kesim hattı iş akışını 3D modelle inceleyin: karkas transferi, istasyon süreleri, hijyen bölgeleri ve ekipman planlama adımları."
+  },
+  "imageSEO": {
+    "sourceOriginal": "WhatsApp Image 2026-11-05 at 12.08.21 (1).jpeg",
+    "webpFilename": "cattle-slaughter-line-process-flow-3d.webp",
+    "webpCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d.webp",
+    "width": 1600,
+    "height": 900,
+    "alt": "Büyükbaş kesim hattında transfer sistemlerini, üst rayları ve karkas işleme platformlarını gösteren 3D tasarım",
+    "caption": "Şekil 1. Karkas aktarımı, taşıyıcı konstrüksiyon ve çalışma istasyonlarının ilişkisini gösteren kavramsal 3D kesim hattı.",
+    "isConceptual3DRendering": true,
+    "responsiveSrcset": [
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d-800w.webp",
+        "width": 800
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d-1200w.webp",
+        "width": 1200
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d-1600w.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "contentFile": "posts/01-workflow/tr.md",
+  "author": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "expertReview": {
+    "status": "not_verified",
+    "note": "Do not publish expert-reviewed, byline names, credentials or certifications without an actual editorial review."
+  },
+  "publishedAt": null,
+  "modifiedAt": null,
+  "structuredDataTemplate": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Büyükbaş Kesim Hattı İş Akışı: 3D Tasarımda Transfer Noktalarını Planlamak",
+    "description": "Büyükbaş kesim hattı iş akışını 3D modelle inceleyin: karkas transferi, istasyon süreleri, hijyen bölgeleri ve ekipman planlama adımları.",
+    "inLanguage": "tr",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.mezbahateknolojileri.com/tr/blog/buyukbas-kesim-hatti-is-akisi-3d"
+    },
+    "url": "https://www.mezbahateknolojileri.com/tr/blog/buyukbas-kesim-hatti-is-akisi-3d",
+    "image": [
+      "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d.webp"
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    }
+  },
+  "notes": [
+    "URLs are PROPOSED until checked against the real CMS router.",
+    "Set real publication/update timestamps when publishing.",
+    "Do not add a meta keywords tag; keyword lists are editorial targets."
+  ]
+}

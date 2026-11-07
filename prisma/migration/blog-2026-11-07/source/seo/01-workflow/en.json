@@ -1,0 +1,117 @@
+{
+  "postId": "01-workflow",
+  "translationGroup": "01-workflow",
+  "locale": "en-US",
+  "htmlLang": "en",
+  "htmlDir": "ltr",
+  "draft": true,
+  "h1": "Cattle Slaughter Line Process Flow: Planning Every Transfer in 3D",
+  "metaTitle": "Cattle Slaughter Line Process Flow: 3D Transfer Planning",
+  "metaDescription": "See how a cattle slaughter line process flow is planned in 3D, from carcass transfer and station timing to hygiene zoning and equipment layout.",
+  "excerpt": "A practical 3D review of cattle slaughter line workflow, carcass transfer interfaces and the key inputs for an equipment quotation.",
+  "slug": "cattle-slaughter-line-process-flow-3d",
+  "primaryKeyword": "cattle slaughter line process flow",
+  "secondaryKeywords": [
+    "beef processing line layout",
+    "cattle slaughterhouse equipment",
+    "beef slaughter line workflow",
+    "carcass transfer equipment",
+    "slaughterhouse equipment planning"
+  ],
+  "canonicalCandidate": "https://www.mezbahateknolojileri.com/blog/cattle-slaughter-line-process-flow-3d",
+  "hreflangCandidates": {
+    "en-US": "https://www.mezbahateknolojileri.com/blog/cattle-slaughter-line-process-flow-3d",
+    "de": "https://www.mezbahateknolojileri.com/de/blog/rinderschlachtlinie-prozessablauf-3d",
+    "ar": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-sayr-amal-khat-dhabh-al-abqar-3d",
+    "tr": "https://www.mezbahateknolojileri.com/tr/blog/buyukbas-kesim-hatti-is-akisi-3d",
+    "ru": "https://www.mezbahateknolojileri.com/ru/blog/liniya-uboya-krs-tekhnologicheskiy-potok-3d",
+    "fr": "https://www.mezbahateknolojileri.com/fr/blog/flux-ligne-abattage-bovin-transferts-3d",
+    "x-default": "https://www.mezbahateknolojileri.com/blog/cattle-slaughter-line-process-flow-3d"
+  },
+  "robots": "index, follow",
+  "openGraph": {
+    "type": "article",
+    "title": "Cattle Slaughter Line Process Flow: 3D Transfer Planning",
+    "description": "See how a cattle slaughter line process flow is planned in 3D, from carcass transfer and station timing to hygiene zoning and equipment layout.",
+    "url": "https://www.mezbahateknolojileri.com/blog/cattle-slaughter-line-process-flow-3d",
+    "locale": "en_US",
+    "imageCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-og.jpg",
+    "imageAlt": "Conceptual 3D cattle slaughter line workflow showing transfer equipment, overhead rails and carcass processing platforms"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Cattle Slaughter Line Process Flow: 3D Transfer Planning",
+    "description": "See how a cattle slaughter line process flow is planned in 3D, from carcass transfer and station timing to hygiene zoning and equipment layout."
+  },
+  "imageSEO": {
+    "sourceOriginal": "WhatsApp Image 2026-11-05 at 12.08.21 (1).jpeg",
+    "webpFilename": "cattle-slaughter-line-process-flow-3d.webp",
+    "webpCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d.webp",
+    "width": 1600,
+    "height": 900,
+    "alt": "Conceptual 3D cattle slaughter line workflow showing transfer equipment, overhead rails and carcass processing platforms",
+    "caption": "Figure 1. Conceptual view of a cattle processing line, including equipment transfer points, support framing and carcass workstations.",
+    "isConceptual3DRendering": true,
+    "responsiveSrcset": [
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d-800w.webp",
+        "width": 800
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d-1200w.webp",
+        "width": 1200
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d-1600w.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "contentFile": "posts/01-workflow/en.md",
+  "author": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "expertReview": {
+    "status": "not_verified",
+    "note": "Do not publish expert-reviewed, byline names, credentials or certifications without an actual editorial review."
+  },
+  "publishedAt": null,
+  "modifiedAt": null,
+  "structuredDataTemplate": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Cattle Slaughter Line Process Flow: Planning Every Transfer in 3D",
+    "description": "See how a cattle slaughter line process flow is planned in 3D, from carcass transfer and station timing to hygiene zoning and equipment layout.",
+    "inLanguage": "en-US",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.mezbahateknolojileri.com/blog/cattle-slaughter-line-process-flow-3d"
+    },
+    "url": "https://www.mezbahateknolojileri.com/blog/cattle-slaughter-line-process-flow-3d",
+    "image": [
+      "https://www.mezbahateknolojileri.com/images/blog/cattle-slaughter-line-process-flow-3d.webp"
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    }
+  },
+  "notes": [
+    "URLs are PROPOSED until checked against the real CMS router.",
+    "Set real publication/update timestamps when publishing.",
+    "Do not add a meta keywords tag; keyword lists are editorial targets."
+  ]
+}

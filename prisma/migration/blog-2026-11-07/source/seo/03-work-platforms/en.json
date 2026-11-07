@@ -1,0 +1,117 @@
+{
+  "postId": "03-work-platforms",
+  "translationGroup": "03-work-platforms",
+  "locale": "en-US",
+  "htmlLang": "en",
+  "htmlDir": "ltr",
+  "draft": true,
+  "h1": "Slaughterhouse Work Platform Layout: Operator Access in a 3D Beef Line",
+  "metaTitle": "Slaughterhouse Work Platform Layout: 3D Access Planning",
+  "metaDescription": "Review slaughterhouse work platform layout in 3D: operator reach, stairs, guardrails, hygiene, overhead rails and station access for beef lines.",
+  "excerpt": "See what to check before specifying work platforms for a cattle processing line, including reach, washdown and rail clearances.",
+  "slug": "slaughterhouse-work-platform-layout-3d",
+  "primaryKeyword": "slaughterhouse work platform layout",
+  "secondaryKeywords": [
+    "cattle processing line platforms",
+    "beef processing operator access",
+    "slaughterhouse working platforms",
+    "meat processing ergonomic platform",
+    "slaughterhouse platform design"
+  ],
+  "canonicalCandidate": "https://www.mezbahateknolojileri.com/blog/slaughterhouse-work-platform-layout-3d",
+  "hreflangCandidates": {
+    "en-US": "https://www.mezbahateknolojileri.com/blog/slaughterhouse-work-platform-layout-3d",
+    "de": "https://www.mezbahateknolojileri.com/de/blog/arbeitsbuehnen-schlachthof-zugang-3d",
+    "ar": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-mansat-amal-maslakh-wusul-3d",
+    "tr": "https://www.mezbahateknolojileri.com/tr/blog/mezbaha-calisma-platformu-yerlesimi-3d",
+    "ru": "https://www.mezbahateknolojileri.com/ru/blog/rabochie-platformy-boyni-dostup-operatora-3d",
+    "fr": "https://www.mezbahateknolojileri.com/fr/blog/plateformes-travail-abattoir-acces-operateur-3d",
+    "x-default": "https://www.mezbahateknolojileri.com/blog/slaughterhouse-work-platform-layout-3d"
+  },
+  "robots": "index, follow",
+  "openGraph": {
+    "type": "article",
+    "title": "Slaughterhouse Work Platform Layout: 3D Access Planning",
+    "description": "Review slaughterhouse work platform layout in 3D: operator reach, stairs, guardrails, hygiene, overhead rails and station access for beef lines.",
+    "url": "https://www.mezbahateknolojileri.com/blog/slaughterhouse-work-platform-layout-3d",
+    "locale": "en_US",
+    "imageCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-og.jpg",
+    "imageAlt": "3D beef slaughter line showing elevated work platforms, steps and operator access beside carcass stations"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Slaughterhouse Work Platform Layout: 3D Access Planning",
+    "description": "Review slaughterhouse work platform layout in 3D: operator reach, stairs, guardrails, hygiene, overhead rails and station access for beef lines."
+  },
+  "imageSEO": {
+    "sourceOriginal": "WhatsApp Image 2026-11-05 at 12.08.21.jpeg",
+    "webpFilename": "slaughterhouse-work-platform-operator-access-3d.webp",
+    "webpCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d.webp",
+    "width": 1600,
+    "height": 900,
+    "alt": "3D beef slaughter line showing elevated work platforms, steps and operator access beside carcass stations",
+    "caption": "Figure 3. Conceptual work-platform arrangement along a beef processing line, showing several operator positions and access stairs.",
+    "isConceptual3DRendering": true,
+    "responsiveSrcset": [
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d-800w.webp",
+        "width": 800
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d-1200w.webp",
+        "width": 1200
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d-1600w.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "contentFile": "posts/03-work-platforms/en.md",
+  "author": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "expertReview": {
+    "status": "not_verified",
+    "note": "Do not publish expert-reviewed, byline names, credentials or certifications without an actual editorial review."
+  },
+  "publishedAt": null,
+  "modifiedAt": null,
+  "structuredDataTemplate": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Slaughterhouse Work Platform Layout: Operator Access in a 3D Beef Line",
+    "description": "Review slaughterhouse work platform layout in 3D: operator reach, stairs, guardrails, hygiene, overhead rails and station access for beef lines.",
+    "inLanguage": "en-US",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.mezbahateknolojileri.com/blog/slaughterhouse-work-platform-layout-3d"
+    },
+    "url": "https://www.mezbahateknolojileri.com/blog/slaughterhouse-work-platform-layout-3d",
+    "image": [
+      "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d.webp"
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    }
+  },
+  "notes": [
+    "URLs are PROPOSED until checked against the real CMS router.",
+    "Set real publication/update timestamps when publishing.",
+    "Do not add a meta keywords tag; keyword lists are editorial targets."
+  ]
+}

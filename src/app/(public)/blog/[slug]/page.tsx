@@ -277,7 +277,7 @@ export default async function BlogPostDetailPage({ params }: PageProps<"/blog/[s
                   <li key={item.id}>
                     <Link href={`/blog/${slugOf(item, locale)}`} className="group flex items-start gap-4 py-4">
                       {item.coverImage && (
-                        <div className="relative h-[68px] w-24 shrink-0 overflow-hidden bg-muted">
+                        <div className="relative aspect-[16/9] w-24 shrink-0 overflow-hidden bg-muted">
                           <Image src={item.coverImage} alt="" fill sizes="96px" className="object-cover transition-transform duration-500 group-hover:scale-105" />
                         </div>
                       )}

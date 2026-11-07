@@ -1,0 +1,116 @@
+{
+  "postId": "02-overhead-rail",
+  "translationGroup": "02-overhead-rail",
+  "locale": "de",
+  "htmlLang": "de",
+  "htmlDir": "ltr",
+  "draft": true,
+  "h1": "Rohrbahnsystem im Schlachthof planen: 3D-Checkliste für Fördertechnik",
+  "metaTitle": "Rohrbahnsystem im Schlachthof: 3D-Checkliste",
+  "metaDescription": "3D-Checkliste für Rohrbahnsysteme im Schlachthof: Schlachtkörperförderer, Aufhängungen, Antriebe, Hakenabstände und Wartung.",
+  "excerpt": "Praxischeck für die Planung von Rinder-Rohrbahnen, Antrieben und Übergaben anhand eines 3D-Konzepts.",
+  "slug": "rohrbahnsystem-schlachthof-3d-checkliste",
+  "primaryKeyword": "Rohrbahnsystem Schlachthof",
+  "secondaryKeywords": [
+    "Schlachtkörperförderer",
+    "Schlachthof Fördertechnik",
+    "Rinder Rohrbahn",
+    "Förderstrecke Fleischverarbeitung"
+  ],
+  "canonicalCandidate": "https://www.mezbahateknolojileri.com/de/blog/rohrbahnsystem-schlachthof-3d-checkliste",
+  "hreflangCandidates": {
+    "en-US": "https://www.mezbahateknolojileri.com/blog/overhead-meat-rail-system-design-3d",
+    "de": "https://www.mezbahateknolojileri.com/de/blog/rohrbahnsystem-schlachthof-3d-checkliste",
+    "ar": "https://www.mezbahateknolojileri.com/ar/blog/nizam-sikak-ulwiyya-naql-dhabaeh-3d",
+    "tr": "https://www.mezbahateknolojileri.com/tr/blog/mezbaha-ustten-ray-sistemi-karkas-konveyor-3d",
+    "ru": "https://www.mezbahateknolojileri.com/ru/blog/podvesnye-puti-tush-krs-konveyer-3d",
+    "fr": "https://www.mezbahateknolojileri.com/fr/blog/rail-aerien-abattoir-convoyeur-carcasses-3d",
+    "x-default": "https://www.mezbahateknolojileri.com/blog/overhead-meat-rail-system-design-3d"
+  },
+  "robots": "index, follow",
+  "openGraph": {
+    "type": "article",
+    "title": "Rohrbahnsystem im Schlachthof: 3D-Checkliste",
+    "description": "3D-Checkliste für Rohrbahnsysteme im Schlachthof: Schlachtkörperförderer, Aufhängungen, Antriebe, Hakenabstände und Wartung.",
+    "url": "https://www.mezbahateknolojileri.com/de/blog/rohrbahnsystem-schlachthof-3d-checkliste",
+    "locale": "de_DE",
+    "imageCandidate": "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-og.jpg",
+    "imageAlt": "3D-Visualisierung von Rohrbahnen, Schlachtkörperförderern, Antrieben und Haken im Rinderschlachthof"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Rohrbahnsystem im Schlachthof: 3D-Checkliste",
+    "description": "3D-Checkliste für Rohrbahnsysteme im Schlachthof: Schlachtkörperförderer, Aufhängungen, Antriebe, Hakenabstände und Wartung."
+  },
+  "imageSEO": {
+    "sourceOriginal": "WhatsApp Image 2026-11-05 at 12.08.21 (2).jpeg",
+    "webpFilename": "overhead-meat-rail-beef-carcass-conveyor-3d.webp",
+    "webpCandidate": "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-3d.webp",
+    "width": 1600,
+    "height": 900,
+    "alt": "3D-Visualisierung von Rohrbahnen, Schlachtkörperförderern, Antrieben und Haken im Rinderschlachthof",
+    "caption": "Abbildung 2. Konzeptmodell von Rohrbahnführung, Antriebspunkten und Schlachtkörperübergaben.",
+    "isConceptual3DRendering": true,
+    "responsiveSrcset": [
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-3d-800w.webp",
+        "width": 800
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-3d-1200w.webp",
+        "width": 1200
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-3d-1600w.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "contentFile": "posts/02-overhead-rail/de.md",
+  "author": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "expertReview": {
+    "status": "not_verified",
+    "note": "Do not publish expert-reviewed, byline names, credentials or certifications without an actual editorial review."
+  },
+  "publishedAt": null,
+  "modifiedAt": null,
+  "structuredDataTemplate": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Rohrbahnsystem im Schlachthof planen: 3D-Checkliste für Fördertechnik",
+    "description": "3D-Checkliste für Rohrbahnsysteme im Schlachthof: Schlachtkörperförderer, Aufhängungen, Antriebe, Hakenabstände und Wartung.",
+    "inLanguage": "de",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.mezbahateknolojileri.com/de/blog/rohrbahnsystem-schlachthof-3d-checkliste"
+    },
+    "url": "https://www.mezbahateknolojileri.com/de/blog/rohrbahnsystem-schlachthof-3d-checkliste",
+    "image": [
+      "https://www.mezbahateknolojileri.com/images/blog/overhead-meat-rail-beef-carcass-conveyor-3d.webp"
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    }
+  },
+  "notes": [
+    "URLs are PROPOSED until checked against the real CMS router.",
+    "Set real publication/update timestamps when publishing.",
+    "Do not add a meta keywords tag; keyword lists are editorial targets."
+  ]
+}

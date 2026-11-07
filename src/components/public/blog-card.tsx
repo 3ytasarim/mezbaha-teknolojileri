@@ -29,7 +29,7 @@ export async function BlogCard({
   return (
     <Link href={`/blog/${slug}`} className="group flex flex-col">
       {image && (
-        <div className="relative aspect-[4/3] overflow-hidden bg-muted">
+        <div className="relative aspect-[16/9] overflow-hidden bg-muted">
           <Image
             src={image}
             alt={imageAlt || title}

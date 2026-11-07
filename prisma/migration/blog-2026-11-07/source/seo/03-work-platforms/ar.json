@@ -1,0 +1,116 @@
+{
+  "postId": "03-work-platforms",
+  "translationGroup": "03-work-platforms",
+  "locale": "ar",
+  "htmlLang": "ar",
+  "htmlDir": "rtl",
+  "draft": true,
+  "h1": "تخطيط منصات العمل في المسالخ: وصول العاملين في خط أبقار ثلاثي الأبعاد",
+  "metaTitle": "تخطيط منصات العمل في المسالخ: وصول العاملين بتصميم 3D",
+  "metaDescription": "خطط منصات العمل في المسالخ باستخدام نموذج ثلاثي الأبعاد: ارتفاعات التشغيل والسلالم والحواجز والنظافة والتنسيق مع السكك.",
+  "excerpt": "مراجعة عملية لارتفاعات المنصات وسلامة الوصول وتنظيف محطات تجهيز الذبائح.",
+  "slug": "takhtit-mansat-amal-maslakh-wusul-3d",
+  "primaryKeyword": "منصات العمل في المسالخ",
+  "secondaryKeywords": [
+    "تخطيط منصات تجهيز الذبائح",
+    "سلامة العاملين في المسالخ",
+    "منصات خط ذبح الأبقار",
+    "نظام السكك المعلقة"
+  ],
+  "canonicalCandidate": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-mansat-amal-maslakh-wusul-3d",
+  "hreflangCandidates": {
+    "en-US": "https://www.mezbahateknolojileri.com/blog/slaughterhouse-work-platform-layout-3d",
+    "de": "https://www.mezbahateknolojileri.com/de/blog/arbeitsbuehnen-schlachthof-zugang-3d",
+    "ar": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-mansat-amal-maslakh-wusul-3d",
+    "tr": "https://www.mezbahateknolojileri.com/tr/blog/mezbaha-calisma-platformu-yerlesimi-3d",
+    "ru": "https://www.mezbahateknolojileri.com/ru/blog/rabochie-platformy-boyni-dostup-operatora-3d",
+    "fr": "https://www.mezbahateknolojileri.com/fr/blog/plateformes-travail-abattoir-acces-operateur-3d",
+    "x-default": "https://www.mezbahateknolojileri.com/blog/slaughterhouse-work-platform-layout-3d"
+  },
+  "robots": "index, follow",
+  "openGraph": {
+    "type": "article",
+    "title": "تخطيط منصات العمل في المسالخ: وصول العاملين بتصميم 3D",
+    "description": "خطط منصات العمل في المسالخ باستخدام نموذج ثلاثي الأبعاد: ارتفاعات التشغيل والسلالم والحواجز والنظافة والتنسيق مع السكك.",
+    "url": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-mansat-amal-maslakh-wusul-3d",
+    "locale": "ar",
+    "imageCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-og.jpg",
+    "imageAlt": "تصميم ثلاثي الأبعاد لمنصات العمل المرتفعة والسلالم ومواقع العاملين بمحاذاة خط تجهيز ذبائح الأبقار"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "تخطيط منصات العمل في المسالخ: وصول العاملين بتصميم 3D",
+    "description": "خطط منصات العمل في المسالخ باستخدام نموذج ثلاثي الأبعاد: ارتفاعات التشغيل والسلالم والحواجز والنظافة والتنسيق مع السكك."
+  },
+  "imageSEO": {
+    "sourceOriginal": "WhatsApp Image 2026-11-05 at 12.08.21.jpeg",
+    "webpFilename": "slaughterhouse-work-platform-operator-access-3d.webp",
+    "webpCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d.webp",
+    "width": 1600,
+    "height": 900,
+    "alt": "تصميم ثلاثي الأبعاد لمنصات العمل المرتفعة والسلالم ومواقع العاملين بمحاذاة خط تجهيز ذبائح الأبقار",
+    "caption": "الشكل 3. توزيع تصوري لمنصات التشغيل ومسارات الوصول بمحاذاة خط الذبائح المعلقة.",
+    "isConceptual3DRendering": true,
+    "responsiveSrcset": [
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d-800w.webp",
+        "width": 800
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d-1200w.webp",
+        "width": 1200
+      },
+      {
+        "urlCandidate": "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d-1600w.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "contentFile": "posts/03-work-platforms/ar.md",
+  "author": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "expertReview": {
+    "status": "not_verified",
+    "note": "Do not publish expert-reviewed, byline names, credentials or certifications without an actual editorial review."
+  },
+  "publishedAt": null,
+  "modifiedAt": null,
+  "structuredDataTemplate": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "تخطيط منصات العمل في المسالخ: وصول العاملين في خط أبقار ثلاثي الأبعاد",
+    "description": "خطط منصات العمل في المسالخ باستخدام نموذج ثلاثي الأبعاد: ارتفاعات التشغيل والسلالم والحواجز والنظافة والتنسيق مع السكك.",
+    "inLanguage": "ar",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-mansat-amal-maslakh-wusul-3d"
+    },
+    "url": "https://www.mezbahateknolojileri.com/ar/blog/takhtit-mansat-amal-maslakh-wusul-3d",
+    "image": [
+      "https://www.mezbahateknolojileri.com/images/blog/slaughterhouse-work-platform-operator-access-3d.webp"
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Mezbaha Teknolojileri",
+      "url": "https://www.mezbahateknolojileri.com"
+    }
+  },
+  "notes": [
+    "URLs are PROPOSED until checked against the real CMS router.",
+    "Set real publication/update timestamps when publishing.",
+    "Do not add a meta keywords tag; keyword lists are editorial targets."
+  ]
+}
