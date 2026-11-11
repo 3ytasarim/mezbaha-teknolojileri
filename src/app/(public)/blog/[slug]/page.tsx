@@ -149,7 +149,27 @@ export default async function BlogPostDetailPage({ params }: PageProps<"/blog/[s
           </div>
         </header>
 
-        {post.coverImage && (
+        {post.coverImage && coverImageMeta && (
+          // Gerçek ölçüleri bilinen kapak: kırpılmaz, tam görünür. Geniş görseller sütunu doldurur; kare/dikey görseller
+          // yükseklik sınırıyla ortalanır (object-contain).
+          <div className="mt-8 flex justify-center bg-muted">
+            <Image
+              src={post.coverImage}
+              alt={coverAlt}
+              width={coverImageMeta.width}
+              height={coverImageMeta.height}
+              fetchPriority="high"
+              loading="eager"
+              sizes="(min-width: 1024px) 1024px, 100vw"
+              className={
+                coverImageMeta.width / coverImageMeta.height >= 1.5
+                  ? "h-auto w-full object-contain"
+                  : "h-auto max-h-[min(80vh,720px)] w-auto max-w-full object-contain"
+              }
+            />
+          </div>
+        )}
+        {post.coverImage && !coverImageMeta && (
           <div className="relative mt-8 aspect-[16/9] overflow-hidden bg-muted">
             <Image
               src={post.coverImage}

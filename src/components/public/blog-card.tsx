@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "@/components/i18n/link";
 import { getLocale } from "@/lib/i18n/server";
 import { LOCALE_META } from "@/lib/i18n/config";
+import { getCoverRatio } from "@/lib/blog-media";
 
 /** Blog kartı (blog listesi, etiket sayfası, "Son Gönderiler"): kapak, kategori, başlık, özet, tarih. */
 export async function BlogCard({
@@ -26,6 +27,9 @@ export async function BlogCard({
   as?: "h2" | "h3";
 }) {
   const locale = await getLocale();
+  // Kare/dikey görseller (oran < 1.5) kırpılmadan tam gösterilir; geniş görseller 16:9 kutuyu doldurur.
+  const ratio = await getCoverRatio(image);
+  const fit = ratio !== null && ratio < 1.5;
   return (
     <Link href={`/blog/${slug}`} className="group flex flex-col">
       {image && (
@@ -35,7 +39,7 @@ export async function BlogCard({
             alt={imageAlt || title}
             fill
             sizes={sizes}
-            className="object-cover transition-transform duration-500 group-hover:scale-105"
+            className={`${fit ? "object-contain" : "object-cover"} transition-transform duration-500 group-hover:scale-105`}
           />
         </div>
       )}

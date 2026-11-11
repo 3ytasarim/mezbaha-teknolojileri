@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{META_TITLE_H1}",
+  "description": "{META_DESCRIPTION}",
+  "inLanguage": "{PAGE_LOCALE}",
+  "image": [
+    "{PUBLIC_URL_OF_UNMODIFIED_IMAGE}"
+  ],
+  "mainEntityOfPage": "{REAL_CANONICAL_URL}",
+  "author": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mezbaha Teknolojileri",
+    "url": "https://www.mezbahateknolojileri.com"
+  },
+  "datePublished": "{REAL_PUBLISHED_AT_ISO8601}",
+  "dateModified": "{REAL_MODIFIED_AT_ISO8601}"
+}

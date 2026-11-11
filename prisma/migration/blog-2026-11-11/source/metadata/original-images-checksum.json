@@ -1,0 +1,35 @@
+[
+  {
+    "postId": "01",
+    "originalFile": "WhatsApp Image 2026-11-10 at 13.22.14.jpeg",
+    "packagedFile": "images/sheep-slaughter-conveyor-installation.jpeg",
+    "sha256Original": "43e8716c9a5106fd27691f25d073567f267b870d9de610c4903203033a66f0d2",
+    "sha256Packaged": "43e8716c9a5106fd27691f25d073567f267b870d9de610c4903203033a66f0d2",
+    "unchangedBytes": true,
+    "width": 1280,
+    "height": 1280,
+    "mime": "image/jpeg"
+  },
+  {
+    "postId": "02",
+    "originalFile": "WhatsApp Image 2026-11-10 at 13.22.15.jpeg",
+    "packagedFile": "images/overhead-sheep-chain-rail-conveyor.jpeg",
+    "sha256Original": "34960d6cb67c80a54d71a77b41e0050a06976704abe617bdc0bc375372224eeb",
+    "sha256Packaged": "34960d6cb67c80a54d71a77b41e0050a06976704abe617bdc0bc375372224eeb",
+    "unchangedBytes": true,
+    "width": 1280,
+    "height": 1280,
+    "mime": "image/jpeg"
+  },
+  {
+    "postId": "03",
+    "originalFile": "WhatsApp Image 2026-11-10 at 13.22.16.jpeg",
+    "packagedFile": "images/sheep-processing-green-belt-conveyor.jpeg",
+    "sha256Original": "b9015add28ff86cc5081e3736b13137e96e130c7bac9c881b1e2ed75ae58a316",
+    "sha256Packaged": "b9015add28ff86cc5081e3736b13137e96e130c7bac9c881b1e2ed75ae58a316",
+    "unchangedBytes": true,
+    "width": 1280,
+    "height": 1280,
+    "mime": "image/jpeg"
+  }
+]
